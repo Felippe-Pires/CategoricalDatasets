@@ -1,0 +1,703 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,jundice,austim,contry_of_res,used_app_before,result,age_desc,outlier
+1,1,1,1,0,0,1,1,0,0,26,f,no,no,United States,no,6,18 and more,NO
+1,1,0,1,0,0,0,1,0,1,24,m,no,yes,Brazil,no,5,18 and more,NO
+1,1,0,1,1,0,1,1,1,1,27,m,yes,yes,Spain,no,8,18 and more,YES
+1,1,0,1,0,0,1,1,0,1,35,f,no,yes,United States,no,6,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,40,f,no,no,Egypt,no,2,18 and more,NO
+1,1,1,1,1,0,1,1,1,1,36,m,yes,no,United States,no,9,18 and more,YES
+0,1,0,0,0,0,0,1,0,0,17,f,no,no,United States,no,2,18 and more,NO
+1,1,1,1,0,0,0,0,1,0,64,m,no,no,New Zealand,no,5,18 and more,NO
+1,1,0,0,1,0,0,1,1,1,29,m,no,no,United States,no,6,18 and more,NO
+1,1,1,1,0,1,1,1,1,0,17,m,yes,yes,Bahamas,no,8,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,33,m,no,no,United States,no,10,18 and more,YES
+0,1,0,1,1,1,1,0,0,1,18,f,no,no,Burundi,no,6,18 and more,NO
+0,1,1,1,1,1,0,0,1,0,17,f,no,no,Bahamas,no,6,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,17,m,no,no,Austria,no,4,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,17,f,no,no,Argentina,no,4,18 and more,NO
+1,1,0,1,1,0,0,1,0,1,18,m,no,yes,New Zealand,no,6,18 and more,NO
+1,0,0,0,0,0,1,1,1,1,31,m,no,no,Jordan,no,5,18 and more,NO
+0,0,0,0,0,0,0,1,0,1,30,m,no,no,Ireland,no,2,18 and more,NO
+0,0,1,0,1,1,0,0,0,0,35,f,no,yes,United Arab Emirates,no,3,18 and more,NO
+0,0,0,0,0,0,1,1,0,1,34,m,yes,no,United Arab Emirates,no,3,18 and more,NO
+0,1,1,1,0,0,0,0,0,0,38,m,no,no,United Arab Emirates,no,3,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,27,f,no,no,United Arab Emirates,no,0,18 and more,NO
+0,0,0,1,0,0,1,1,1,1,27,m,no,no,Afghanistan,no,5,18 and more,NO
+0,0,0,0,0,0,0,1,0,1,42,m,yes,no,United Arab Emirates,no,2,18 and more,NO
+1,1,1,1,0,0,0,1,0,0,43,m,no,no,Lebanon,no,5,18 and more,NO
+0,1,1,0,0,0,0,1,0,0,24,f,yes,no,Afghanistan,no,3,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,40,m,yes,yes,United Arab Emirates,no,1,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,40,m,yes,yes,Afghanistan,no,1,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,48,m,no,no,New Zealand,no,1,18 and more,NO
+0,1,1,0,0,0,0,0,1,1,31,m,no,no,United Kingdom,no,4,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,18,m,no,no,United Kingdom,no,0,18 and more,NO
+1,0,0,1,1,1,1,1,0,1,37,f,no,yes,United States,no,7,18 and more,YES
+1,1,0,0,0,0,1,0,0,1,55,f,no,no,New Zealand,no,4,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,18,f,yes,no,South Africa,no,10,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,18,f,no,no,South Africa,no,10,18 and more,YES
+0,0,1,0,0,0,0,0,0,0,55,m,no,no,New Zealand,no,1,18 and more,NO
+0,1,1,0,1,0,0,1,1,1,50,m,no,no,United Arab Emirates,no,6,18 and more,NO
+1,0,1,1,1,1,0,0,1,0,34,f,no,no,New Zealand,no,6,18 and more,NO
+1,0,0,1,1,1,1,0,1,1,53,f,no,no,New Zealand,no,7,18 and more,YES
+1,0,1,1,0,1,1,1,1,1,35,f,no,yes,United States,no,8,18 and more,YES
+1,0,1,1,1,0,1,1,0,1,20,f,yes,no,Italy,no,7,18 and more,YES
+0,0,0,0,1,1,0,0,0,0,28,f,no,no,Pakistan,no,2,18 and more,NO
+0,0,1,1,0,0,0,0,0,1,34,f,no,yes,Egypt,no,3,18 and more,NO
+0,1,1,1,0,0,0,0,0,1,36,f,yes,yes,United States,no,4,18 and more,NO
+1,1,1,1,1,1,0,1,0,1,27,f,no,no,New Zealand,no,8,18 and more,YES
+1,0,1,1,1,1,0,1,1,0,53,f,no,no,New Zealand,no,7,18 and more,YES
+1,1,1,1,0,1,0,0,0,0,24,f,no,no,New Zealand,no,5,18 and more,NO
+0,0,1,1,1,0,1,0,0,0,24,m,no,no,New Zealand,no,4,18 and more,NO
+0,1,1,0,0,1,0,0,0,0,55,m,no,no,New Zealand,no,3,18 and more,NO
+1,1,0,0,0,1,1,1,0,1,30,f,no,no,Bangladesh,no,6,18 and more,NO
+1,0,0,1,0,0,0,1,0,0,21,f,no,no,Chile,no,3,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,35,f,no,no,France,no,10,18 and more,YES
+1,0,0,0,0,0,0,0,0,0,383,f,no,no,New Zealand,no,1,18 and more,NO
+1,0,1,1,1,1,1,1,0,1,21,m,no,yes,Brazil,no,8,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,47,m,no,no,United States,no,10,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,30,f,no,no,China,no,9,18 and more,YES
+1,0,1,1,1,1,0,1,1,1,28,f,no,no,Australia,no,8,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,43,f,no,no,Australia,no,9,18 and more,YES
+1,0,0,0,1,0,0,1,0,0,32,f,no,yes,Canada,no,3,18 and more,NO
+1,1,1,1,0,0,0,1,0,0,44,f,no,no,Australia,no,5,18 and more,NO
+1,0,1,1,1,1,1,1,0,1,20,f,no,no,Canada,no,8,18 and more,YES
+1,0,1,1,0,1,1,1,0,1,20,f,no,no,Canada,yes,7,18 and more,YES
+1,0,0,1,1,0,0,1,1,0,19,m,no,no,Australia,no,5,18 and more,NO
+1,1,1,1,1,1,1,1,0,1,29,f,no,no,Australia,no,9,18 and more,YES
+1,0,1,0,0,0,0,1,0,0,21,m,no,no,United States,no,3,18 and more,NO
+0,1,0,0,0,0,0,1,0,0,27,m,no,no,France,no,2,18 and more,NO
+1,0,1,0,1,1,1,1,0,0,21,m,no,no,United States,no,6,18 and more,NO
+1,0,0,0,1,0,1,0,0,1,35,m,no,no,Saudi Arabia,no,4,18 and more,NO
+0,0,0,0,1,0,0,0,0,0,42,m,no,no,New Zealand,no,1,18 and more,NO
+1,1,0,0,0,0,1,1,0,1,29,f,no,no,New Zealand,no,5,18 and more,NO
+0,0,1,1,0,0,0,1,0,0,58,m,no,no,New Zealand,no,3,18 and more,NO
+1,0,1,1,0,0,1,1,0,1,21,m,no,no,United States,no,6,18 and more,NO
+1,1,1,0,0,0,0,1,1,1,21,m,no,no,United States,no,6,18 and more,NO
+0,0,1,1,1,0,0,1,1,1,37,f,no,yes,United States,no,6,18 and more,NO
+1,1,0,1,1,1,1,1,0,0,21,m,no,no,United States,no,7,18 and more,YES
+1,0,0,0,0,0,1,1,0,0,20,m,no,no,United States,no,3,18 and more,NO
+1,1,0,1,1,1,1,1,1,0,33,f,no,yes,United States,no,8,18 and more,YES
+1,0,0,1,1,0,0,0,0,1,20,m,no,no,United States,no,4,18 and more,NO
+1,1,0,0,0,0,0,0,0,0,45,f,yes,no,Jordan,no,2,18 and more,NO
+0,0,1,1,0,0,1,1,0,1,32,m,yes,yes,Afghanistan,no,5,18 and more,NO
+1,0,0,0,0,0,1,0,0,1,30,m,no,no,Jordan,no,3,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,33,f,no,yes,Netherlands,no,10,18 and more,YES
+0,0,1,0,1,0,0,1,0,1,42,f,no,no,Jordan,no,4,18 and more,NO
+1,1,0,0,0,0,0,0,0,0,17,f,no,no,New Zealand,no,2,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,27,f,no,no,United States,no,3,18 and more,NO
+1,0,0,1,1,1,1,1,1,1,35,f,no,yes,Afghanistan,no,8,18 and more,YES
+1,0,0,0,0,0,0,0,0,0,37,m,no,no,United Kingdom,no,1,18 and more,NO
+1,0,0,0,0,0,0,1,1,1,30,f,no,yes,United Kingdom,no,4,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,29,f,no,no,New Zealand,no,9,18 and more,YES
+1,0,1,1,0,0,0,0,0,1,17,f,no,yes,Romania,no,4,18 and more,NO
+0,0,0,1,1,1,0,1,0,1,22,f,no,no,New Zealand,no,5,18 and more,NO
+1,1,1,0,1,1,1,0,1,1,19,f,no,yes,Brazil,no,8,18 and more,YES
+1,1,1,1,1,0,0,1,1,1,42,f,no,yes,Sweden,no,8,18 and more,YES
+1,1,0,0,0,0,0,1,0,1,37,f,no,no,United Kingdom,no,4,18 and more,NO
+1,0,0,0,1,0,1,1,0,0,28,f,no,no,Australia,no,4,18 and more,NO
+1,0,0,1,1,0,1,0,0,0,22,m,no,no,New Zealand,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,26,f,no,no,Tonga,no,3,18 and more,NO
+0,0,0,0,0,0,0,0,1,0,21,m,no,no,Oman,no,1,18 and more,NO
+0,1,1,0,0,0,0,1,0,0,26,f,no,no,India,no,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,39,f,no,no,Philippines,no,2,18 and more,NO
+1,0,0,0,0,0,0,0,1,1,26,m,no,no,New Zealand,no,3,18 and more,NO
+1,1,0,0,1,0,1,1,0,0,26,m,no,no,India,no,5,18 and more,NO
+0,0,0,0,1,1,0,1,0,1,21,m,no,no,India,no,4,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,25,m,no,no,India,no,0,18 and more,NO
+0,0,1,0,1,1,1,1,0,1,26,m,no,no,New Zealand,no,6,18 and more,NO
+1,1,0,1,1,0,1,1,0,1,30,f,no,no,United States,no,7,18 and more,YES
+1,0,0,1,1,1,1,0,0,0,19,f,no,no,India,no,5,18 and more,NO
+1,0,0,0,0,1,1,0,0,0,19,f,no,no,India,no,3,18 and more,NO
+1,0,1,1,1,1,1,1,1,1,25,f,no,yes,New Zealand,no,9,18 and more,YES
+0,0,1,1,0,1,0,1,1,1,23,m,no,no,United Kingdom,no,6,18 and more,NO
+1,0,0,0,1,0,0,0,0,1,31,m,no,no,Sri Lanka,no,3,18 and more,NO
+0,1,0,0,0,0,0,1,1,1,27,m,no,no,New Zealand,no,4,18 and more,NO
+1,1,0,1,1,1,1,1,0,1,29,f,no,no,United Arab Emirates,no,8,18 and more,YES
+1,0,1,1,1,1,0,1,1,0,38,f,no,no,United Kingdom,no,7,18 and more,YES
+1,1,1,1,1,1,0,1,0,1,23,f,no,no,United States,no,8,18 and more,YES
+1,1,1,0,1,0,1,1,0,0,27,m,no,no,United States,no,6,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,27,f,no,no,Canada,no,9,18 and more,YES
+1,1,1,1,1,1,0,0,1,0,42,m,no,no,United States,no,7,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,20,m,no,no,United Kingdom,no,9,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,17,f,no,no,United States,no,9,18 and more,YES
+1,0,0,0,0,0,0,0,0,0,20,f,no,no,Spain,no,1,18 and more,NO
+1,0,0,1,1,1,1,1,0,1,30,m,yes,no,Sierra Leone,no,7,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,28,f,no,yes,Australia,no,9,18 and more,YES
+1,1,0,0,1,1,1,1,0,1,26,f,no,no,New Zealand,no,7,18 and more,YES
+0,0,0,0,0,0,0,0,0,0,26,f,no,no,Australia,no,0,18 and more,NO
+1,0,0,1,1,1,0,1,0,1,31,m,no,yes,Canada,no,6,18 and more,NO
+1,0,1,1,0,0,1,0,0,1,40,f,no,no,United Kingdom,no,5,18 and more,NO
+1,0,0,0,1,0,0,0,1,1,39,f,no,yes,Ireland,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,18,f,no,no,United States,no,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,24,m,no,no,Ethiopia,no,3,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,23,m,no,no,India,no,3,18 and more,NO
+1,0,1,1,0,0,0,1,0,1,24,m,no,no,India,no,5,18 and more,NO
+0,1,0,0,1,1,0,1,1,0,24,m,no,no,New Zealand,no,5,18 and more,NO
+1,0,1,1,0,0,0,1,1,1,27,m,no,no,New Zealand,no,6,18 and more,NO
+0,1,1,0,0,1,0,0,1,1,24,m,no,no,New Zealand,no,5,18 and more,NO
+0,0,0,0,1,0,0,0,0,1,25,m,no,no,India,no,2,18 and more,NO
+1,0,0,0,0,0,1,0,0,1,22,m,no,no,New Zealand,no,3,18 and more,NO
+0,1,0,0,0,0,0,0,0,1,40,f,no,no,New Zealand,no,2,18 and more,NO
+0,0,1,1,0,0,0,1,0,1,23,m,no,no,India,no,4,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,29,m,no,no,India,no,2,18 and more,NO
+1,0,1,0,0,0,0,1,0,0,25,m,no,no,India,no,3,18 and more,NO
+1,0,0,1,1,0,0,1,0,0,27,m,no,no,India,no,4,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,22,m,no,no,New Zealand,no,1,18 and more,NO
+1,0,0,1,1,1,1,1,1,1,28,m,no,no,United States,no,8,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,20,m,no,no,Australia,no,9,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,19,f,no,no,Romania,no,10,18 and more,YES
+1,1,0,0,1,1,1,1,0,1,37,f,no,no,United States,no,7,18 and more,YES
+1,1,1,1,1,0,1,1,1,0,35,m,yes,yes,United States,no,8,18 and more,YES
+0,0,0,0,1,0,0,1,0,0,26,m,no,no,New Zealand,no,2,18 and more,NO
+0,1,1,1,1,0,1,1,0,1,23,m,no,no,Viet Nam,no,7,18 and more,YES
+1,1,0,0,1,0,0,0,0,1,32,f,no,no,New Zealand,no,4,18 and more,NO
+0,0,1,0,1,0,1,0,1,1,30,m,no,no,Sri Lanka,no,5,18 and more,NO
+1,0,0,0,1,0,1,0,0,1,31,m,no,no,Sri Lanka,no,4,18 and more,NO
+0,0,0,0,0,0,1,1,0,1,28,f,no,no,New Zealand,no,3,18 and more,NO
+1,0,0,0,0,1,0,1,0,1,29,f,no,no,Sri Lanka,no,4,18 and more,NO
+0,1,0,0,1,0,0,1,0,1,29,f,no,no,Sri Lanka,no,4,18 and more,NO
+1,0,0,1,0,0,0,0,1,1,29,f,no,no,India,no,4,18 and more,NO
+1,0,0,0,0,0,1,1,0,0,31,m,no,no,India,no,3,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,36,m,no,no,India,no,0,18 and more,NO
+0,1,0,0,0,0,0,1,0,0,32,f,no,no,India,no,2,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,34,f,no,no,New Zealand,no,1,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,24,m,no,no,Sri Lanka,no,3,18 and more,NO
+1,0,1,0,1,0,1,1,0,1,24,f,no,no,New Zealand,no,6,18 and more,NO
+1,0,0,0,1,0,1,1,0,1,42,m,no,no,Sri Lanka,no,5,18 and more,NO
+0,0,1,0,0,0,0,1,1,1,26,f,no,no,India,no,4,18 and more,NO
+1,0,0,0,1,0,1,1,0,0,27,f,no,no,Sri Lanka,no,4,18 and more,NO
+0,0,1,1,1,0,0,1,1,1,36,f,no,yes,Brazil,no,6,18 and more,NO
+1,1,1,1,1,0,0,1,1,1,36,f,no,yes,Brazil,no,8,18 and more,YES
+1,0,1,1,0,0,1,1,0,1,55,m,no,no,United States,no,6,18 and more,NO
+1,1,0,1,0,0,1,0,0,0,23,f,no,no,New Zealand,no,4,18 and more,NO
+0,0,1,1,1,0,0,0,0,1,22,f,no,no,Sri Lanka,no,4,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,42,f,no,no,France,no,2,18 and more,NO
+1,0,0,1,0,0,0,1,0,0,54,m,no,no,Canada,no,3,18 and more,NO
+1,1,0,0,0,0,1,1,1,1,43,f,no,no,United States,no,6,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,43,f,no,no,United States,yes,9,18 and more,YES
+0,0,1,1,1,0,0,1,1,1,29,m,no,no,Iran,no,6,18 and more,NO
+1,0,1,0,1,0,0,1,0,1,29,m,no,no,Iran,no,5,18 and more,NO
+1,0,1,0,1,0,1,0,0,0,37,m,no,no,Australia,no,4,18 and more,NO
+1,0,0,0,1,0,1,0,0,1,39,f,no,no,Australia,no,4,18 and more,NO
+1,1,1,1,1,0,0,0,0,0,18,f,no,no,Viet Nam,no,5,18 and more,NO
+0,1,0,1,1,1,0,1,0,1,31,m,no,no,United States,no,6,18 and more,NO
+0,0,1,1,1,0,0,0,0,1,34,m,no,no,New Zealand,no,4,18 and more,NO
+0,0,1,1,1,0,1,0,0,1,22,m,no,no,United States,no,5,18 and more,NO
+1,0,1,1,1,1,1,0,1,0,28,m,no,no,India,no,7,18 and more,YES
+1,0,0,0,0,0,1,1,0,1,38,m,no,yes,Netherlands,no,4,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,28,f,no,no,Australia,no,4,18 and more,NO
+1,1,0,1,1,1,0,1,1,1,53,f,no,yes,United States,no,8,18 and more,YES
+1,1,1,0,1,0,1,0,0,0,26,m,no,no,United Kingdom,no,5,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,37,m,no,no,United Kingdom,no,9,18 and more,YES
+1,1,0,1,0,0,0,1,0,1,42,m,yes,yes,Costa Rica,no,5,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,43,m,no,no,United States,no,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,32,f,no,no,United Kingdom,no,2,18 and more,NO
+0,1,0,1,0,0,0,1,0,0,31,m,no,yes,United Kingdom,no,3,18 and more,NO
+1,0,1,1,1,1,1,1,1,1,53,f,no,no,United States,no,9,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,28,m,no,no,United States,no,10,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,38,m,no,no,Germany,no,9,18 and more,YES
+1,1,1,0,1,1,0,1,1,0,31,m,no,no,United States,no,7,18 and more,YES
+1,1,1,1,0,0,0,0,0,0,31,f,no,yes,United States,no,4,18 and more,NO
+1,1,1,1,1,0,1,1,1,1,21,f,no,no,Australia,no,9,18 and more,YES
+1,1,0,1,1,0,0,0,1,1,25,f,no,no,United States,no,6,18 and more,NO
+1,1,0,1,1,0,0,1,1,1,25,f,no,no,United States,no,7,18 and more,YES
+1,1,1,1,1,1,1,0,1,1,60,f,no,yes,United States,no,9,18 and more,YES
+1,0,1,1,0,0,0,0,0,0,39,m,no,yes,United States,no,3,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,53,m,no,no,United States,no,10,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,20,m,no,yes,United States,no,10,18 and more,YES
+1,1,1,0,1,0,0,1,1,1,25,f,no,no,United States,yes,7,18 and more,YES
+1,1,1,1,0,0,1,1,0,0,50,m,no,no,United Kingdom,no,6,18 and more,NO
+1,0,0,1,1,1,1,1,1,1,28,f,no,no,United States,no,8,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,37,f,no,yes,United Kingdom,no,9,18 and more,YES
+0,0,0,1,0,1,0,1,1,1,30,m,no,yes,India,no,5,18 and more,NO
+1,1,0,0,0,1,1,1,0,1,32,f,no,no,United Kingdom,no,6,18 and more,NO
+1,0,1,1,0,0,0,0,0,1,34,f,no,no,United States,no,4,18 and more,NO
+1,1,1,1,0,0,0,0,0,1,42,m,no,no,United States,no,5,18 and more,NO
+1,1,0,0,1,1,1,1,1,1,22,f,no,no,Spain,no,8,18 and more,YES
+1,0,0,0,0,0,1,1,0,1,37,f,yes,no,United Arab Emirates,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,1,39,m,no,yes,United States,no,4,18 and more,NO
+1,1,0,1,1,0,1,1,0,1,18,m,no,no,Bangladesh,no,7,18 and more,YES
+1,0,0,1,0,0,0,0,0,0,54,f,no,yes,United States,no,2,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,42,m,no,no,United Kingdom,no,3,18 and more,NO
+0,0,1,0,0,0,0,0,0,0,27,f,no,no,Afghanistan,no,1,18 and more,NO
+1,1,1,1,1,0,0,1,0,0,22,m,no,no,United Kingdom,no,6,18 and more,NO
+1,0,1,1,0,1,1,1,1,1,22,m,no,no,United Kingdom,no,8,18 and more,YES
+1,1,1,1,1,1,1,0,1,1,21,f,no,no,United Kingdom,no,9,18 and more,YES
+0,1,0,1,0,0,0,1,0,1,28,f,no,no,United States,no,4,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,17,m,yes,no,India,no,9,18 and more,YES
+0,1,0,0,0,0,0,0,0,0,28,m,no,no,United States,no,1,18 and more,NO
+0,0,0,1,1,0,1,1,0,1,21,m,no,no,Mexico,no,5,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,31,f,no,no,New Zealand,no,10,18 and more,YES
+1,0,0,0,0,0,1,1,0,0,20,m,no,no,New Zealand,no,3,18 and more,NO
+1,0,0,1,0,0,0,0,0,0,21,m,no,no,United Kingdom,no,2,18 and more,NO
+1,1,0,0,1,0,0,0,0,0,22,m,no,no,New Zealand,no,3,18 and more,NO
+0,1,0,0,0,0,0,1,1,1,21,m,no,no,New Zealand,no,4,18 and more,NO
+0,1,1,0,0,0,0,0,0,0,24,m,no,no,New Zealand,no,2,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,24,m,no,no,India,no,2,18 and more,NO
+1,0,0,0,1,1,1,1,0,1,25,m,no,no,New Zealand,no,6,18 and more,NO
+1,0,0,0,0,0,0,0,0,1,17,m,no,no,New Zealand,no,2,18 and more,NO
+0,1,0,0,0,0,0,1,1,0,21,m,no,no,Russia,no,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,23,m,no,no,New Zealand,no,2,18 and more,NO
+1,0,0,1,1,0,1,1,0,0,21,m,no,no,New Zealand,no,5,18 and more,NO
+1,0,0,0,1,0,1,1,1,1,22,m,no,no,New Zealand,no,6,18 and more,NO
+1,0,0,0,1,0,0,1,0,1,24,f,no,no,India,no,4,18 and more,NO
+0,0,1,0,1,1,0,0,1,1,34,m,no,no,New Zealand,no,5,18 and more,NO
+1,0,1,0,1,0,1,1,0,1,30,m,no,no,New Zealand,no,6,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,29,f,no,no,India,no,4,18 and more,NO
+1,0,0,1,1,0,1,1,0,0,20,m,no,no,New Zealand,no,5,18 and more,NO
+0,0,1,1,0,1,0,1,1,1,23,m,no,no,New Zealand,no,6,18 and more,NO
+0,0,0,0,0,0,0,1,0,1,26,m,no,no,India,no,2,18 and more,NO
+1,0,0,1,1,1,1,1,1,1,20,m,no,no,New Zealand,no,8,18 and more,YES
+1,0,0,0,0,0,1,1,0,0,41,m,no,no,New Zealand,no,3,18 and more,NO
+1,0,0,1,0,0,1,1,0,0,24,m,no,no,India,no,4,18 and more,NO
+0,0,0,1,0,0,0,1,0,0,35,m,no,no,India,no,2,18 and more,NO
+0,0,0,1,0,0,1,0,0,0,23,m,no,no,India,no,2,18 and more,NO
+1,0,1,0,0,0,1,0,0,0,36,m,no,no,New Zealand,no,3,18 and more,NO
+1,1,0,0,1,0,0,1,0,0,33,m,no,no,Armenia,no,4,18 and more,NO
+1,0,0,0,0,1,0,1,1,1,24,m,no,no,India,no,5,18 and more,NO
+0,1,1,0,1,0,0,1,0,0,25,m,no,no,New Zealand,no,4,18 and more,NO
+1,0,0,0,1,1,0,1,0,1,25,m,no,no,India,no,5,18 and more,NO
+1,0,0,0,0,0,1,1,1,1,25,m,no,no,India,no,5,18 and more,NO
+0,0,0,0,0,0,1,1,0,1,24,m,no,no,India,no,3,18 and more,NO
+1,0,1,0,1,0,0,1,0,1,27,f,no,no,India,no,5,18 and more,NO
+1,0,0,0,0,0,1,1,0,0,26,m,no,no,India,no,3,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,26,m,no,no,New Zealand,no,0,18 and more,NO
+1,0,0,0,1,0,0,1,1,0,23,f,no,no,India,no,4,18 and more,NO
+1,1,1,0,1,0,1,1,0,1,30,m,no,no,New Zealand,no,7,18 and more,YES
+1,0,0,1,0,0,0,0,1,0,25,m,no,no,Iceland,no,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,23,m,no,no,New Zealand,no,3,18 and more,NO
+1,0,1,1,1,0,0,1,0,0,34,f,no,no,United States,no,5,18 and more,NO
+1,0,0,1,1,0,1,1,0,1,20,f,no,no,New Zealand,no,6,18 and more,NO
+1,0,1,1,1,1,0,0,1,1,22,f,no,yes,Russia,no,7,18 and more,YES
+1,1,1,1,0,0,0,1,1,1,33,f,no,yes,France,no,7,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,46,m,no,no,Netherlands,no,10,18 and more,YES
+1,1,0,0,0,0,0,0,0,0,17,m,no,no,United Kingdom,no,2,18 and more,NO
+1,1,1,0,0,0,0,1,0,0,45,f,no,yes,United States,no,4,18 and more,NO
+0,1,1,1,0,0,0,0,1,0,26,m,no,no,India,no,4,18 and more,NO
+1,0,0,0,1,0,0,0,1,0,30,m,no,no,Jordan,no,3,18 and more,NO
+1,1,0,0,0,0,0,0,0,0,32,f,no,yes,Jordan,no,2,18 and more,NO
+1,0,1,1,1,1,1,1,1,1,38,f,no,no,United Kingdom,no,9,18 and more,YES
+0,1,1,0,1,0,0,0,0,0,26,m,yes,no,Nicaragua,no,3,18 and more,NO
+1,0,0,0,0,0,0,0,0,0,29,f,no,yes,United States,no,1,18 and more,NO
+1,1,1,1,1,0,0,1,1,1,33,m,no,no,Australia,no,8,18 and more,YES
+0,1,1,0,1,1,1,0,1,1,32,f,no,no,France,no,7,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,44,f,no,no,United States,no,10,18 and more,YES
+0,1,0,0,0,0,1,0,0,1,47,f,yes,no,United Kingdom,no,3,18 and more,NO
+0,0,0,1,1,1,1,0,1,1,32,f,no,no,Hong Kong,no,6,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,40,m,no,no,New Zealand,no,0,18 and more,NO
+1,0,0,1,1,0,0,1,0,1,40,m,no,no,United States,no,5,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,44,f,no,no,New Zealand,no,0,18 and more,NO
+1,1,1,0,1,1,1,0,1,1,56,m,yes,no,United Kingdom,no,8,18 and more,YES
+1,1,1,0,1,1,1,0,1,1,23,f,no,no,Ireland,no,8,18 and more,YES
+1,1,0,1,1,0,0,1,1,1,32,f,no,no,Canada,no,7,18 and more,YES
+0,1,1,1,0,0,0,1,0,1,27,m,no,yes,United Kingdom,no,5,18 and more,NO
+1,0,0,0,1,0,1,0,0,1,28,f,no,yes,United Kingdom,no,4,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,40,f,no,no,Afghanistan,no,0,18 and more,NO
+1,0,1,1,1,1,0,0,1,1,45,f,no,no,Canada,no,7,18 and more,YES
+1,1,1,1,1,1,0,0,1,1,19,f,yes,no,United Kingdom,no,8,18 and more,YES
+1,1,1,1,0,1,0,1,1,1,55,m,no,yes,United States,no,8,18 and more,YES
+1,0,0,1,0,0,1,1,0,1,27,f,yes,no,Australia,no,5,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,19,f,yes,no,United Kingdom,no,9,18 and more,YES
+1,0,0,1,0,0,0,1,0,0,29,m,no,no,Ireland,no,3,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,33,f,yes,no,United Kingdom,no,10,18 and more,YES
+0,0,1,1,1,1,1,1,0,0,48,f,no,no,Netherlands,no,6,18 and more,NO
+0,0,0,0,0,0,0,1,1,0,37,f,no,no,United Kingdom,no,2,18 and more,NO
+1,1,1,1,1,0,0,0,1,0,30,m,no,no,Afghanistan,no,6,18 and more,NO
+1,1,0,1,0,0,0,0,0,1,37,f,no,no,United Kingdom,no,4,18 and more,NO
+1,0,0,1,1,0,1,1,1,1,28,f,no,no,Saudi Arabia,no,7,18 and more,YES
+1,0,0,1,1,1,1,1,1,1,20,f,no,no,Austria,no,8,18 and more,YES
+1,1,1,1,1,1,0,0,1,1,25,f,no,no,United States,no,8,18 and more,YES
+1,1,1,1,1,1,0,1,0,0,58,f,no,no,United Kingdom,no,7,18 and more,YES
+1,0,1,0,0,0,0,0,0,0,36,f,no,no,United States,no,2,18 and more,NO
+0,0,1,1,1,0,0,1,0,0,36,m,yes,no,United States,no,4,18 and more,NO
+1,0,1,0,1,1,1,1,1,0,19,m,no,no,United States,no,7,18 and more,YES
+1,0,1,1,1,1,0,1,1,0,19,m,no,no,United States,yes,7,18 and more,YES
+1,0,0,1,1,0,0,1,0,1,22,f,no,no,New Zealand,no,5,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,20,m,no,no,United Arab Emirates,no,3,18 and more,NO
+0,1,0,0,0,0,1,1,0,1,24,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,0,0,1,1,0,0,1,1,0,19,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,1,1,0,1,0,0,1,0,1,21,m,no,no,United Arab Emirates,no,6,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,20,m,no,no,United Arab Emirates,no,0,18 and more,NO
+1,1,0,0,0,0,0,0,0,0,18,f,no,no,United Arab Emirates,no,2,18 and more,NO
+0,1,1,0,0,0,0,1,0,1,23,f,no,no,United Arab Emirates,no,4,18 and more,NO
+1,1,1,0,1,1,1,1,0,1,22,m,no,no,United Arab Emirates,no,8,18 and more,YES
+1,1,0,1,1,0,0,0,0,0,18,f,no,yes,Bangladesh,no,4,18 and more,NO
+1,0,0,0,0,0,0,0,0,1,37,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,1,1,0,1,0,0,1,0,0,18,m,no,no,United Arab Emirates,no,5,18 and more,NO
+1,1,1,0,1,0,0,1,0,0,18,m,no,no,United Arab Emirates,no,5,18 and more,NO
+0,0,0,0,1,0,0,1,0,0,18,m,no,no,United Arab Emirates,no,2,18 and more,NO
+1,1,1,0,0,0,0,1,0,0,18,m,no,no,United Arab Emirates,no,4,18 and more,NO
+0,1,0,0,0,0,1,1,0,0,18,m,no,no,United Arab Emirates,no,3,18 and more,NO
+1,1,1,0,0,0,0,1,0,0,18,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,19,m,no,no,Austria,no,10,18 and more,YES
+1,0,0,1,1,1,1,0,1,1,55,m,no,no,United Kingdom,no,7,18 and more,YES
+1,0,0,0,0,1,1,0,1,1,32,f,no,no,Canada,no,5,18 and more,NO
+1,1,0,1,0,0,1,1,0,0,50,m,yes,no,United Kingdom,no,5,18 and more,NO
+1,1,1,1,0,0,1,1,0,0,40,m,no,no,United Kingdom,no,6,18 and more,NO
+1,0,0,1,1,1,0,0,0,0,47,m,no,no,Jordan,no,4,18 and more,NO
+1,1,0,0,0,0,0,0,0,1,20,m,no,no,Jordan,no,3,18 and more,NO
+1,0,1,0,0,0,1,1,0,0,22,f,no,no,Jordan,no,4,18 and more,NO
+1,0,0,0,0,0,1,0,0,0,21,f,no,no,Jordan,no,2,18 and more,NO
+1,0,1,1,0,0,1,1,1,0,21,f,no,no,Jordan,no,6,18 and more,NO
+1,1,1,1,1,0,0,1,0,0,19,m,no,no,Jordan,no,6,18 and more,NO
+1,0,1,1,0,0,0,0,0,0,21,f,no,no,Jordan,no,3,18 and more,NO
+1,0,0,1,0,0,0,0,0,0,21,m,no,no,Jordan,no,2,18 and more,NO
+0,1,0,1,0,1,0,1,0,1,23,f,no,no,Jordan,no,5,18 and more,NO
+1,0,0,0,0,0,0,0,0,0,21,m,no,no,Jordan,no,1,18 and more,NO
+1,0,0,0,1,0,1,1,1,0,21,m,no,no,Jordan,no,5,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,23,m,no,no,Jordan,no,1,18 and more,NO
+1,0,1,1,0,1,1,1,1,1,20,f,no,no,Jordan,no,8,18 and more,YES
+1,1,1,0,0,0,0,1,0,1,21,f,no,no,Jordan,no,5,18 and more,NO
+1,1,1,0,1,0,1,1,1,1,20,m,no,no,Argentina,no,8,18 and more,YES
+1,1,0,0,0,0,1,1,0,0,19,m,no,no,Jordan,no,4,18 and more,NO
+0,1,0,0,0,0,0,1,0,0,21,m,no,no,Jordan,no,2,18 and more,NO
+1,0,1,0,0,0,1,0,0,0,26,m,no,yes,Jordan,no,3,18 and more,NO
+0,0,0,1,0,0,0,1,0,0,21,m,no,no,Jordan,no,2,18 and more,NO
+0,0,0,0,1,0,0,1,0,0,19,m,no,no,Japan,no,2,18 and more,NO
+1,0,0,1,0,0,0,1,0,1,22,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,19,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,0,0,1,0,0,1,0,0,1,22,m,no,no,United Arab Emirates,no,4,18 and more,NO
+0,0,1,0,0,0,0,0,0,1,20,m,no,no,United Arab Emirates,no,2,18 and more,NO
+1,0,1,0,1,0,0,1,0,0,23,m,no,no,United Arab Emirates,no,4,18 and more,NO
+0,0,0,0,0,1,0,1,0,0,19,f,no,no,Ukraine,no,2,18 and more,NO
+0,0,0,0,1,0,0,1,0,1,20,m,no,no,United Arab Emirates,no,3,18 and more,NO
+0,1,0,1,0,0,0,0,0,0,24,m,no,no,United Arab Emirates,no,2,18 and more,NO
+0,1,1,0,0,0,0,1,0,1,19,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,0,0,0,1,0,1,0,1,20,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,1,0,1,0,0,1,0,1,23,m,no,yes,United Arab Emirates,no,5,18 and more,NO
+0,0,1,1,0,0,1,0,0,1,20,m,no,no,Russia,no,4,18 and more,NO
+1,0,1,0,1,0,0,1,0,1,20,m,no,no,United Arab Emirates,no,5,18 and more,NO
+0,0,0,0,0,0,0,1,1,0,20,m,yes,no,United Arab Emirates,no,2,18 and more,NO
+1,0,1,0,0,0,0,0,0,1,20,f,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,1,1,0,0,1,0,1,21,f,no,no,Afghanistan,no,5,18 and more,NO
+0,1,0,0,0,0,0,0,0,1,19,m,no,no,Kazakhstan,no,2,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,20,f,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,1,1,0,1,0,0,1,20,m,no,no,Saudi Arabia,no,5,18 and more,NO
+1,0,0,0,0,1,0,0,1,0,25,m,yes,yes,Armenia,yes,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,20,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,0,0,0,0,1,1,1,0,1,22,m,no,no,AmericanSamoa,no,5,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,20,f,no,no,United Arab Emirates,no,2,18 and more,NO
+0,1,0,0,1,1,0,0,0,0,20,m,no,no,United Arab Emirates,no,3,18 and more,NO
+0,0,0,1,0,0,1,0,0,0,20,f,no,no,Jordan,no,2,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,23,f,no,no,Jordan,no,2,18 and more,NO
+1,1,1,1,1,0,1,0,1,1,21,f,no,no,Jordan,no,8,18 and more,YES
+1,0,0,0,0,0,1,1,0,1,22,m,no,no,Jordan,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,21,f,no,no,Jordan,no,3,18 and more,NO
+1,0,1,0,0,0,0,0,0,1,20,f,no,no,Jordan,no,3,18 and more,NO
+1,0,0,1,0,0,0,0,0,0,22,f,no,no,Jordan,no,2,18 and more,NO
+1,0,1,1,1,0,1,1,0,0,21,f,yes,no,Jordan,no,6,18 and more,NO
+1,1,0,0,1,0,0,1,0,0,20,f,no,no,Jordan,no,4,18 and more,NO
+0,1,0,0,0,0,0,1,0,0,20,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,0,0,0,1,0,0,1,0,0,21,m,no,no,Jordan,no,3,18 and more,NO
+1,0,1,1,1,0,0,0,1,1,21,m,no,no,United Arab Emirates,no,6,18 and more,NO
+0,1,0,0,0,1,0,1,0,1,23,f,no,no,United Arab Emirates,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,21,f,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,0,1,1,0,1,0,1,22,f,no,no,United Arab Emirates,no,5,18 and more,NO
+0,1,1,1,0,1,0,1,0,0,19,f,no,no,United Arab Emirates,no,5,18 and more,NO
+1,1,1,0,1,0,0,0,0,0,20,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,1,0,0,0,0,0,1,0,1,21,f,no,no,United Arab Emirates,no,3,18 and more,NO
+0,1,1,0,0,0,0,1,0,0,26,m,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,0,0,0,0,0,0,0,19,f,no,no,Kazakhstan,no,1,18 and more,NO
+1,0,0,1,0,0,1,1,0,1,20,f,no,no,United Arab Emirates,no,5,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,26,f,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,1,0,0,1,0,0,1,23,f,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,0,1,0,0,1,0,0,1,28,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,1,0,1,1,0,0,0,0,0,19,f,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,0,0,0,1,1,0,0,20,f,no,no,United Arab Emirates,no,3,18 and more,NO
+0,1,0,0,1,0,1,1,0,1,19,f,no,no,United Arab Emirates,no,5,18 and more,NO
+1,0,1,1,1,1,1,1,1,0,24,m,no,no,India,no,8,18 and more,YES
+1,0,0,1,1,0,0,1,0,1,19,f,no,no,United Arab Emirates,no,5,18 and more,NO
+1,1,0,0,0,0,0,0,0,0,22,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,1,0,1,0,0,0,0,0,1,20,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,1,0,1,0,0,0,1,0,0,21,m,no,no,United Arab Emirates,no,3,18 and more,NO
+0,0,1,1,1,0,0,1,0,0,24,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,0,1,1,1,0,0,0,0,1,18,f,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,1,1,1,0,1,1,0,1,19,f,no,no,United Arab Emirates,no,7,18 and more,YES
+1,0,1,0,0,0,0,0,0,0,19,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,31,m,yes,no,United Arab Emirates,no,4,18 and more,NO
+1,1,0,1,0,0,1,1,0,0,19,m,no,no,United Arab Emirates,no,5,18 and more,NO
+1,0,0,0,0,0,1,0,1,1,21,f,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,0,0,1,0,1,0,0,1,20,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,1,0,1,0,1,1,0,1,26,f,no,no,United Arab Emirates,no,6,18 and more,NO
+0,0,0,0,0,0,1,0,0,0,27,m,no,no,Afghanistan,no,1,18 and more,NO
+1,0,1,0,0,1,0,1,0,0,23,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,1,0,1,0,0,0,0,0,0,29,f,no,no,United Arab Emirates,no,2,18 and more,NO
+1,1,1,1,0,0,1,0,0,0,23,m,no,no,United Arab Emirates,no,5,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,23,m,no,no,United Arab Emirates,no,4,18 and more,NO
+1,0,1,1,1,1,0,1,1,1,24,m,no,yes,India,no,8,18 and more,YES
+1,0,0,1,0,0,1,1,0,0,21,m,no,no,Jordan,no,4,18 and more,NO
+0,0,0,0,1,0,1,0,0,0,20,f,no,no,Brazil,yes,2,18 and more,NO
+1,0,1,0,1,0,1,1,1,0,20,m,no,no,Jordan,no,6,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,32,f,no,no,France,no,9,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,61,m,yes,yes,Uruguay,no,10,18 and more,YES
+1,0,0,1,1,0,0,0,0,0,19,m,no,no,Jordan,no,3,18 and more,NO
+1,1,1,1,1,1,0,1,1,0,35,f,no,no,Italy,no,8,18 and more,YES
+1,0,0,0,0,1,0,0,0,1,34,f,no,no,Ukraine,yes,3,18 and more,NO
+0,0,1,1,0,0,0,0,0,0,23,f,no,no,United Arab Emirates,yes,2,18 and more,NO
+1,1,1,1,0,0,0,0,0,1,19,f,no,no,Serbia,no,5,18 and more,NO
+1,1,0,0,1,1,0,1,0,1,36,f,no,no,Philippines,no,6,18 and more,NO
+1,1,0,0,0,0,0,1,0,1,21,f,no,no,Jordan,no,4,18 and more,NO
+0,1,0,0,0,0,0,1,0,0,23,m,no,no,United States,no,2,18 and more,NO
+1,0,1,1,1,0,1,0,0,1,17,m,no,no,United States,no,6,18 and more,NO
+1,0,1,0,0,0,0,0,0,0,22,m,no,no,Portugal,no,2,18 and more,NO
+0,1,1,1,1,0,1,0,0,1,33,m,no,yes,Australia,no,6,18 and more,NO
+1,1,1,1,1,0,0,1,0,1,23,f,no,no,Malaysia,no,7,18 and more,YES
+0,1,1,1,1,1,0,1,0,1,35,f,no,yes,Sweden,no,7,18 and more,YES
+1,0,0,0,0,0,0,1,0,1,21,m,no,yes,Australia,no,3,18 and more,NO
+1,0,0,1,1,0,1,1,1,1,20,f,no,no,Austria,no,7,18 and more,YES
+1,0,0,0,0,0,0,1,0,0,29,m,no,no,Netherlands,no,2,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,59,m,no,no,United States,no,9,18 and more,YES
+1,1,1,0,0,0,0,1,0,1,18,f,no,no,Netherlands,no,5,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,19,f,no,no,United Arab Emirates,no,3,18 and more,NO
+0,0,1,1,0,0,0,1,0,0,24,m,no,no,United Arab Emirates,no,3,18 and more,NO
+1,1,1,1,1,0,0,1,1,0,36,f,no,no,Italy,no,7,18 and more,YES
+0,0,1,1,1,0,0,0,0,1,19,f,yes,no,Jordan,no,4,18 and more,NO
+1,1,0,0,0,0,1,0,0,0,17,f,no,no,United Arab Emirates,no,3,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,52,m,yes,no,United Kingdom,no,3,18 and more,NO
+1,1,0,1,1,0,0,0,0,0,18,m,no,no,United Arab Emirates,no,4,18 and more,NO
+0,0,0,0,0,0,1,0,0,0,30,m,no,no,Philippines,no,1,18 and more,NO
+0,1,1,1,1,1,0,1,1,1,18,m,yes,no,New Zealand,no,8,18 and more,YES
+1,1,1,1,1,0,0,1,0,0,27,m,no,no,Ecuador,no,6,18 and more,NO
+0,0,0,1,0,0,0,0,0,0,52,f,no,no,United Kingdom,no,1,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,45,f,no,no,Viet Nam,no,1,18 and more,NO
+0,1,1,1,1,1,0,0,1,0,25,f,no,no,Afghanistan,no,6,18 and more,NO
+0,0,0,1,0,0,1,0,0,1,29,f,no,no,United Kingdom,no,3,18 and more,NO
+1,1,0,1,1,1,1,1,0,1,29,f,yes,no,United States,no,8,18 and more,YES
+1,0,0,0,0,1,0,0,0,1,18,m,no,yes,Netherlands,no,3,18 and more,NO
+0,0,1,1,0,1,1,1,1,1,18,m,no,no,Netherlands,no,7,18 and more,YES
+1,0,1,1,0,1,0,0,0,1,17,m,no,no,Netherlands,no,5,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,27,f,no,no,United States,no,10,18 and more,YES
+0,0,0,0,0,0,0,1,0,0,22,f,yes,no,Malaysia,no,1,18 and more,NO
+0,0,0,0,0,1,0,1,1,0,23,m,no,no,India,no,3,18 and more,NO
+1,1,1,1,1,0,1,1,0,0,25,m,no,no,United Kingdom,no,7,18 and more,YES
+1,0,1,1,1,0,0,0,0,0,23,f,no,no,New Zealand,no,4,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,29,m,no,no,India,no,3,18 and more,NO
+1,0,0,1,1,0,1,0,0,0,27,f,no,no,Sri Lanka,no,4,18 and more,NO
+1,0,0,0,0,1,0,1,0,0,27,f,no,no,India,no,3,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,43,f,no,no,India,no,0,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,26,f,no,no,India,no,2,18 and more,NO
+1,0,0,0,1,0,0,1,0,1,30,f,no,no,India,no,4,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,23,m,no,no,India,no,1,18 and more,NO
+1,0,0,0,1,0,1,1,0,0,29,f,no,no,Sri Lanka,no,4,18 and more,NO
+0,0,0,0,0,0,0,1,0,1,37,m,no,no,United Kingdom,no,2,18 and more,NO
+0,0,0,0,0,0,1,0,0,1,28,f,no,no,United Kingdom,no,2,18 and more,NO
+1,1,1,1,0,0,1,1,0,0,25,m,no,no,United States,no,6,18 and more,NO
+1,0,1,1,0,0,1,1,0,0,25,m,no,no,India,no,5,18 and more,NO
+0,1,0,0,0,0,0,1,1,0,21,m,no,no,Jordan,no,3,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,43,m,no,no,United Kingdom,no,9,18 and more,YES
+1,1,0,1,1,1,0,0,1,1,30,f,no,no,United States,no,7,18 and more,YES
+0,1,1,0,0,0,1,0,0,1,18,m,no,no,Niger,no,4,18 and more,NO
+1,1,1,1,0,0,0,1,0,0,18,f,no,no,Romania,no,5,18 and more,NO
+1,1,1,1,0,0,1,1,1,0,30,m,no,no,Canada,no,7,18 and more,YES
+0,0,0,0,0,0,0,0,0,0,31,f,no,no,Germany,no,0,18 and more,NO
+1,0,0,0,1,0,1,1,0,1,33,m,no,no,Mexico,no,5,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,33,m,no,no,Mexico,no,10,18 and more,YES
+1,1,1,1,0,0,1,0,0,1,26,m,no,no,United Kingdom,no,6,18 and more,NO
+1,0,1,1,0,0,0,0,0,0,61,f,no,no,United States,no,3,18 and more,NO
+0,0,0,1,0,0,0,1,0,1,46,m,no,no,Viet Nam,no,3,18 and more,NO
+0,1,1,1,1,1,1,0,1,1,33,m,no,no,India,no,8,18 and more,YES
+1,1,1,1,1,0,1,1,0,1,38,f,no,no,Canada,no,8,18 and more,YES
+1,1,0,0,0,0,0,1,0,0,44,m,no,no,France,no,3,18 and more,NO
+0,1,1,1,1,0,0,0,1,0,48,f,no,yes,France,no,5,18 and more,NO
+1,1,0,1,1,1,0,1,1,1,42,f,yes,no,Mexico,no,8,18 and more,YES
+0,1,0,0,1,0,1,1,0,0,37,m,no,no,Belgium,no,4,18 and more,NO
+1,0,1,1,1,0,0,1,0,1,23,f,no,yes,United Kingdom,no,6,18 and more,NO
+1,0,1,1,1,0,1,1,1,1,24,m,no,yes,United Kingdom,no,8,18 and more,YES
+1,0,1,0,1,0,1,1,0,1,41,m,yes,yes,United Kingdom,no,6,18 and more,NO
+1,0,1,0,0,0,1,0,0,1,41,m,no,no,United Kingdom,no,4,18 and more,NO
+0,1,1,0,1,0,0,1,0,0,27,m,no,no,Belgium,no,4,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,46,f,yes,yes,United Kingdom,no,10,18 and more,YES
+0,1,0,0,0,0,0,0,0,1,40,f,yes,no,United States,no,2,18 and more,NO
+0,1,1,1,1,1,1,1,0,1,22,f,no,no,United States,no,8,18 and more,YES
+1,1,1,1,1,1,1,0,1,1,42,m,no,no,United Kingdom,no,9,18 and more,YES
+1,1,1,0,0,0,0,0,0,1,18,f,no,no,Viet Nam,no,4,18 and more,NO
+1,0,1,1,0,0,0,0,0,0,44,f,no,no,United Kingdom,no,3,18 and more,NO
+1,1,1,1,1,0,1,1,1,1,30,f,no,no,United States,no,9,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,42,m,no,no,Australia,no,9,18 and more,YES
+1,1,0,1,0,0,1,0,0,0,35,f,no,yes,United States,no,4,18 and more,NO
+1,0,1,1,1,0,1,0,1,1,40,m,no,no,AmericanSamoa,no,7,18 and more,YES
+0,1,0,0,0,0,0,0,1,1,50,f,no,no,New Zealand,no,3,18 and more,NO
+0,0,1,1,0,0,0,0,0,1,38,m,no,no,Egypt,no,3,18 and more,NO
+1,1,1,1,1,0,0,1,1,1,26,f,no,yes,Italy,no,8,18 and more,YES
+1,1,1,1,1,0,0,1,0,1,27,f,no,no,Malaysia,no,7,18 and more,YES
+1,1,1,1,1,0,1,0,1,0,47,f,yes,yes,United States,no,7,18 and more,YES
+1,1,0,1,1,1,0,0,0,1,21,m,yes,yes,United States,no,6,18 and more,NO
+1,1,1,1,0,1,0,1,1,1,37,m,no,no,United Kingdom,no,8,18 and more,YES
+1,0,0,0,0,0,1,1,0,1,19,f,no,no,United Kingdom,no,4,18 and more,NO
+0,0,0,1,0,0,1,1,0,1,32,m,no,no,United Arab Emirates,no,4,18 and more,NO
+0,0,0,0,1,0,0,1,0,1,26,f,no,no,Iran,no,3,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,46,f,yes,yes,Australia,no,10,18 and more,YES
+0,1,0,0,0,0,0,1,0,0,29,m,no,no,France,no,2,18 and more,NO
+1,0,0,0,1,0,0,0,0,0,30,f,no,no,France,no,2,18 and more,NO
+1,1,0,0,0,0,1,1,0,0,32,f,no,no,Bolivia,no,4,18 and more,NO
+0,1,1,1,0,0,0,0,0,1,35,f,yes,no,United States,no,4,18 and more,NO
+0,1,1,1,1,1,1,1,1,1,22,m,no,no,United Kingdom,no,9,18 and more,YES
+0,0,0,1,1,0,1,0,0,1,19,f,no,no,Iran,no,4,18 and more,NO
+0,1,0,0,1,0,0,0,0,1,24,m,no,no,Iran,no,3,18 and more,NO
+0,1,0,0,1,0,0,0,0,0,52,f,no,no,Iran,no,2,18 and more,NO
+0,1,0,0,1,1,0,0,1,1,52,m,no,no,Iran,no,5,18 and more,NO
+1,0,1,0,0,1,0,1,0,0,32,f,no,no,United States,no,4,18 and more,NO
+0,1,1,1,1,1,0,0,0,1,24,m,no,no,United States,no,6,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,24,m,no,no,United States,no,9,18 and more,YES
+0,1,0,0,0,0,0,0,0,0,49,f,yes,no,New Zealand,no,1,18 and more,NO
+0,1,1,1,1,1,1,1,1,1,30,f,no,no,Malaysia,no,9,18 and more,YES
+0,1,1,1,1,1,1,1,1,1,30,f,no,yes,Malaysia,yes,9,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,35,f,yes,no,United Kingdom,no,9,18 and more,YES
+1,0,1,1,1,1,1,0,0,1,35,f,yes,no,United Kingdom,no,7,18 and more,YES
+1,0,1,1,0,0,0,0,0,1,37,f,no,yes,United Kingdom,no,4,18 and more,NO
+0,1,1,1,0,0,0,1,0,1,43,m,no,no,United Kingdom,no,5,18 and more,NO
+1,1,1,1,0,0,1,0,0,1,52,m,no,no,United Kingdom,no,6,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,44,m,no,yes,United Kingdom,no,10,18 and more,YES
+1,1,0,0,0,0,0,0,0,0,46,f,no,yes,United Kingdom,no,2,18 and more,NO
+1,0,0,0,1,0,0,0,0,1,42,f,no,yes,Australia,no,3,18 and more,NO
+0,0,1,0,0,0,0,0,0,0,20,m,no,no,Aruba,no,1,18 and more,NO
+1,1,1,0,1,0,1,0,1,1,18,m,no,no,New Zealand,no,7,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,38,m,no,no,Finland,no,9,18 and more,YES
+1,0,0,1,1,0,0,1,0,0,24,f,no,yes,Mexico,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,32,m,no,no,Jordan,no,3,18 and more,NO
+1,1,0,1,1,0,0,0,0,0,29,m,no,no,United States,no,4,18 and more,NO
+1,1,1,1,1,1,1,1,0,1,22,f,no,no,United States,no,9,18 and more,YES
+0,1,1,1,1,1,0,0,0,1,19,f,yes,no,United Kingdom,no,6,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,39,f,no,yes,United States,no,9,18 and more,YES
+1,0,0,1,1,1,1,1,1,1,17,m,no,no,United States,no,8,18 and more,YES
+0,1,0,1,0,1,1,0,1,1,19,f,no,no,Iceland,no,6,18 and more,NO
+1,0,0,0,0,0,1,1,1,0,18,m,no,no,Australia,no,4,18 and more,NO
+0,1,0,0,1,1,0,0,1,0,19,m,no,no,Kazakhstan,yes,4,18 and more,NO
+0,1,0,0,0,0,0,1,0,0,28,f,no,no,Turkey,no,2,18 and more,NO
+0,1,0,1,0,1,0,0,0,1,29,m,no,no,New Zealand,no,4,18 and more,NO
+1,1,0,0,0,0,1,1,0,0,48,m,no,no,Australia,no,4,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,27,f,yes,yes,Netherlands,no,9,18 and more,YES
+1,0,1,1,0,0,0,0,0,0,34,f,no,no,United Kingdom,no,3,18 and more,NO
+1,1,0,1,0,0,0,0,0,1,31,m,no,no,Australia,no,4,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,47,m,no,no,Jordan,no,3,18 and more,NO
+1,0,0,1,0,0,0,1,0,0,47,m,no,no,Jordan,no,3,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,44,m,no,yes,United Kingdom,no,10,18 and more,YES
+1,0,0,0,1,0,1,1,0,0,25,f,no,no,United States,no,4,18 and more,NO
+1,0,0,0,1,0,1,1,0,0,25,f,no,no,United States,no,4,18 and more,NO
+1,1,0,0,1,1,1,1,1,1,20,m,no,no,United Kingdom,no,8,18 and more,YES
+1,1,1,1,1,0,1,1,1,1,43,m,yes,no,New Zealand,no,9,18 and more,YES
+1,1,1,1,1,0,0,1,1,1,36,f,no,yes,United Kingdom,no,8,18 and more,YES
+1,1,0,0,0,0,0,1,0,0,30,f,no,yes,United States,no,3,18 and more,NO
+0,0,1,1,0,0,0,0,0,0,44,m,no,no,United Kingdom,no,2,18 and more,NO
+1,1,0,0,1,0,0,0,0,1,40,f,no,no,United Kingdom,no,4,18 and more,NO
+1,1,0,0,1,1,0,1,1,0,40,f,yes,no,United Kingdom,no,6,18 and more,NO
+1,1,0,1,1,1,0,1,1,0,40,f,yes,yes,United Kingdom,no,7,18 and more,YES
+1,1,1,1,1,0,0,1,0,1,30,m,no,no,United States,no,7,18 and more,YES
+1,0,1,1,0,0,1,0,0,1,47,f,no,no,United Kingdom,no,5,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,21,m,no,no,Brazil,no,10,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,21,m,no,no,Brazil,no,9,18 and more,YES
+1,0,1,1,1,1,1,1,1,1,31,f,no,no,New Zealand,no,9,18 and more,YES
+1,1,1,0,0,0,0,0,0,0,21,f,no,no,New Zealand,no,3,18 and more,NO
+0,1,1,1,0,0,0,1,1,0,29,f,no,no,United States,no,5,18 and more,NO
+0,1,1,1,1,0,1,0,1,0,22,m,no,no,Afghanistan,no,6,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,51,m,yes,no,United Kingdom,no,10,18 and more,YES
+1,0,0,0,0,0,0,0,0,0,23,m,no,no,Russia,no,1,18 and more,NO
+1,0,0,0,1,0,0,0,1,1,30,m,no,no,India,no,4,18 and more,NO
+1,1,0,0,0,0,0,1,0,0,22,m,no,no,India,no,3,18 and more,NO
+1,1,0,0,0,0,0,1,0,1,22,m,no,no,New Zealand,no,4,18 and more,NO
+1,0,0,0,1,0,1,1,0,1,24,m,no,no,India,no,5,18 and more,NO
+1,0,0,0,0,0,0,1,0,1,26,f,no,no,India,no,3,18 and more,NO
+1,0,1,1,0,0,0,1,1,1,33,f,no,no,India,no,6,18 and more,NO
+1,0,0,0,0,0,0,1,1,0,23,m,no,no,India,no,3,18 and more,NO
+1,0,1,0,0,0,0,1,0,0,42,f,no,no,India,no,3,18 and more,NO
+1,0,1,0,0,0,0,0,0,0,26,f,no,no,India,no,2,18 and more,NO
+1,0,0,0,0,0,0,1,0,0,29,f,no,no,New Zealand,no,2,18 and more,NO
+1,0,0,0,0,0,1,0,0,1,35,f,no,no,India,no,3,18 and more,NO
+1,0,0,0,1,1,0,1,0,0,25,f,no,no,India,no,4,18 and more,NO
+1,0,0,0,0,0,1,1,0,0,25,m,no,no,Sri Lanka,no,3,18 and more,NO
+0,0,0,0,0,0,0,1,0,0,28,f,yes,no,India,no,1,18 and more,NO
+1,0,0,0,0,0,0,0,0,0,33,m,no,no,Germany,no,1,18 and more,NO
+1,0,0,1,0,0,1,1,0,0,25,m,no,no,India,no,4,18 and more,NO
+0,0,1,0,1,1,0,1,0,1,25,m,no,no,India,no,5,18 and more,NO
+1,0,0,0,1,0,1,1,0,0,24,m,no,no,India,no,4,18 and more,NO
+1,1,1,1,0,0,0,0,0,1,27,f,no,no,India,no,5,18 and more,NO
+1,0,0,0,0,0,0,0,0,0,22,m,no,no,India,no,1,18 and more,NO
+1,1,0,1,0,0,0,1,0,1,21,f,no,no,India,no,5,18 and more,NO
+1,0,1,1,0,1,0,1,0,1,27,f,no,no,India,no,6,18 and more,NO
+1,0,0,0,1,0,1,0,0,0,23,m,no,no,India,no,3,18 and more,NO
+0,0,0,1,1,0,0,1,0,1,22,m,no,no,India,no,4,18 and more,NO
+0,1,0,0,0,0,0,0,0,1,23,f,no,no,India,no,2,18 and more,NO
+1,0,0,1,0,0,0,1,0,1,30,m,no,no,India,no,4,18 and more,NO
+0,1,0,0,1,0,1,1,0,0,33,m,no,no,India,no,4,18 and more,NO
+1,0,1,1,1,0,1,1,1,0,24,f,no,no,India,no,7,18 and more,YES
+1,0,0,0,1,0,1,1,0,0,22,f,no,no,New Zealand,no,4,18 and more,NO
+1,0,0,1,1,0,1,1,1,1,22,m,no,no,New Zealand,no,7,18 and more,YES
+1,0,0,0,0,0,0,1,0,1,29,f,no,no,India,no,3,18 and more,NO
+1,0,1,0,1,0,1,1,0,1,22,f,no,no,India,no,6,18 and more,NO
+1,0,1,0,0,0,0,1,0,0,21,m,yes,no,India,no,3,18 and more,NO
+1,0,0,0,0,0,1,1,0,0,23,m,no,no,India,no,3,18 and more,NO
+1,0,0,0,1,0,1,1,0,1,23,f,no,no,India,no,5,18 and more,NO
+1,0,0,0,1,0,1,1,1,1,23,f,no,no,India,no,6,18 and more,NO
+1,1,0,1,1,0,1,1,0,0,32,m,no,no,Sri Lanka,no,6,18 and more,NO
+0,0,0,0,0,0,1,0,0,1,27,m,no,no,Sri Lanka,no,2,18 and more,NO
+0,0,1,0,0,0,0,1,0,0,28,f,no,no,India,no,2,18 and more,NO
+1,1,0,0,1,0,0,1,1,1,25,f,no,no,India,no,6,18 and more,NO
+1,0,1,0,1,0,1,1,1,1,22,m,no,no,Nepal,no,7,18 and more,YES
+0,1,1,0,0,0,1,0,0,1,36,m,no,no,United Kingdom,no,4,18 and more,NO
+0,0,0,0,0,0,0,0,0,0,27,f,no,no,Russia,no,0,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,21,f,no,no,Germany,no,10,18 and more,YES
+1,1,0,1,1,0,0,1,0,0,18,m,no,no,United States,no,5,18 and more,NO
+1,0,0,0,1,1,1,1,1,1,49,m,no,no,Mexico,no,7,18 and more,YES
+1,1,1,0,0,0,0,1,0,0,18,m,no,no,Indonesia,no,4,18 and more,NO
+1,0,1,1,1,0,1,1,1,0,29,m,no,no,United States,no,7,18 and more,YES
+0,0,0,0,1,0,0,1,0,0,31,f,no,no,New Zealand,no,2,18 and more,NO
+1,0,0,0,0,0,0,0,0,0,37,f,no,no,New Zealand,no,1,18 and more,NO
+1,0,1,1,1,0,0,1,0,1,17,m,yes,no,New Zealand,no,6,18 and more,NO
+1,0,1,1,0,0,1,1,1,1,17,m,no,yes,New Zealand,no,7,18 and more,YES
+1,1,1,1,0,0,0,0,0,0,38,f,no,no,Jordan,no,4,18 and more,NO
+1,0,1,0,0,1,0,1,0,1,18,m,yes,no,Angola,no,5,18 and more,NO
+1,0,1,1,1,0,0,0,0,0,31,f,no,no,United Arab Emirates,no,4,18 and more,NO
+0,1,1,1,0,0,0,0,0,0,33,m,yes,no,United Arab Emirates,yes,3,18 and more,NO
+1,1,0,0,0,0,0,0,0,0,32,f,yes,no,Jordan,no,2,18 and more,NO
+1,0,0,0,0,0,1,0,0,1,30,m,yes,no,Jordan,no,3,18 and more,NO
+0,0,0,0,0,0,0,0,0,1,33,f,no,no,United States,no,1,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,30,f,no,yes,Canada,no,10,18 and more,YES
+1,1,1,1,1,0,1,1,1,1,30,m,no,no,United States,no,9,18 and more,YES
+1,0,0,1,1,0,1,0,0,1,38,f,no,yes,United Kingdom,no,5,18 and more,NO
+1,0,0,0,1,0,1,0,1,1,22,m,no,no,India,no,5,18 and more,NO
+1,1,0,0,1,0,1,0,1,0,36,m,no,no,United States,no,5,18 and more,NO
+0,0,1,1,0,0,1,0,0,0,43,m,no,no,Azerbaijan,no,3,18 and more,NO
+1,1,1,1,1,1,0,0,1,1,44,m,no,no,Pakistan,no,8,18 and more,YES
+1,1,1,0,1,1,0,1,1,1,20,f,no,no,France,no,8,18 and more,YES
+1,1,1,1,1,1,0,1,1,1,40,f,yes,yes,Australia,no,9,18 and more,YES
+1,0,0,1,1,1,0,0,1,0,25,m,no,no,Italy,no,5,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,28,m,no,no,Australia,no,4,18 and more,NO
+0,0,0,0,0,0,1,1,0,1,17,m,no,no,Canada,no,3,18 and more,NO
+1,1,1,1,1,1,1,0,1,1,34,m,no,no,United States,no,9,18 and more,YES
+0,0,0,0,0,0,0,1,0,0,56,m,no,no,Iraq,no,1,18 and more,NO
+0,0,1,0,0,0,1,1,0,0,50,f,no,no,New Zealand,no,3,18 and more,NO
+1,0,0,0,0,0,1,1,0,1,38,m,no,no,United States,no,4,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,47,m,no,no,United States,no,10,18 and more,YES
+1,1,1,1,1,0,1,1,1,1,30,m,no,no,United States,no,9,18 and more,YES
+1,1,1,1,1,0,0,1,0,1,21,m,no,no,United States,no,7,18 and more,YES
+1,1,1,1,1,0,1,1,0,1,21,m,no,no,Ireland,no,8,18 and more,YES
+1,1,1,0,1,0,1,1,1,1,31,m,no,no,Mexico,no,8,18 and more,YES
+1,1,0,0,1,1,0,1,0,1,27,f,yes,no,Czech Republic,no,6,18 and more,NO
+1,1,1,1,0,0,0,0,1,0,24,f,yes,no,United States,no,5,18 and more,NO
+1,1,0,0,0,0,1,0,0,1,35,m,yes,no,United Kingdom,no,4,18 and more,NO
+1,0,0,0,0,0,1,0,0,1,18,m,no,no,Ethiopia,no,3,18 and more,NO
+1,1,1,1,1,0,0,1,1,1,43,f,no,no,United States,no,8,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,44,m,no,yes,Afghanistan,no,10,18 and more,YES
+1,1,1,1,1,1,1,1,1,1,40,m,yes,yes,United Kingdom,no,10,18 and more,YES
+1,1,0,1,1,1,1,1,1,1,49,f,no,no,United States,no,9,18 and more,YES
+1,1,0,0,0,0,0,1,0,0,24,m,no,no,United States,no,3,18 and more,NO
+1,1,0,0,0,0,0,1,1,0,30,f,yes,yes,United States,no,4,18 and more,NO
+1,0,1,0,0,0,0,1,0,1,53,m,no,no,United States,no,4,18 and more,NO
+1,0,1,1,1,0,0,1,1,1,38,m,no,yes,Belgium,no,7,18 and more,YES
+1,0,0,0,1,0,1,1,0,1,28,m,no,no,United States,no,5,18 and more,NO
+1,1,1,0,1,1,1,1,1,1,28,m,no,no,United States,no,9,18 and more,YES
+1,0,1,1,1,1,1,0,1,1,26,m,no,no,Canada,no,8,18 and more,YES
+1,0,0,0,1,1,1,1,1,1,39,f,no,no,Canada,no,7,18 and more,YES
+0,0,0,0,1,0,0,0,0,0,31,f,yes,no,India,no,1,18 and more,NO
+1,0,0,1,0,0,1,1,0,0,24,m,no,no,United States,no,4,18 and more,NO
+1,1,1,0,1,1,1,1,0,1,28,m,no,no,United States,no,8,18 and more,YES
+1,0,0,1,0,0,0,1,0,1,31,f,no,no,United Kingdom,no,4,18 and more,NO
+1,1,1,1,1,0,0,1,0,1,27,m,yes,no,United States,no,7,18 and more,YES
+1,0,1,1,0,0,1,1,0,0,28,m,no,no,Brazil,yes,5,18 and more,NO
+1,1,1,1,1,1,0,1,1,1,31,m,no,yes,Australia,no,9,18 and more,YES
+1,1,1,1,1,0,0,0,0,1,46,f,no,no,Philippines,no,6,18 and more,NO
+1,1,1,1,1,1,1,1,1,1,27,f,no,no,Australia,no,10,18 and more,YES
+0,1,0,1,1,0,1,1,1,1,25,f,no,no,Russia,no,7,18 and more,YES
+1,0,0,0,0,0,0,1,0,1,34,m,no,no,Mexico,no,3,18 and more,NO
+1,0,1,1,1,0,1,1,0,1,24,f,no,no,Russia,no,7,18 and more,YES
+1,0,0,1,1,0,1,0,1,1,35,m,no,no,Pakistan,no,6,18 and more,NO
+1,0,1,1,1,0,1,1,1,1,26,f,no,no,Cyprus,no,8,18 and more,YES

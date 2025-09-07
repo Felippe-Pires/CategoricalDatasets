@@ -1,0 +1,1001 @@
+﻿Restaurant_Name,Location,Delivery_Duration,Taco_Size,Taco_Type,Toppings_Count,Distance,Price,Tip,outlier
+El Taco Loco,New York,40,Regular,Chicken Taco,5,3.01,9.25,2.22,FALSE
+El Taco Loco,San Antonio,14,Regular,Beef Taco,1,6.2,4.25,3.01,TRUE
+Taco Haven,Austin,38,Large,Pork Taco,2,20.33,7,0.02,FALSE
+Spicy Taco House,Dallas,45,Regular,Chicken Taco,2,3,5.5,1.9,TRUE
+Casa del Taco,San Antonio,15,Large,Pork Taco,0,24.34,4.5,1.14,FALSE
+Urban Tacos,San Antonio,83,Regular,Beef Taco,0,16.7,3,2.32,FALSE
+Taco Haven,Los Angeles,45,Large,Veggie Taco,1,9.57,5.75,0.63,FALSE
+El Taco Loco,San Antonio,31,Regular,Chicken Taco,3,9.8,6.75,2.97,FALSE
+The Taco Stand,Houston,17,Regular,Beef Taco,2,10.33,5.5,0.33,TRUE
+Casa del Taco,Houston,73,Large,Fish Taco,1,6.99,5.75,1.23,TRUE
+The Taco Stand,Phoenix,64,Large,Veggie Taco,1,24.93,5.75,0.69,TRUE
+El Taco Loco,New York,29,Regular,Fish Taco,4,2.06,8,1.14,FALSE
+The Taco Stand,Phoenix,11,Regular,Pork Taco,2,19.33,5.5,1.02,FALSE
+Taco Time Express,Chicago,10,Large,Pork Taco,1,12.94,5.75,0.32,FALSE
+Urban Tacos,Austin,35,Regular,Veggie Taco,1,13.71,4.25,2.34,FALSE
+Taco Fiesta,San Antonio,72,Regular,Beef Taco,2,22.03,5.5,4.16,TRUE
+Taco Haven,New York,82,Regular,Beef Taco,5,12.41,9.25,0.35,TRUE
+The Taco Stand,Chicago,70,Regular,Veggie Taco,4,21.87,8,1.27,FALSE
+The Taco Stand,Houston,61,Large,Fish Taco,4,11.56,9.5,0.74,FALSE
+Casa del Taco,New York,80,Regular,Pork Taco,1,0.68,4.25,2.12,FALSE
+Taco Haven,Los Angeles,52,Regular,Pork Taco,1,7.32,4.25,1.46,FALSE
+Spicy Taco House,San Antonio,70,Regular,Fish Taco,3,5.17,6.75,0.48,TRUE
+Casa del Taco,Dallas,69,Regular,Beef Taco,0,10.36,3,1.02,FALSE
+Taco Haven,Houston,78,Large,Chicken Taco,3,5,8.25,1.39,FALSE
+Grande Tacos,Austin,16,Regular,Beef Taco,1,4.57,4.25,2.43,TRUE
+Taco Time Express,New York,58,Regular,Fish Taco,2,23.2,5.5,2.36,FALSE
+Taco Time Express,Austin,29,Regular,Veggie Taco,1,24.23,4.25,1.74,FALSE
+Taco Fiesta,San Diego,16,Large,Pork Taco,4,4.36,9.5,2.88,FALSE
+Spicy Taco House,Los Angeles,18,Regular,Fish Taco,0,23.57,3,1.71,FALSE
+La Vida Taco,New York,20,Large,Pork Taco,4,13.31,9.5,4.67,TRUE
+Casa del Taco,Houston,60,Regular,Veggie Taco,3,8.25,6.75,2.26,FALSE
+Taco Fiesta,San Jose,82,Regular,Beef Taco,4,5.72,8,1.33,TRUE
+El Taco Loco,Houston,46,Regular,Fish Taco,4,17.74,8,1.84,FALSE
+The Taco Stand,New York,48,Regular,Chicken Taco,2,3.33,5.5,0.32,FALSE
+Spicy Taco House,Phoenix,87,Regular,Veggie Taco,1,17.34,4.25,2.56,FALSE
+Grande Tacos,Phoenix,21,Large,Veggie Taco,0,0.59,4.5,2.31,FALSE
+Urban Tacos,Chicago,80,Large,Pork Taco,0,3.24,4.5,2.84,FALSE
+Spicy Taco House,Austin,57,Regular,Fish Taco,1,1.52,4.25,1.82,TRUE
+Taco Fiesta,San Diego,41,Regular,Veggie Taco,4,22.16,8,1.22,FALSE
+Spicy Taco House,Houston,32,Large,Beef Taco,1,18.55,5.75,1,FALSE
+Taco Haven,Phoenix,23,Large,Beef Taco,3,5.95,8.25,2.45,FALSE
+Casa del Taco,Phoenix,38,Regular,Chicken Taco,3,8.54,6.75,2.59,FALSE
+Urban Tacos,San Diego,75,Large,Pork Taco,2,23.51,7,0.35,FALSE
+Spicy Taco House,San Antonio,14,Regular,Pork Taco,3,8.97,6.75,2.36,FALSE
+La Vida Taco,Austin,59,Regular,Veggie Taco,0,17.87,3,0.01,TRUE
+The Taco Stand,Houston,65,Regular,Veggie Taco,4,8.19,8,2.54,FALSE
+Urban Tacos,Austin,62,Large,Fish Taco,5,7.74,10.75,0.38,FALSE
+Taco Time Express,Chicago,82,Large,Fish Taco,4,20.93,9.5,0.91,FALSE
+Taco Time Express,San Antonio,51,Large,Fish Taco,3,17.05,8.25,1.53,FALSE
+Spicy Taco House,Los Angeles,75,Large,Beef Taco,1,16.98,5.75,0.67,FALSE
+Spicy Taco House,New York,41,Large,Pork Taco,0,11.66,4.5,2.66,FALSE
+Taco Haven,Dallas,61,Regular,Chicken Taco,5,17.35,9.25,4.46,TRUE
+El Taco Loco,Dallas,32,Large,Beef Taco,4,6.61,9.5,2.55,FALSE
+Spicy Taco House,San Jose,81,Large,Fish Taco,4,20.47,9.5,4.46,TRUE
+The Taco Stand,San Jose,70,Large,Veggie Taco,1,21.08,5.75,0.83,FALSE
+The Taco Stand,San Jose,40,Large,Fish Taco,0,17.98,4.5,0.7,FALSE
+Casa del Taco,Austin,27,Regular,Chicken Taco,3,17.5,6.75,3.53,TRUE
+Taco Time Express,Dallas,79,Large,Fish Taco,0,5.57,4.5,2.1,TRUE
+La Vida Taco,New York,58,Large,Beef Taco,2,7.82,7,1.95,TRUE
+Taco Time Express,Austin,87,Regular,Fish Taco,1,7.19,4.25,1.46,FALSE
+Casa del Taco,Dallas,69,Regular,Pork Taco,4,1.16,8,1.18,FALSE
+Taco Fiesta,Los Angeles,64,Regular,Fish Taco,1,1.73,4.25,1.14,FALSE
+Grande Tacos,San Diego,58,Large,Fish Taco,2,20.96,7,1.41,FALSE
+The Taco Stand,New York,38,Regular,Beef Taco,0,23.77,3,1,TRUE
+La Vida Taco,Chicago,26,Large,Beef Taco,4,23.72,9.5,1.4,FALSE
+Casa del Taco,Chicago,87,Regular,Chicken Taco,2,3.15,5.5,0.08,FALSE
+La Vida Taco,Dallas,35,Regular,Pork Taco,5,20.85,9.25,0.73,FALSE
+Urban Tacos,San Antonio,82,Regular,Veggie Taco,4,11,8,1.11,FALSE
+Casa del Taco,New York,72,Regular,Fish Taco,2,16.07,5.5,2.49,FALSE
+Spicy Taco House,Dallas,76,Large,Pork Taco,4,19.48,9.5,1.39,FALSE
+La Vida Taco,Phoenix,41,Regular,Veggie Taco,3,6.47,6.75,2.32,TRUE
+Taco Time Express,San Diego,73,Large,Chicken Taco,3,5.7,8.25,2.39,FALSE
+Urban Tacos,San Antonio,81,Regular,Pork Taco,1,2.6,4.25,2.16,FALSE
+The Taco Stand,Houston,72,Large,Beef Taco,0,7.71,4.5,2.02,TRUE
+Urban Tacos,San Antonio,70,Large,Fish Taco,5,13.98,10.75,1.76,TRUE
+Urban Tacos,Phoenix,39,Regular,Chicken Taco,2,3.43,5.5,2.68,TRUE
+Spicy Taco House,Houston,71,Large,Pork Taco,4,15.12,9.5,2.94,FALSE
+Taco Haven,Phoenix,56,Regular,Veggie Taco,0,17.85,3,0.38,FALSE
+Taco Fiesta,Austin,26,Large,Beef Taco,0,14.56,4.5,1.41,FALSE
+Casa del Taco,Chicago,42,Large,Beef Taco,0,10.32,4.5,0.22,FALSE
+Taco Fiesta,Chicago,82,Large,Beef Taco,1,3.4,5.75,2.29,FALSE
+La Vida Taco,San Antonio,76,Large,Fish Taco,3,7.79,8.25,1.77,FALSE
+Urban Tacos,San Antonio,17,Regular,Chicken Taco,5,5.67,9.25,3.3,TRUE
+Taco Haven,Chicago,19,Regular,Beef Taco,3,11.54,6.75,1.78,FALSE
+Taco Fiesta,Houston,46,Large,Beef Taco,5,6.22,10.75,1.32,TRUE
+La Vida Taco,Houston,24,Regular,Chicken Taco,2,20.75,5.5,0.21,FALSE
+Urban Tacos,San Antonio,46,Large,Beef Taco,3,17.37,8.25,2.1,FALSE
+The Taco Stand,Austin,66,Regular,Pork Taco,0,22.29,3,3.67,TRUE
+Urban Tacos,New York,39,Regular,Veggie Taco,4,1.49,8,2.27,FALSE
+The Taco Stand,San Jose,33,Large,Fish Taco,0,12.02,4.5,2.04,TRUE
+El Taco Loco,Chicago,62,Large,Veggie Taco,5,23.66,10.75,2.44,FALSE
+Taco Fiesta,San Jose,50,Large,Veggie Taco,0,24.27,4.5,2.02,TRUE
+Taco Fiesta,Austin,62,Regular,Chicken Taco,4,9.36,8,2.27,FALSE
+Grande Tacos,New York,44,Regular,Veggie Taco,3,22.08,6.75,1.45,FALSE
+La Vida Taco,Houston,49,Regular,Pork Taco,3,2.78,6.75,2.98,FALSE
+Grande Tacos,Los Angeles,29,Large,Veggie Taco,4,17.78,9.5,2.08,TRUE
+Grande Tacos,Houston,80,Regular,Fish Taco,1,23.09,4.25,1.52,FALSE
+El Taco Loco,Phoenix,53,Large,Beef Taco,2,18.29,7,2.51,FALSE
+Grande Tacos,Chicago,78,Large,Veggie Taco,2,14.02,7,1.63,FALSE
+Casa del Taco,Houston,83,Large,Chicken Taco,3,1.57,8.25,2.23,FALSE
+Taco Time Express,Dallas,29,Large,Beef Taco,1,12.81,5.75,1.77,FALSE
+Grande Tacos,Los Angeles,68,Regular,Chicken Taco,3,21.84,6.75,2.91,FALSE
+Grande Tacos,Phoenix,89,Large,Beef Taco,2,21.38,7,2.58,FALSE
+Casa del Taco,San Jose,14,Regular,Chicken Taco,5,17.27,9.25,0.86,FALSE
+El Taco Loco,Dallas,22,Large,Chicken Taco,5,7.84,10.75,0.14,TRUE
+Taco Fiesta,Phoenix,57,Large,Chicken Taco,1,13.51,5.75,2.83,TRUE
+Spicy Taco House,Chicago,20,Large,Pork Taco,5,6.4,10.75,2.74,FALSE
+Taco Haven,San Jose,42,Large,Veggie Taco,5,0.73,10.75,4.02,TRUE
+The Taco Stand,Chicago,66,Large,Pork Taco,2,16.15,7,1.27,FALSE
+Grande Tacos,Phoenix,59,Large,Beef Taco,1,9.84,5.75,1.08,FALSE
+Urban Tacos,New York,45,Regular,Pork Taco,5,19.57,9.25,4.87,TRUE
+Grande Tacos,Phoenix,87,Large,Chicken Taco,5,5.16,10.75,0.75,FALSE
+Spicy Taco House,Los Angeles,15,Large,Fish Taco,0,14.7,4.5,2.2,FALSE
+Urban Tacos,San Diego,32,Regular,Chicken Taco,4,21.97,8,1.1,FALSE
+Urban Tacos,Chicago,71,Large,Veggie Taco,0,11.97,4.5,0.23,FALSE
+Taco Haven,Dallas,56,Regular,Fish Taco,0,6.98,3,0.62,TRUE
+Urban Tacos,San Antonio,57,Regular,Chicken Taco,3,1.11,6.75,2.65,FALSE
+Casa del Taco,San Antonio,18,Large,Veggie Taco,5,10.5,10.75,0.42,FALSE
+Urban Tacos,San Jose,22,Regular,Pork Taco,1,10.02,4.25,1.86,TRUE
+The Taco Stand,Dallas,29,Large,Beef Taco,3,15.58,8.25,2.82,FALSE
+Taco Fiesta,San Diego,66,Large,Chicken Taco,2,2.93,7,2.06,FALSE
+Casa del Taco,New York,45,Regular,Beef Taco,3,2.75,6.75,0.64,FALSE
+La Vida Taco,New York,52,Regular,Chicken Taco,4,5.53,8,2.49,FALSE
+Taco Haven,San Antonio,39,Large,Chicken Taco,4,0.57,9.5,4.29,TRUE
+Spicy Taco House,Austin,32,Regular,Beef Taco,1,0.86,4.25,3.95,TRUE
+La Vida Taco,San Diego,32,Large,Beef Taco,1,18.67,5.75,2.63,TRUE
+El Taco Loco,San Jose,56,Regular,Fish Taco,4,5.93,8,3.08,TRUE
+The Taco Stand,Phoenix,13,Regular,Fish Taco,3,10.94,6.75,0.54,TRUE
+Grande Tacos,Los Angeles,51,Regular,Beef Taco,1,7.24,4.25,3.17,TRUE
+Casa del Taco,Dallas,77,Large,Fish Taco,4,15.33,9.5,0.3,FALSE
+El Taco Loco,Austin,65,Large,Chicken Taco,3,8.8,8.25,2.27,TRUE
+El Taco Loco,San Diego,50,Large,Veggie Taco,1,17.33,5.75,1.42,FALSE
+El Taco Loco,Los Angeles,22,Large,Chicken Taco,4,1.97,9.5,4.78,TRUE
+Casa del Taco,Los Angeles,55,Large,Beef Taco,2,15.21,7,1.05,FALSE
+The Taco Stand,Houston,71,Regular,Beef Taco,2,21.21,5.5,1.1,FALSE
+Urban Tacos,San Antonio,64,Regular,Pork Taco,5,20.82,9.25,0.8,FALSE
+Urban Tacos,Phoenix,54,Regular,Chicken Taco,1,14.37,4.25,1.2,FALSE
+Taco Fiesta,Los Angeles,37,Large,Fish Taco,3,8.85,8.25,1.85,TRUE
+Casa del Taco,San Antonio,20,Regular,Chicken Taco,1,18.98,4.25,0.15,FALSE
+Urban Tacos,San Jose,72,Large,Fish Taco,2,5.78,7,1.54,FALSE
+Taco Time Express,Los Angeles,85,Large,Pork Taco,5,8.06,10.75,0.66,FALSE
+Taco Fiesta,New York,48,Regular,Chicken Taco,2,7.59,5.5,0.36,FALSE
+Taco Time Express,Chicago,58,Regular,Pork Taco,4,20.92,8,2.42,FALSE
+Taco Time Express,New York,12,Large,Beef Taco,2,14.61,7,1.72,FALSE
+Taco Time Express,Phoenix,61,Regular,Veggie Taco,1,20.13,4.25,3.09,TRUE
+Casa del Taco,Los Angeles,23,Regular,Fish Taco,4,10.31,8,0.24,FALSE
+Casa del Taco,Houston,31,Regular,Pork Taco,5,3.29,9.25,2.55,TRUE
+Casa del Taco,San Diego,28,Regular,Beef Taco,1,6.77,4.25,0.52,FALSE
+El Taco Loco,Chicago,73,Large,Pork Taco,4,11.5,9.5,2.77,FALSE
+La Vida Taco,San Diego,50,Regular,Fish Taco,0,11.99,3,1.89,FALSE
+Urban Tacos,San Antonio,55,Regular,Veggie Taco,3,11.57,6.75,0.17,FALSE
+Urban Tacos,Los Angeles,21,Large,Fish Taco,4,14.08,9.5,2.38,FALSE
+Grande Tacos,San Antonio,34,Large,Pork Taco,3,12.78,8.25,2.87,FALSE
+El Taco Loco,San Diego,74,Regular,Beef Taco,1,17.84,4.25,2.97,FALSE
+The Taco Stand,San Antonio,56,Large,Veggie Taco,3,10.51,8.25,1.02,FALSE
+Taco Fiesta,San Diego,52,Regular,Pork Taco,5,9.97,9.25,0.76,FALSE
+La Vida Taco,Chicago,20,Regular,Veggie Taco,2,24.21,5.5,3.49,TRUE
+Spicy Taco House,San Antonio,49,Large,Veggie Taco,1,16.92,5.75,2.49,FALSE
+The Taco Stand,Los Angeles,64,Large,Beef Taco,2,8.07,7,2.85,FALSE
+Grande Tacos,Houston,27,Regular,Beef Taco,2,21.19,5.5,0.3,FALSE
+The Taco Stand,Austin,53,Regular,Pork Taco,3,4.28,6.75,0.54,FALSE
+La Vida Taco,Chicago,15,Large,Veggie Taco,5,18.13,10.75,2.91,FALSE
+Urban Tacos,San Jose,78,Regular,Veggie Taco,3,22.65,6.75,0.97,TRUE
+La Vida Taco,San Jose,46,Large,Pork Taco,4,10.76,9.5,0.49,FALSE
+La Vida Taco,Chicago,16,Large,Veggie Taco,4,23.39,9.5,3.56,TRUE
+El Taco Loco,Phoenix,30,Large,Fish Taco,4,4.11,9.5,1.31,FALSE
+Grande Tacos,San Diego,63,Regular,Fish Taco,4,9.66,8,1.93,TRUE
+Casa del Taco,Houston,50,Regular,Veggie Taco,1,3.87,4.25,0.86,FALSE
+Grande Tacos,Chicago,67,Regular,Beef Taco,0,6.77,3,2.5,FALSE
+La Vida Taco,Austin,24,Large,Chicken Taco,2,3.49,7,1.19,TRUE
+La Vida Taco,San Jose,24,Large,Pork Taco,4,0.9,9.5,2.58,TRUE
+Spicy Taco House,Phoenix,10,Large,Chicken Taco,4,10.71,9.5,1.99,FALSE
+The Taco Stand,San Diego,77,Regular,Fish Taco,3,1.57,6.75,1.16,FALSE
+Urban Tacos,New York,18,Large,Chicken Taco,5,16.6,10.75,0.31,FALSE
+Casa del Taco,Chicago,55,Large,Chicken Taco,5,11.88,10.75,3.48,TRUE
+Spicy Taco House,Chicago,68,Regular,Veggie Taco,1,1.57,4.25,0.6,FALSE
+Casa del Taco,Phoenix,60,Large,Veggie Taco,0,18.96,4.5,0.57,FALSE
+Taco Fiesta,San Diego,25,Large,Fish Taco,3,18.71,8.25,2.68,FALSE
+Casa del Taco,Chicago,73,Large,Pork Taco,2,20.13,7,2.18,FALSE
+Taco Time Express,San Antonio,79,Large,Veggie Taco,0,2.46,4.5,1.98,FALSE
+Grande Tacos,San Antonio,31,Large,Veggie Taco,3,1.54,8.25,2.61,FALSE
+La Vida Taco,Dallas,17,Regular,Fish Taco,2,13.07,5.5,2.25,FALSE
+Taco Fiesta,Chicago,66,Regular,Chicken Taco,0,6.28,3,1.94,FALSE
+Taco Time Express,San Antonio,87,Regular,Fish Taco,2,9.61,5.5,2.29,FALSE
+Spicy Taco House,Austin,60,Large,Veggie Taco,1,24.03,5.75,0.13,TRUE
+Grande Tacos,Austin,81,Regular,Veggie Taco,2,17.75,5.5,1.07,TRUE
+Urban Tacos,San Jose,25,Regular,Beef Taco,3,4.73,6.75,2.14,FALSE
+Casa del Taco,San Diego,80,Large,Veggie Taco,1,17.94,5.75,2.78,FALSE
+Spicy Taco House,San Diego,38,Regular,Chicken Taco,1,6.3,4.25,1.48,FALSE
+The Taco Stand,San Antonio,69,Regular,Pork Taco,0,2.11,3,1.99,TRUE
+Grande Tacos,Austin,62,Regular,Chicken Taco,2,16.24,5.5,1.35,FALSE
+The Taco Stand,San Diego,80,Regular,Chicken Taco,3,12.82,6.75,2.6,FALSE
+El Taco Loco,Austin,48,Regular,Chicken Taco,2,23.4,5.5,1.13,TRUE
+Urban Tacos,Los Angeles,35,Large,Chicken Taco,5,7.92,10.75,2.67,TRUE
+Spicy Taco House,San Antonio,29,Regular,Pork Taco,5,22.6,9.25,1.01,FALSE
+Taco Fiesta,New York,15,Large,Chicken Taco,4,10.71,9.5,1.92,FALSE
+The Taco Stand,Phoenix,48,Large,Chicken Taco,5,10.45,10.75,1.36,FALSE
+Taco Fiesta,Chicago,63,Large,Fish Taco,1,8.83,5.75,0.72,TRUE
+Casa del Taco,San Diego,26,Large,Pork Taco,4,3.1,9.5,0.73,FALSE
+Urban Tacos,San Jose,28,Regular,Beef Taco,2,23.66,5.5,2.59,FALSE
+Taco Haven,Chicago,83,Large,Chicken Taco,1,12.71,5.75,1.54,FALSE
+Urban Tacos,San Jose,21,Large,Pork Taco,3,24.18,8.25,0.65,FALSE
+Taco Fiesta,New York,73,Large,Veggie Taco,4,0.7,9.5,0.32,FALSE
+Urban Tacos,San Diego,56,Regular,Fish Taco,0,14.47,3,0.97,TRUE
+Urban Tacos,Los Angeles,74,Large,Pork Taco,2,20.72,7,3.12,TRUE
+El Taco Loco,Chicago,60,Large,Veggie Taco,4,23.5,9.5,3.77,TRUE
+La Vida Taco,Austin,74,Regular,Beef Taco,0,3.86,3,1,FALSE
+The Taco Stand,San Jose,87,Regular,Veggie Taco,4,8.3,8,1.18,FALSE
+Urban Tacos,San Antonio,74,Large,Pork Taco,2,12.13,7,0.05,FALSE
+El Taco Loco,Dallas,49,Regular,Pork Taco,3,7.01,6.75,3.28,TRUE
+La Vida Taco,San Antonio,16,Large,Chicken Taco,4,15.91,9.5,1.86,FALSE
+Taco Time Express,Chicago,14,Regular,Chicken Taco,0,11.31,3,2.09,TRUE
+Taco Haven,Dallas,88,Large,Beef Taco,5,3.88,10.75,0.62,FALSE
+Grande Tacos,Austin,50,Regular,Fish Taco,4,8.89,8,1.77,TRUE
+Urban Tacos,San Antonio,34,Regular,Veggie Taco,4,7.81,8,4.71,TRUE
+Urban Tacos,Houston,50,Large,Veggie Taco,4,23.38,9.5,2.39,FALSE
+Urban Tacos,Los Angeles,79,Large,Fish Taco,2,23.89,7,2.41,FALSE
+Taco Fiesta,Phoenix,54,Large,Veggie Taco,5,12.24,10.75,1.01,TRUE
+Urban Tacos,Austin,27,Regular,Pork Taco,5,14.88,9.25,0.73,FALSE
+The Taco Stand,Houston,39,Regular,Beef Taco,3,8.59,6.75,2.36,TRUE
+Spicy Taco House,New York,30,Large,Fish Taco,3,16.44,8.25,2.27,FALSE
+Casa del Taco,Phoenix,17,Regular,Pork Taco,1,13.61,4.25,2.17,FALSE
+Spicy Taco House,Dallas,14,Large,Fish Taco,1,23.45,5.75,2.89,FALSE
+Taco Fiesta,New York,82,Regular,Veggie Taco,2,11.63,5.5,1.92,FALSE
+Grande Tacos,Chicago,69,Large,Chicken Taco,0,8.6,4.5,3.66,TRUE
+Urban Tacos,Chicago,53,Large,Pork Taco,5,19.05,10.75,0.53,FALSE
+Taco Time Express,Dallas,51,Regular,Fish Taco,5,2.84,9.25,2.95,FALSE
+Casa del Taco,Houston,43,Large,Chicken Taco,3,18.97,8.25,4.77,TRUE
+La Vida Taco,San Antonio,43,Large,Chicken Taco,0,16.86,4.5,1.4,FALSE
+Taco Time Express,Austin,25,Large,Veggie Taco,4,5.91,9.5,2.87,FALSE
+Spicy Taco House,San Jose,57,Large,Pork Taco,3,19.06,8.25,2.41,FALSE
+Taco Haven,Houston,20,Large,Pork Taco,5,9.36,10.75,2.75,FALSE
+Taco Fiesta,Austin,35,Regular,Chicken Taco,2,21.43,5.5,1.33,FALSE
+Taco Haven,San Antonio,21,Large,Beef Taco,3,3.73,8.25,1.25,FALSE
+Taco Fiesta,Austin,49,Regular,Fish Taco,2,20.5,5.5,2.24,FALSE
+El Taco Loco,New York,54,Regular,Pork Taco,0,23.4,3,0.21,FALSE
+Taco Fiesta,Phoenix,33,Regular,Fish Taco,2,24.82,5.5,1.15,FALSE
+Taco Time Express,Los Angeles,27,Large,Beef Taco,1,24.82,5.75,1.97,TRUE
+Taco Haven,New York,48,Large,Pork Taco,3,13.53,8.25,2.47,FALSE
+Grande Tacos,San Diego,45,Regular,Beef Taco,0,20.33,3,1.26,FALSE
+Taco Fiesta,Houston,18,Regular,Pork Taco,0,11.44,3,3.36,TRUE
+Taco Haven,New York,66,Regular,Pork Taco,1,18.98,4.25,2.33,FALSE
+The Taco Stand,Phoenix,83,Large,Pork Taco,4,19.43,9.5,4.09,TRUE
+Urban Tacos,Chicago,38,Large,Veggie Taco,2,1.99,7,4.74,TRUE
+Spicy Taco House,Dallas,73,Regular,Veggie Taco,5,16.95,9.25,2.36,FALSE
+Taco Time Express,Dallas,48,Large,Chicken Taco,4,12.1,9.5,2.55,FALSE
+Spicy Taco House,San Jose,81,Large,Fish Taco,4,13.48,9.5,1.17,FALSE
+Taco Haven,San Diego,20,Large,Veggie Taco,0,13.62,4.5,4.15,TRUE
+Urban Tacos,Dallas,87,Regular,Beef Taco,1,20.21,4.25,1.76,FALSE
+The Taco Stand,Houston,36,Large,Veggie Taco,0,5.69,4.5,0.57,FALSE
+El Taco Loco,San Jose,87,Regular,Fish Taco,1,14.03,4.25,3.88,TRUE
+Grande Tacos,Austin,55,Large,Veggie Taco,2,13.06,7,2.49,TRUE
+Grande Tacos,San Diego,57,Large,Fish Taco,0,14.28,4.5,0.66,FALSE
+Taco Fiesta,Phoenix,84,Large,Veggie Taco,1,5.31,5.75,0.69,FALSE
+Taco Haven,San Jose,53,Large,Fish Taco,5,16.22,10.75,1.47,FALSE
+Casa del Taco,Chicago,79,Large,Chicken Taco,4,24.76,9.5,2.87,FALSE
+Taco Fiesta,Los Angeles,10,Large,Chicken Taco,5,6.17,10.75,2.12,FALSE
+Taco Haven,Austin,57,Regular,Pork Taco,5,16.84,9.25,1.85,FALSE
+Grande Tacos,New York,78,Large,Beef Taco,0,13.47,4.5,1.37,TRUE
+Taco Fiesta,Austin,32,Regular,Beef Taco,4,4.15,8,0.96,TRUE
+Urban Tacos,San Diego,60,Regular,Veggie Taco,3,11.75,6.75,0.73,FALSE
+Taco Haven,Phoenix,14,Regular,Fish Taco,3,9.74,6.75,2.38,TRUE
+Taco Fiesta,Chicago,73,Large,Veggie Taco,4,24.44,9.5,2.92,FALSE
+Taco Fiesta,Houston,82,Large,Veggie Taco,0,23.14,4.5,2.05,FALSE
+The Taco Stand,San Antonio,32,Large,Beef Taco,1,14.88,5.75,2.26,FALSE
+Taco Time Express,Los Angeles,30,Regular,Pork Taco,3,17.09,6.75,1.62,FALSE
+Spicy Taco House,Los Angeles,54,Regular,Beef Taco,3,6.19,6.75,0.23,FALSE
+La Vida Taco,San Antonio,51,Regular,Veggie Taco,3,12.52,6.75,1.07,FALSE
+Taco Time Express,Chicago,58,Regular,Pork Taco,2,20.05,5.5,2.14,FALSE
+Urban Tacos,Chicago,29,Large,Veggie Taco,2,3.11,7,0.02,FALSE
+Grande Tacos,San Diego,23,Regular,Beef Taco,1,11.06,4.25,2.78,TRUE
+Taco Time Express,Los Angeles,21,Large,Pork Taco,0,15.12,4.5,3.92,TRUE
+Taco Fiesta,Phoenix,59,Regular,Pork Taco,1,14.51,4.25,0.85,TRUE
+Spicy Taco House,Chicago,48,Large,Fish Taco,1,2.05,5.75,2.17,TRUE
+Urban Tacos,San Jose,56,Large,Chicken Taco,5,15.81,10.75,1.78,FALSE
+Grande Tacos,Los Angeles,48,Regular,Fish Taco,2,21.12,5.5,1.14,FALSE
+Grande Tacos,San Diego,86,Regular,Veggie Taco,2,15.28,5.5,3.48,TRUE
+Casa del Taco,Chicago,50,Large,Fish Taco,4,19.66,9.5,0.98,FALSE
+Taco Time Express,San Diego,82,Regular,Pork Taco,4,4.91,8,2.3,FALSE
+Grande Tacos,Houston,47,Regular,Fish Taco,5,12.73,9.25,1.9,FALSE
+Urban Tacos,Chicago,58,Regular,Fish Taco,4,12.24,8,2,TRUE
+Taco Time Express,Austin,56,Regular,Beef Taco,1,16.61,4.25,1.07,FALSE
+La Vida Taco,New York,61,Large,Fish Taco,0,0.76,4.5,0.78,FALSE
+The Taco Stand,Austin,83,Regular,Fish Taco,2,10.08,5.5,2.32,FALSE
+The Taco Stand,Chicago,13,Large,Beef Taco,2,10.69,7,2.89,FALSE
+Spicy Taco House,San Diego,53,Large,Chicken Taco,4,12.33,9.5,1.43,FALSE
+Grande Tacos,San Diego,48,Regular,Beef Taco,0,21.3,3,1.94,FALSE
+Spicy Taco House,Houston,32,Regular,Veggie Taco,4,10.95,8,1.39,FALSE
+Taco Time Express,Chicago,65,Large,Beef Taco,5,15.55,10.75,0.59,FALSE
+Taco Time Express,Dallas,37,Regular,Veggie Taco,5,20.31,9.25,0.19,FALSE
+The Taco Stand,Chicago,51,Regular,Fish Taco,0,6.93,3,2.59,FALSE
+Casa del Taco,San Antonio,88,Large,Pork Taco,0,9.02,4.5,2.54,FALSE
+Spicy Taco House,Phoenix,85,Regular,Chicken Taco,2,3.39,5.5,0.92,FALSE
+Casa del Taco,Chicago,59,Large,Pork Taco,1,14.58,5.75,1.27,FALSE
+The Taco Stand,Chicago,31,Large,Veggie Taco,1,5.08,5.75,2.53,FALSE
+Taco Fiesta,San Diego,72,Regular,Chicken Taco,3,24.11,6.75,1.52,FALSE
+Taco Time Express,San Jose,66,Large,Chicken Taco,0,14.35,4.5,2.39,FALSE
+Urban Tacos,New York,38,Large,Chicken Taco,3,14.36,8.25,2.32,FALSE
+The Taco Stand,Austin,83,Regular,Veggie Taco,4,20.67,8,1.1,FALSE
+Taco Fiesta,San Jose,37,Large,Beef Taco,5,20.84,10.75,2.25,FALSE
+Taco Fiesta,San Jose,54,Regular,Fish Taco,0,19.5,3,0.71,FALSE
+La Vida Taco,San Diego,90,Large,Chicken Taco,4,3.91,9.5,1.03,TRUE
+Taco Fiesta,San Antonio,78,Large,Pork Taco,4,4.63,9.5,4.9,TRUE
+Urban Tacos,San Antonio,75,Regular,Chicken Taco,3,23.01,6.75,2.98,FALSE
+Spicy Taco House,Chicago,28,Large,Chicken Taco,5,10.12,10.75,0.43,FALSE
+Urban Tacos,Dallas,67,Regular,Beef Taco,3,13.13,6.75,0.83,FALSE
+Grande Tacos,San Jose,84,Regular,Beef Taco,5,24.32,9.25,1.9,FALSE
+Casa del Taco,Los Angeles,60,Regular,Fish Taco,1,12.62,4.25,0.97,FALSE
+Casa del Taco,Austin,26,Large,Veggie Taco,5,19.18,10.75,0.14,FALSE
+Grande Tacos,New York,30,Large,Fish Taco,0,24.8,4.5,2.14,TRUE
+Spicy Taco House,Phoenix,45,Regular,Veggie Taco,2,2.52,5.5,1.99,FALSE
+Spicy Taco House,New York,90,Large,Chicken Taco,3,16.56,8.25,3.52,TRUE
+Taco Haven,San Jose,26,Regular,Pork Taco,5,11.4,9.25,0.02,FALSE
+El Taco Loco,Dallas,71,Regular,Chicken Taco,3,2.69,6.75,2.42,FALSE
+Casa del Taco,San Diego,27,Large,Chicken Taco,5,24.83,10.75,0.43,FALSE
+La Vida Taco,New York,31,Large,Veggie Taco,5,5.72,10.75,3.74,TRUE
+La Vida Taco,San Jose,21,Regular,Chicken Taco,0,14.94,3,1.15,FALSE
+Casa del Taco,Chicago,45,Regular,Chicken Taco,4,15.22,8,2.16,FALSE
+Taco Fiesta,Phoenix,76,Regular,Fish Taco,2,16.33,5.5,3.92,TRUE
+Taco Haven,San Jose,24,Regular,Fish Taco,5,15.05,9.25,2.64,TRUE
+Casa del Taco,San Diego,59,Large,Veggie Taco,4,17.23,9.5,2.29,FALSE
+El Taco Loco,New York,18,Regular,Veggie Taco,1,1.48,4.25,0.18,FALSE
+Taco Time Express,Austin,90,Large,Fish Taco,5,10.36,10.75,3.2,TRUE
+La Vida Taco,Chicago,20,Large,Beef Taco,4,23.06,9.5,4.87,TRUE
+The Taco Stand,San Diego,85,Regular,Veggie Taco,5,11.22,9.25,2.86,FALSE
+Taco Fiesta,Houston,65,Regular,Fish Taco,4,15.42,8,0.93,FALSE
+Spicy Taco House,Los Angeles,27,Regular,Chicken Taco,3,23.85,6.75,1.57,FALSE
+Urban Tacos,Chicago,26,Large,Beef Taco,0,8.71,4.5,1.29,FALSE
+El Taco Loco,Phoenix,90,Regular,Fish Taco,3,13.01,6.75,0.28,TRUE
+Spicy Taco House,San Diego,42,Regular,Pork Taco,5,18.21,9.25,0.69,FALSE
+Taco Fiesta,New York,41,Regular,Fish Taco,2,9.88,5.5,0.45,FALSE
+Taco Fiesta,Austin,63,Regular,Veggie Taco,1,10.7,4.25,3.6,TRUE
+El Taco Loco,San Antonio,25,Regular,Chicken Taco,1,20.21,4.25,2.94,FALSE
+El Taco Loco,San Jose,49,Large,Beef Taco,4,11.69,9.5,1.11,FALSE
+La Vida Taco,Phoenix,41,Large,Veggie Taco,4,24.31,9.5,2.99,FALSE
+Taco Haven,Austin,29,Regular,Fish Taco,0,6.21,3,1.04,FALSE
+Taco Fiesta,San Diego,58,Large,Beef Taco,1,13.48,5.75,0.71,FALSE
+Taco Fiesta,Chicago,21,Regular,Chicken Taco,4,10.62,8,2.69,FALSE
+El Taco Loco,San Antonio,74,Regular,Fish Taco,0,15,3,0.19,FALSE
+Spicy Taco House,Houston,43,Large,Fish Taco,5,20.88,10.75,0.98,FALSE
+Urban Tacos,Houston,35,Regular,Pork Taco,0,4.31,3,0.49,FALSE
+Casa del Taco,Dallas,78,Large,Chicken Taco,3,8.05,8.25,0.8,FALSE
+El Taco Loco,Chicago,87,Regular,Chicken Taco,2,4.13,5.5,3.56,TRUE
+Taco Time Express,Austin,48,Large,Chicken Taco,0,23.83,4.5,2.56,FALSE
+The Taco Stand,Houston,69,Regular,Chicken Taco,0,0.79,3,2.49,FALSE
+Spicy Taco House,Houston,57,Regular,Pork Taco,4,6.84,8,2.44,FALSE
+El Taco Loco,Houston,66,Regular,Beef Taco,2,3.5,5.5,2.83,FALSE
+Spicy Taco House,San Antonio,60,Large,Beef Taco,3,17.24,8.25,0.52,FALSE
+Spicy Taco House,Phoenix,67,Regular,Beef Taco,4,15.67,8,0.74,FALSE
+Grande Tacos,Dallas,71,Regular,Beef Taco,2,9.88,5.5,1.26,FALSE
+The Taco Stand,Houston,79,Regular,Fish Taco,5,9.3,9.25,2.72,TRUE
+Casa del Taco,San Antonio,51,Large,Veggie Taco,1,1.14,5.75,2.99,TRUE
+Urban Tacos,New York,77,Large,Pork Taco,1,24.36,5.75,0.3,FALSE
+Taco Haven,Phoenix,17,Regular,Pork Taco,3,9.19,6.75,2.52,FALSE
+Spicy Taco House,Chicago,85,Large,Veggie Taco,4,1.19,9.5,2.1,FALSE
+La Vida Taco,Chicago,34,Large,Pork Taco,2,4.8,7,0.11,FALSE
+Taco Haven,San Antonio,12,Large,Beef Taco,2,22.99,7,0.6,FALSE
+Casa del Taco,Chicago,17,Regular,Chicken Taco,4,17.77,8,0.71,TRUE
+The Taco Stand,San Diego,57,Large,Pork Taco,0,8.75,4.5,0.97,FALSE
+Taco Time Express,San Jose,50,Regular,Pork Taco,5,22.3,9.25,1.84,FALSE
+Taco Haven,San Antonio,58,Large,Veggie Taco,1,4.85,5.75,0.01,FALSE
+La Vida Taco,Dallas,14,Regular,Pork Taco,2,23.07,5.5,4.84,TRUE
+La Vida Taco,Los Angeles,28,Large,Beef Taco,1,9,5.75,0.96,FALSE
+El Taco Loco,San Diego,11,Large,Chicken Taco,1,17.48,5.75,1.05,FALSE
+El Taco Loco,New York,59,Large,Fish Taco,1,22.17,5.75,1.48,FALSE
+Casa del Taco,Austin,22,Large,Pork Taco,5,19.08,10.75,0.68,FALSE
+El Taco Loco,New York,12,Large,Veggie Taco,0,2.32,4.5,0.85,TRUE
+Spicy Taco House,Los Angeles,21,Large,Pork Taco,4,22.38,9.5,2.11,FALSE
+Spicy Taco House,San Antonio,30,Regular,Beef Taco,2,5.54,5.5,0.57,FALSE
+The Taco Stand,Austin,46,Large,Chicken Taco,0,1.72,4.5,1.72,FALSE
+Grande Tacos,Chicago,56,Regular,Fish Taco,0,7.72,3,1.99,FALSE
+Grande Tacos,Houston,13,Regular,Chicken Taco,5,7.65,9.25,0.41,TRUE
+El Taco Loco,Phoenix,70,Large,Veggie Taco,0,16.23,4.5,1.16,FALSE
+Taco Time Express,San Diego,67,Regular,Veggie Taco,3,11.89,6.75,0.68,FALSE
+La Vida Taco,New York,22,Regular,Veggie Taco,4,10.64,8,3.78,TRUE
+The Taco Stand,New York,76,Large,Pork Taco,5,21.74,10.75,2.37,TRUE
+Grande Tacos,Phoenix,60,Regular,Pork Taco,4,22.56,8,4,TRUE
+La Vida Taco,Chicago,67,Regular,Chicken Taco,1,20.31,4.25,0.38,FALSE
+El Taco Loco,Dallas,90,Regular,Pork Taco,2,8.33,5.5,2.18,FALSE
+El Taco Loco,Los Angeles,81,Large,Pork Taco,2,21.49,7,1.56,FALSE
+La Vida Taco,San Antonio,63,Regular,Fish Taco,1,4.13,4.25,2.94,TRUE
+El Taco Loco,Los Angeles,22,Large,Pork Taco,2,22.01,7,0.79,FALSE
+Grande Tacos,San Antonio,70,Regular,Chicken Taco,2,10.37,5.5,1.85,FALSE
+Taco Time Express,New York,52,Regular,Beef Taco,5,12.14,9.25,1.34,TRUE
+Taco Fiesta,San Diego,49,Large,Fish Taco,5,17.28,10.75,2.92,FALSE
+Spicy Taco House,Phoenix,51,Large,Fish Taco,4,16.32,9.5,0.56,FALSE
+Taco Time Express,San Jose,57,Regular,Pork Taco,1,2.11,4.25,2.13,FALSE
+Spicy Taco House,Austin,13,Regular,Chicken Taco,1,21.01,4.25,0.75,FALSE
+Taco Fiesta,San Diego,45,Large,Fish Taco,4,10.23,9.5,2.77,FALSE
+Taco Fiesta,Houston,72,Large,Chicken Taco,3,14.88,8.25,1.05,FALSE
+Urban Tacos,Los Angeles,13,Large,Beef Taco,1,21.42,5.75,2.34,FALSE
+Taco Haven,Houston,44,Large,Pork Taco,0,21.68,4.5,4.84,TRUE
+Taco Fiesta,San Jose,32,Regular,Chicken Taco,2,15.4,5.5,2.83,FALSE
+Urban Tacos,Dallas,54,Large,Veggie Taco,1,11.93,5.75,3.39,TRUE
+La Vida Taco,Dallas,23,Regular,Pork Taco,5,24.18,9.25,4.2,TRUE
+La Vida Taco,San Antonio,48,Regular,Fish Taco,0,8.74,3,0.83,FALSE
+Urban Tacos,Phoenix,48,Regular,Chicken Taco,4,19.25,8,4.5,TRUE
+La Vida Taco,Dallas,27,Regular,Fish Taco,2,6.86,5.5,1.26,FALSE
+Taco Fiesta,San Antonio,34,Large,Chicken Taco,5,13.6,10.75,2.35,FALSE
+Casa del Taco,Austin,31,Regular,Veggie Taco,0,12.03,3,2.22,FALSE
+The Taco Stand,Chicago,21,Regular,Veggie Taco,1,18.73,4.25,0.92,FALSE
+Casa del Taco,San Diego,84,Large,Fish Taco,0,12.03,4.5,4.33,TRUE
+La Vida Taco,San Antonio,70,Regular,Pork Taco,0,21.75,3,1.91,TRUE
+Taco Time Express,New York,27,Regular,Veggie Taco,3,24.69,6.75,4.46,TRUE
+Spicy Taco House,San Diego,20,Large,Veggie Taco,5,24.67,10.75,0.94,FALSE
+Taco Fiesta,San Jose,36,Regular,Pork Taco,1,12.49,4.25,2.29,FALSE
+Spicy Taco House,San Antonio,64,Large,Fish Taco,3,9.89,8.25,0.11,FALSE
+Casa del Taco,New York,77,Regular,Beef Taco,5,0.6,9.25,3.67,TRUE
+Casa del Taco,Phoenix,23,Large,Pork Taco,4,8,9.5,0.2,FALSE
+Urban Tacos,Phoenix,76,Large,Fish Taco,5,24.89,10.75,1.03,FALSE
+Casa del Taco,Houston,61,Regular,Chicken Taco,1,18.32,4.25,0.39,FALSE
+Taco Fiesta,San Antonio,31,Regular,Veggie Taco,5,16.44,9.25,0.19,TRUE
+Urban Tacos,Austin,16,Regular,Beef Taco,5,20.98,9.25,0.14,FALSE
+Taco Time Express,San Jose,25,Large,Fish Taco,5,4.25,10.75,2.09,FALSE
+Taco Fiesta,Phoenix,22,Large,Pork Taco,4,17.67,9.5,1.26,FALSE
+The Taco Stand,San Antonio,46,Regular,Beef Taco,3,5.37,6.75,0.6,FALSE
+The Taco Stand,Houston,62,Large,Chicken Taco,0,13.93,4.5,4.55,TRUE
+Grande Tacos,San Diego,10,Regular,Beef Taco,0,20.96,3,2.01,FALSE
+El Taco Loco,Austin,22,Large,Chicken Taco,3,24.72,8.25,0.89,FALSE
+Taco Fiesta,Los Angeles,15,Large,Veggie Taco,5,8.16,10.75,2.22,FALSE
+Taco Fiesta,New York,31,Large,Veggie Taco,3,23.9,8.25,0.8,FALSE
+El Taco Loco,San Diego,33,Regular,Fish Taco,3,24.08,6.75,0.82,FALSE
+Grande Tacos,Dallas,31,Regular,Chicken Taco,5,18.3,9.25,4.91,TRUE
+Spicy Taco House,Los Angeles,85,Large,Pork Taco,5,11.23,10.75,1.83,FALSE
+Casa del Taco,San Antonio,26,Large,Fish Taco,0,22.25,4.5,1.32,FALSE
+Urban Tacos,San Diego,77,Regular,Veggie Taco,4,13.32,8,2.1,FALSE
+Taco Time Express,Houston,54,Large,Chicken Taco,4,22.36,9.5,1.84,FALSE
+Spicy Taco House,Austin,73,Regular,Beef Taco,3,8.36,6.75,0.99,FALSE
+Taco Fiesta,Austin,80,Large,Fish Taco,1,2.43,5.75,1.33,FALSE
+Grande Tacos,Los Angeles,67,Large,Beef Taco,3,18.76,8.25,0.05,FALSE
+Taco Time Express,New York,80,Regular,Beef Taco,4,24.1,8,3.19,TRUE
+The Taco Stand,Houston,68,Large,Veggie Taco,0,20.51,4.5,2.53,FALSE
+The Taco Stand,San Antonio,70,Large,Fish Taco,0,2.89,4.5,1.98,FALSE
+Casa del Taco,San Diego,47,Large,Beef Taco,0,22.47,4.5,1.48,FALSE
+Taco Time Express,Los Angeles,88,Regular,Chicken Taco,0,23.29,3,1.18,FALSE
+Taco Haven,San Diego,63,Regular,Pork Taco,0,19.42,3,2.25,TRUE
+La Vida Taco,Austin,73,Regular,Pork Taco,5,1.69,9.25,4.68,TRUE
+La Vida Taco,San Jose,32,Regular,Chicken Taco,0,9.99,3,1.8,FALSE
+The Taco Stand,Dallas,87,Regular,Veggie Taco,3,24.11,6.75,2.91,FALSE
+Spicy Taco House,Chicago,87,Large,Pork Taco,2,17.94,7,4.68,TRUE
+Taco Haven,Houston,89,Large,Veggie Taco,5,3.75,10.75,2.13,FALSE
+The Taco Stand,Austin,51,Regular,Veggie Taco,4,12.27,8,1.71,FALSE
+Taco Time Express,Austin,64,Regular,Pork Taco,0,1.12,3,0.73,TRUE
+Taco Fiesta,Houston,30,Large,Veggie Taco,1,21.06,5.75,2.07,FALSE
+Taco Haven,Austin,55,Large,Beef Taco,4,21.77,9.5,2.22,FALSE
+The Taco Stand,Dallas,75,Large,Beef Taco,3,10,8.25,2.87,FALSE
+Casa del Taco,Austin,11,Large,Chicken Taco,4,21.79,9.5,4.3,TRUE
+Taco Haven,San Diego,79,Regular,Chicken Taco,2,11.5,5.5,2.95,FALSE
+Spicy Taco House,Chicago,25,Large,Beef Taco,3,7.34,8.25,0.79,FALSE
+La Vida Taco,Phoenix,52,Large,Chicken Taco,0,4.27,4.5,0.97,FALSE
+La Vida Taco,Phoenix,83,Large,Beef Taco,5,8.29,10.75,0.66,FALSE
+The Taco Stand,Los Angeles,30,Large,Pork Taco,4,10.38,9.5,1.05,FALSE
+Casa del Taco,San Diego,47,Regular,Pork Taco,4,12.13,8,1.68,FALSE
+Taco Fiesta,Los Angeles,67,Regular,Pork Taco,4,6.47,8,0.12,FALSE
+Taco Time Express,Los Angeles,42,Large,Beef Taco,4,20.64,9.5,1.87,TRUE
+The Taco Stand,San Jose,15,Large,Chicken Taco,2,13.09,7,2.84,FALSE
+The Taco Stand,Austin,90,Regular,Chicken Taco,5,15.92,9.25,1.07,TRUE
+Taco Time Express,Los Angeles,78,Large,Beef Taco,5,17.31,10.75,0.12,TRUE
+Casa del Taco,New York,19,Regular,Chicken Taco,2,14.17,5.5,1.72,FALSE
+Urban Tacos,Dallas,67,Large,Fish Taco,2,0.91,7,2.02,FALSE
+Taco Fiesta,San Antonio,84,Regular,Beef Taco,2,23.24,5.5,0.32,FALSE
+Urban Tacos,San Antonio,46,Large,Fish Taco,3,20.64,8.25,0.09,FALSE
+The Taco Stand,Houston,60,Large,Chicken Taco,2,17.09,7,2.74,FALSE
+Casa del Taco,New York,81,Regular,Beef Taco,0,0.62,3,1.79,FALSE
+The Taco Stand,Los Angeles,36,Large,Chicken Taco,3,22.69,8.25,4.26,TRUE
+Spicy Taco House,Chicago,88,Large,Chicken Taco,0,4.94,4.5,2.4,FALSE
+Taco Fiesta,Austin,80,Regular,Veggie Taco,5,2.15,9.25,0.29,FALSE
+La Vida Taco,San Jose,55,Regular,Chicken Taco,0,7.49,3,0.21,FALSE
+Casa del Taco,San Jose,52,Large,Pork Taco,1,14.36,5.75,1.09,FALSE
+Taco Time Express,Chicago,50,Regular,Chicken Taco,5,18.63,9.25,1.31,FALSE
+Casa del Taco,Chicago,71,Large,Fish Taco,2,19.48,7,2.43,TRUE
+Spicy Taco House,San Antonio,45,Regular,Pork Taco,1,6.95,4.25,2.66,FALSE
+El Taco Loco,New York,90,Regular,Pork Taco,4,10.43,8,1.77,FALSE
+The Taco Stand,Phoenix,79,Large,Chicken Taco,2,10.12,7,2.67,FALSE
+Urban Tacos,Chicago,74,Regular,Fish Taco,2,12.8,5.5,1.99,FALSE
+La Vida Taco,Chicago,27,Large,Chicken Taco,1,14.38,5.75,1.7,FALSE
+Grande Tacos,San Diego,38,Large,Chicken Taco,0,6.98,4.5,0.7,FALSE
+Taco Haven,Austin,59,Large,Fish Taco,0,1.48,4.5,1.95,FALSE
+The Taco Stand,Phoenix,84,Regular,Fish Taco,5,9.77,9.25,1.76,FALSE
+El Taco Loco,Austin,58,Regular,Pork Taco,3,9.15,6.75,4.34,TRUE
+Grande Tacos,San Antonio,74,Regular,Fish Taco,1,6.13,4.25,2.57,TRUE
+Taco Haven,Chicago,30,Large,Pork Taco,5,20.52,10.75,3.31,TRUE
+Casa del Taco,Los Angeles,71,Large,Chicken Taco,4,4.45,9.5,2.5,FALSE
+Taco Haven,New York,83,Regular,Chicken Taco,5,13.06,9.25,2.67,FALSE
+Taco Fiesta,Chicago,33,Large,Pork Taco,4,16.12,9.5,2.64,FALSE
+Urban Tacos,Los Angeles,67,Large,Fish Taco,1,5.87,5.75,1.23,FALSE
+La Vida Taco,Chicago,75,Large,Chicken Taco,5,17.3,10.75,2.77,FALSE
+La Vida Taco,Los Angeles,58,Large,Chicken Taco,0,0.91,4.5,1.57,FALSE
+Taco Time Express,Chicago,22,Regular,Fish Taco,4,15.2,8,2.63,FALSE
+The Taco Stand,Los Angeles,71,Regular,Pork Taco,4,20.77,8,2.69,FALSE
+Taco Time Express,Austin,57,Regular,Pork Taco,3,6.12,6.75,2.41,FALSE
+Taco Time Express,San Diego,83,Regular,Fish Taco,1,6.74,4.25,2.3,FALSE
+Urban Tacos,San Antonio,62,Large,Chicken Taco,0,17.87,4.5,2.37,FALSE
+The Taco Stand,Los Angeles,10,Large,Chicken Taco,5,20.21,10.75,1.23,FALSE
+Spicy Taco House,Dallas,84,Large,Veggie Taco,4,10.88,9.5,1.1,FALSE
+Taco Time Express,Houston,80,Large,Chicken Taco,2,14.2,7,2.42,TRUE
+La Vida Taco,San Diego,27,Regular,Chicken Taco,3,19.69,6.75,2.85,FALSE
+Taco Haven,Austin,53,Regular,Chicken Taco,3,24.13,6.75,0.02,FALSE
+Spicy Taco House,San Jose,65,Regular,Beef Taco,2,5.93,5.5,0.24,FALSE
+Taco Time Express,Dallas,76,Large,Pork Taco,0,23.67,4.5,2.46,FALSE
+Grande Tacos,San Jose,35,Large,Chicken Taco,0,19.71,4.5,1.53,FALSE
+Taco Haven,San Antonio,14,Large,Chicken Taco,5,0.51,10.75,0.79,TRUE
+Taco Time Express,San Diego,61,Regular,Pork Taco,0,18.55,3,0.34,TRUE
+The Taco Stand,Phoenix,84,Large,Veggie Taco,2,6.04,7,2.89,FALSE
+Taco Time Express,San Antonio,43,Regular,Fish Taco,4,3.11,8,0.22,FALSE
+Casa del Taco,Los Angeles,42,Large,Fish Taco,3,14.3,8.25,3.85,TRUE
+Casa del Taco,San Jose,85,Regular,Fish Taco,0,6.82,3,1.15,FALSE
+Taco Haven,Houston,62,Large,Pork Taco,4,0.74,9.5,2.5,FALSE
+Urban Tacos,Los Angeles,53,Regular,Pork Taco,1,12.18,4.25,1.06,FALSE
+Urban Tacos,Chicago,73,Regular,Chicken Taco,5,6.43,9.25,0.8,FALSE
+Taco Haven,Houston,55,Regular,Beef Taco,0,23.04,3,2.03,FALSE
+Grande Tacos,San Antonio,79,Regular,Fish Taco,2,15.71,5.5,2.46,TRUE
+Urban Tacos,San Jose,75,Large,Fish Taco,1,18.88,5.75,0.38,FALSE
+Taco Time Express,San Jose,14,Large,Fish Taco,5,19.51,10.75,1.37,FALSE
+The Taco Stand,San Jose,11,Regular,Chicken Taco,3,14.73,6.75,0.98,FALSE
+Urban Tacos,Chicago,43,Regular,Veggie Taco,3,23.98,6.75,1.72,TRUE
+Grande Tacos,Dallas,63,Large,Veggie Taco,3,7.35,8.25,0.54,FALSE
+La Vida Taco,Houston,44,Regular,Pork Taco,3,21.48,6.75,0.59,FALSE
+Spicy Taco House,San Jose,32,Large,Fish Taco,1,24.89,5.75,2.55,FALSE
+The Taco Stand,San Diego,48,Large,Pork Taco,4,1.67,9.5,0.49,TRUE
+Taco Fiesta,Houston,70,Regular,Fish Taco,5,8.7,9.25,1.08,FALSE
+The Taco Stand,Phoenix,12,Large,Beef Taco,2,21.75,7,2.89,FALSE
+La Vida Taco,San Antonio,78,Regular,Veggie Taco,2,8.46,5.5,1.53,FALSE
+Grande Tacos,Los Angeles,88,Large,Fish Taco,5,23.94,10.75,2.6,FALSE
+Casa del Taco,Dallas,88,Large,Beef Taco,0,4.47,4.5,0.68,FALSE
+Urban Tacos,Phoenix,60,Large,Fish Taco,2,18.82,7,1.56,FALSE
+Taco Time Express,Chicago,12,Regular,Chicken Taco,5,6.67,9.25,2.23,FALSE
+El Taco Loco,Houston,60,Regular,Beef Taco,0,23.45,3,1.42,FALSE
+Taco Fiesta,Dallas,20,Regular,Veggie Taco,4,4.3,8,1.96,FALSE
+Urban Tacos,Houston,46,Large,Chicken Taco,1,13.41,5.75,0.51,FALSE
+Casa del Taco,San Diego,69,Large,Pork Taco,3,3.81,8.25,4.74,TRUE
+Spicy Taco House,San Antonio,68,Large,Pork Taco,5,16.17,10.75,0.93,FALSE
+Grande Tacos,Austin,21,Large,Veggie Taco,2,10.6,7,0.47,FALSE
+Taco Fiesta,Austin,54,Large,Fish Taco,4,0.7,9.5,2.77,FALSE
+Grande Tacos,Phoenix,65,Large,Pork Taco,1,20.02,5.75,1.64,FALSE
+Taco Time Express,Austin,60,Regular,Chicken Taco,5,18.56,9.25,1.17,FALSE
+Taco Haven,Phoenix,64,Regular,Pork Taco,4,20.29,8,3.42,TRUE
+The Taco Stand,Phoenix,34,Regular,Chicken Taco,1,7.6,4.25,3.18,TRUE
+Grande Tacos,Phoenix,72,Regular,Veggie Taco,0,4.23,3,2.91,FALSE
+Spicy Taco House,Los Angeles,44,Regular,Fish Taco,5,0.7,9.25,0.27,FALSE
+Grande Tacos,Houston,63,Large,Fish Taco,2,11.86,7,3.96,TRUE
+El Taco Loco,Chicago,44,Large,Beef Taco,4,12.02,9.5,0.58,FALSE
+Urban Tacos,Dallas,25,Regular,Fish Taco,3,6.56,6.75,2.98,FALSE
+Grande Tacos,Los Angeles,36,Large,Fish Taco,5,24.05,10.75,4.68,TRUE
+Taco Fiesta,Austin,25,Large,Fish Taco,5,7.82,10.75,1.8,TRUE
+Taco Haven,Los Angeles,65,Large,Beef Taco,1,19.96,5.75,1.75,FALSE
+Taco Haven,New York,84,Large,Pork Taco,1,9.6,5.75,0.27,FALSE
+Grande Tacos,Los Angeles,53,Regular,Beef Taco,2,16.29,5.5,2.1,FALSE
+El Taco Loco,Chicago,39,Large,Pork Taco,5,19.04,10.75,2.42,FALSE
+Taco Haven,New York,55,Regular,Veggie Taco,0,12.39,3,2.19,TRUE
+The Taco Stand,San Jose,82,Regular,Pork Taco,2,8.43,5.5,1.41,FALSE
+La Vida Taco,Austin,18,Regular,Fish Taco,2,20.58,5.5,2.71,TRUE
+Taco Fiesta,Austin,33,Regular,Pork Taco,2,19.51,5.5,0.72,FALSE
+El Taco Loco,Austin,34,Large,Pork Taco,1,15.52,5.75,1.61,TRUE
+Casa del Taco,Los Angeles,76,Regular,Beef Taco,1,4.88,4.25,0.09,FALSE
+Grande Tacos,Houston,14,Large,Fish Taco,4,15.79,9.5,2.95,TRUE
+Casa del Taco,Houston,19,Regular,Chicken Taco,5,12.54,9.25,2.67,FALSE
+Grande Tacos,New York,81,Large,Veggie Taco,5,1.93,10.75,1.85,FALSE
+Taco Fiesta,Los Angeles,19,Regular,Pork Taco,0,2.98,3,1.16,TRUE
+Taco Haven,Houston,41,Regular,Pork Taco,5,14.17,9.25,2.24,FALSE
+La Vida Taco,San Diego,64,Regular,Chicken Taco,1,13.97,4.25,2.52,TRUE
+Spicy Taco House,Austin,66,Large,Veggie Taco,4,24.79,9.5,0.97,FALSE
+Taco Time Express,Dallas,87,Regular,Pork Taco,4,5.74,8,3.83,TRUE
+Urban Tacos,San Diego,67,Large,Beef Taco,5,1.35,10.75,0.85,FALSE
+The Taco Stand,Chicago,10,Large,Chicken Taco,1,21.47,5.75,0.07,FALSE
+Urban Tacos,Austin,81,Regular,Beef Taco,0,11.78,3,0.78,TRUE
+Casa del Taco,San Antonio,39,Large,Veggie Taco,0,14.48,4.5,2.85,TRUE
+El Taco Loco,San Diego,32,Large,Pork Taco,0,15.08,4.5,0.9,FALSE
+La Vida Taco,Dallas,17,Large,Veggie Taco,3,10.7,8.25,2.6,FALSE
+Taco Haven,San Antonio,90,Large,Beef Taco,2,13.35,7,0.96,FALSE
+Spicy Taco House,San Diego,38,Regular,Beef Taco,5,18.42,9.25,1.96,TRUE
+La Vida Taco,San Antonio,21,Regular,Fish Taco,2,19.77,5.5,0.44,FALSE
+El Taco Loco,San Jose,16,Large,Veggie Taco,0,10.26,4.5,1.3,FALSE
+Spicy Taco House,Chicago,81,Regular,Fish Taco,3,16.48,6.75,0.59,FALSE
+The Taco Stand,Houston,19,Large,Fish Taco,2,17.28,7,2.88,TRUE
+Taco Time Express,Dallas,54,Regular,Veggie Taco,2,15.05,5.5,0.07,FALSE
+Spicy Taco House,San Diego,66,Regular,Fish Taco,0,23.14,3,0.7,FALSE
+Casa del Taco,Chicago,24,Regular,Chicken Taco,4,23.2,8,2.61,FALSE
+Urban Tacos,New York,24,Large,Fish Taco,3,1.06,8.25,0.63,FALSE
+Taco Haven,Houston,76,Large,Pork Taco,3,15.76,8.25,2.98,FALSE
+Taco Fiesta,Dallas,77,Regular,Veggie Taco,1,1.97,4.25,0.6,FALSE
+La Vida Taco,Phoenix,69,Regular,Beef Taco,3,16.68,6.75,3.31,TRUE
+Casa del Taco,Los Angeles,47,Large,Chicken Taco,3,12.96,8.25,2.13,FALSE
+Grande Tacos,San Antonio,21,Regular,Chicken Taco,4,24.19,8,2.8,TRUE
+Taco Fiesta,New York,77,Large,Veggie Taco,3,10.14,8.25,0.47,FALSE
+Casa del Taco,San Diego,48,Regular,Pork Taco,2,20.39,5.5,1.88,FALSE
+Taco Fiesta,Austin,38,Regular,Veggie Taco,3,16.59,6.75,0.26,FALSE
+The Taco Stand,San Antonio,39,Large,Chicken Taco,4,4.24,9.5,2.91,FALSE
+Casa del Taco,San Jose,26,Regular,Chicken Taco,4,13.76,8,2.4,FALSE
+Urban Tacos,Austin,65,Regular,Pork Taco,1,8.28,4.25,1.67,FALSE
+El Taco Loco,Chicago,28,Regular,Veggie Taco,3,24.05,6.75,0.91,FALSE
+Urban Tacos,Chicago,23,Regular,Chicken Taco,0,19.18,3,3.06,TRUE
+La Vida Taco,San Antonio,39,Regular,Chicken Taco,5,1.14,9.25,0.4,TRUE
+Grande Tacos,Chicago,87,Large,Veggie Taco,1,21.38,5.75,2.46,TRUE
+Spicy Taco House,Houston,14,Large,Beef Taco,2,23.78,7,0.67,FALSE
+Taco Haven,Houston,32,Large,Pork Taco,3,17.35,8.25,2.6,FALSE
+Taco Time Express,Dallas,87,Large,Veggie Taco,3,15.48,8.25,2.23,FALSE
+The Taco Stand,Austin,14,Regular,Fish Taco,3,20.76,6.75,0.13,FALSE
+The Taco Stand,Austin,15,Large,Pork Taco,5,24.08,10.75,0.95,TRUE
+Taco Time Express,Phoenix,69,Regular,Fish Taco,2,15.52,5.5,0.27,TRUE
+Spicy Taco House,San Jose,67,Regular,Pork Taco,0,4.9,3,1.76,FALSE
+The Taco Stand,Chicago,62,Large,Fish Taco,0,4.88,4.5,1.77,FALSE
+Taco Haven,San Jose,42,Large,Chicken Taco,5,18.46,10.75,0.27,FALSE
+Grande Tacos,San Diego,77,Large,Pork Taco,4,23.77,9.5,1.14,FALSE
+Taco Fiesta,Chicago,82,Regular,Chicken Taco,1,4.88,4.25,2.14,FALSE
+Urban Tacos,Phoenix,46,Regular,Beef Taco,1,24.03,4.25,0.01,FALSE
+Urban Tacos,New York,73,Large,Pork Taco,0,15.4,4.5,2.47,TRUE
+La Vida Taco,San Jose,62,Large,Beef Taco,4,15.2,9.5,0.73,FALSE
+Urban Tacos,San Antonio,81,Regular,Beef Taco,1,4.13,4.25,3.27,TRUE
+Spicy Taco House,New York,87,Large,Veggie Taco,0,1.7,4.5,1.25,FALSE
+Spicy Taco House,Phoenix,86,Regular,Fish Taco,5,14.68,9.25,4.66,TRUE
+Urban Tacos,San Diego,58,Regular,Fish Taco,4,2.09,8,2.35,TRUE
+Urban Tacos,San Diego,62,Regular,Chicken Taco,4,1.93,8,1.71,FALSE
+The Taco Stand,Los Angeles,87,Large,Fish Taco,4,21.27,9.5,0.78,FALSE
+La Vida Taco,San Diego,88,Large,Pork Taco,5,15.98,10.75,1.48,FALSE
+La Vida Taco,Houston,34,Regular,Beef Taco,0,11.89,3,2.39,FALSE
+Taco Haven,San Antonio,62,Regular,Veggie Taco,2,14.23,5.5,1.91,FALSE
+Taco Haven,Phoenix,18,Large,Veggie Taco,4,13.97,9.5,2.3,FALSE
+Casa del Taco,San Diego,82,Regular,Chicken Taco,1,8.6,4.25,1.69,TRUE
+Grande Tacos,San Jose,27,Large,Chicken Taco,5,11.79,10.75,4.33,TRUE
+Grande Tacos,Dallas,76,Large,Pork Taco,5,17.12,10.75,1.67,FALSE
+Taco Haven,San Antonio,55,Regular,Chicken Taco,2,21.1,5.5,1.7,TRUE
+The Taco Stand,Chicago,87,Large,Chicken Taco,4,3.36,9.5,2.35,FALSE
+Casa del Taco,New York,62,Regular,Fish Taco,1,9.6,4.25,2.49,FALSE
+Taco Haven,Austin,32,Regular,Veggie Taco,0,19.56,3,2.74,FALSE
+The Taco Stand,New York,74,Regular,Chicken Taco,2,23.13,5.5,2.2,FALSE
+Urban Tacos,San Diego,22,Regular,Chicken Taco,5,1.4,9.25,1.94,TRUE
+El Taco Loco,New York,15,Regular,Veggie Taco,3,22.29,6.75,0.31,FALSE
+Urban Tacos,New York,49,Regular,Veggie Taco,1,5.22,4.25,0.83,FALSE
+Grande Tacos,Los Angeles,29,Regular,Veggie Taco,0,0.87,3,1.87,FALSE
+El Taco Loco,Houston,54,Large,Veggie Taco,1,23.61,5.75,2.41,FALSE
+Taco Haven,Chicago,49,Large,Pork Taco,3,1.74,8.25,0.14,TRUE
+Taco Fiesta,Los Angeles,16,Regular,Fish Taco,3,4.89,6.75,1.79,FALSE
+Grande Tacos,San Antonio,49,Large,Chicken Taco,5,19.08,10.75,2.43,FALSE
+Grande Tacos,San Antonio,21,Large,Beef Taco,3,8.1,8.25,1.93,FALSE
+Grande Tacos,San Jose,38,Regular,Pork Taco,2,22.87,5.5,1.18,FALSE
+Casa del Taco,San Diego,72,Regular,Beef Taco,3,3.27,6.75,1.44,FALSE
+Spicy Taco House,Phoenix,87,Regular,Pork Taco,0,10.44,3,2.14,FALSE
+Casa del Taco,Austin,19,Large,Pork Taco,3,10.32,8.25,1.24,FALSE
+Taco Haven,Austin,71,Large,Beef Taco,2,5.6,7,2.08,FALSE
+Taco Time Express,San Antonio,79,Regular,Chicken Taco,5,16.91,9.25,3.7,TRUE
+La Vida Taco,San Jose,85,Large,Veggie Taco,4,2.89,9.5,1.34,FALSE
+Taco Time Express,Los Angeles,23,Large,Veggie Taco,3,16.3,8.25,0.18,FALSE
+Spicy Taco House,San Antonio,10,Regular,Chicken Taco,3,13.52,6.75,1.17,FALSE
+Grande Tacos,Houston,50,Large,Pork Taco,5,7.96,10.75,4.72,TRUE
+Casa del Taco,Los Angeles,11,Large,Chicken Taco,2,2.03,7,2.7,FALSE
+Taco Fiesta,Austin,24,Large,Beef Taco,1,11.08,5.75,2.95,TRUE
+Casa del Taco,Dallas,58,Large,Pork Taco,1,16.73,5.75,1.42,FALSE
+The Taco Stand,Dallas,63,Regular,Veggie Taco,5,3.58,9.25,0.06,TRUE
+Taco Fiesta,Chicago,65,Regular,Beef Taco,1,16.23,4.25,1.25,FALSE
+La Vida Taco,Dallas,33,Large,Pork Taco,3,14.03,8.25,1.35,FALSE
+Taco Haven,Chicago,87,Regular,Pork Taco,3,21.25,6.75,0.71,FALSE
+Urban Tacos,Dallas,83,Large,Beef Taco,0,14.42,4.5,2.11,FALSE
+La Vida Taco,San Jose,28,Large,Fish Taco,4,2.42,9.5,4.45,TRUE
+Taco Haven,San Jose,19,Large,Pork Taco,0,22.64,4.5,2.68,TRUE
+Grande Tacos,San Jose,70,Large,Fish Taco,2,24.03,7,3.99,TRUE
+Spicy Taco House,New York,48,Large,Beef Taco,5,12.09,10.75,0.51,FALSE
+Urban Tacos,San Antonio,46,Large,Beef Taco,1,12.89,5.75,2.55,FALSE
+Urban Tacos,Chicago,45,Large,Veggie Taco,0,18.67,4.5,1.81,FALSE
+Spicy Taco House,San Jose,32,Large,Chicken Taco,3,4.93,8.25,1.58,FALSE
+Casa del Taco,Los Angeles,86,Regular,Fish Taco,3,19.37,6.75,0.71,FALSE
+Spicy Taco House,Houston,54,Regular,Veggie Taco,0,1.79,3,1.39,FALSE
+Urban Tacos,San Jose,39,Large,Fish Taco,3,6.93,8.25,1.59,FALSE
+Taco Fiesta,Phoenix,58,Large,Pork Taco,5,23.92,10.75,0.49,TRUE
+Casa del Taco,Dallas,44,Large,Veggie Taco,2,20.16,7,1.28,TRUE
+Taco Time Express,San Jose,85,Regular,Pork Taco,2,17.1,5.5,4.97,TRUE
+The Taco Stand,New York,18,Regular,Fish Taco,0,13.37,3,3.43,TRUE
+Taco Haven,Phoenix,34,Regular,Beef Taco,4,2.75,8,4.69,TRUE
+Taco Haven,San Antonio,25,Regular,Beef Taco,4,3.68,8,3.28,TRUE
+La Vida Taco,Chicago,33,Large,Veggie Taco,3,16.68,8.25,0.23,FALSE
+Urban Tacos,Dallas,42,Regular,Beef Taco,2,19.54,5.5,1.91,TRUE
+Taco Fiesta,Phoenix,32,Large,Beef Taco,3,24.5,8.25,0.6,FALSE
+Spicy Taco House,San Jose,28,Large,Chicken Taco,4,16.26,9.5,2.74,FALSE
+Urban Tacos,Los Angeles,19,Regular,Pork Taco,5,6.64,9.25,2.23,TRUE
+Spicy Taco House,New York,59,Large,Chicken Taco,5,8.58,10.75,1.17,FALSE
+The Taco Stand,San Jose,65,Large,Beef Taco,4,6.03,9.5,1.15,FALSE
+Grande Tacos,Los Angeles,78,Large,Veggie Taco,5,7.92,10.75,0.28,TRUE
+El Taco Loco,San Diego,53,Regular,Fish Taco,2,16.37,5.5,0.53,FALSE
+Taco Time Express,Houston,59,Regular,Veggie Taco,3,2.58,6.75,1.9,FALSE
+Taco Haven,Chicago,34,Regular,Pork Taco,1,12.49,4.25,0.31,TRUE
+Urban Tacos,San Jose,67,Regular,Beef Taco,2,1.87,5.5,2.36,FALSE
+Taco Time Express,Los Angeles,76,Large,Pork Taco,1,18.66,5.75,0.7,FALSE
+Taco Fiesta,Chicago,12,Large,Pork Taco,0,6.45,4.5,1.95,FALSE
+Spicy Taco House,New York,22,Large,Pork Taco,1,20.97,5.75,0.19,FALSE
+El Taco Loco,Los Angeles,86,Regular,Beef Taco,1,10.94,4.25,2.43,FALSE
+Taco Time Express,San Diego,83,Regular,Veggie Taco,1,19.22,4.25,1.78,FALSE
+El Taco Loco,Los Angeles,28,Large,Chicken Taco,5,9.56,10.75,0.5,FALSE
+La Vida Taco,New York,22,Large,Chicken Taco,0,22.05,4.5,0.4,TRUE
+Spicy Taco House,Los Angeles,85,Large,Fish Taco,5,20.28,10.75,2.32,FALSE
+Spicy Taco House,Houston,44,Large,Fish Taco,1,23.48,5.75,3.05,TRUE
+La Vida Taco,Chicago,88,Regular,Veggie Taco,2,10.76,5.5,1.67,FALSE
+El Taco Loco,Austin,89,Large,Pork Taco,4,5.87,9.5,2.31,FALSE
+Taco Haven,Phoenix,34,Regular,Chicken Taco,5,21.17,9.25,4.56,TRUE
+Spicy Taco House,Chicago,16,Large,Veggie Taco,1,11.15,5.75,1.67,TRUE
+Grande Tacos,New York,16,Regular,Chicken Taco,0,12.38,3,0.35,FALSE
+Grande Tacos,San Antonio,51,Large,Chicken Taco,5,17.08,10.75,0.98,FALSE
+El Taco Loco,San Diego,22,Regular,Fish Taco,1,9.7,4.25,0.66,FALSE
+La Vida Taco,San Jose,65,Regular,Chicken Taco,4,11.65,8,1.16,FALSE
+Grande Tacos,Houston,55,Large,Chicken Taco,2,3.62,7,2.08,FALSE
+Urban Tacos,Chicago,69,Large,Fish Taco,1,19.13,5.75,0.66,FALSE
+La Vida Taco,Chicago,88,Regular,Pork Taco,4,21.45,8,0.43,TRUE
+The Taco Stand,San Jose,85,Large,Fish Taco,2,0.86,7,1.28,FALSE
+Taco Haven,San Diego,84,Regular,Pork Taco,1,22.89,4.25,2.69,FALSE
+Taco Fiesta,New York,74,Regular,Fish Taco,4,10.16,8,2.43,FALSE
+El Taco Loco,San Jose,40,Regular,Pork Taco,0,17.48,3,2.03,TRUE
+Spicy Taco House,San Diego,40,Regular,Beef Taco,3,16.89,6.75,0.81,TRUE
+La Vida Taco,San Antonio,68,Large,Chicken Taco,5,10.43,10.75,2.37,FALSE
+Grande Tacos,New York,19,Large,Veggie Taco,4,1.3,9.5,1.28,FALSE
+La Vida Taco,Austin,36,Regular,Pork Taco,2,18.53,5.5,0.27,TRUE
+Casa del Taco,New York,59,Large,Fish Taco,4,1.5,9.5,1.1,FALSE
+The Taco Stand,Los Angeles,36,Regular,Veggie Taco,1,13.72,4.25,1.95,FALSE
+La Vida Taco,Houston,51,Large,Veggie Taco,4,17.17,9.5,0.83,FALSE
+Casa del Taco,San Diego,72,Regular,Fish Taco,5,13.53,9.25,2.48,FALSE
+Grande Tacos,San Antonio,18,Regular,Fish Taco,0,2.46,3,4.49,TRUE
+El Taco Loco,Los Angeles,45,Regular,Chicken Taco,3,4.19,6.75,0.61,FALSE
+Taco Fiesta,Phoenix,79,Regular,Fish Taco,2,10.79,5.5,2.21,FALSE
+Urban Tacos,Houston,12,Regular,Pork Taco,5,8.73,9.25,2.89,TRUE
+Casa del Taco,San Jose,77,Large,Fish Taco,2,14.4,7,4.49,TRUE
+Spicy Taco House,Phoenix,71,Large,Veggie Taco,0,4.13,4.5,0.85,FALSE
+La Vida Taco,Chicago,46,Regular,Chicken Taco,5,17.48,9.25,2,FALSE
+Spicy Taco House,Houston,15,Large,Pork Taco,1,11.3,5.75,1.85,TRUE
+The Taco Stand,New York,54,Regular,Veggie Taco,3,13.73,6.75,0.49,FALSE
+El Taco Loco,New York,73,Regular,Fish Taco,2,4.32,5.5,4.85,TRUE
+The Taco Stand,San Diego,47,Large,Veggie Taco,4,16.84,9.5,4,TRUE
+Grande Tacos,San Diego,71,Regular,Chicken Taco,5,14,9.25,0.92,FALSE
+La Vida Taco,Houston,55,Regular,Veggie Taco,0,15.4,3,0.59,FALSE
+Taco Haven,Phoenix,12,Regular,Pork Taco,3,17.09,6.75,4.79,TRUE
+Taco Time Express,Houston,50,Regular,Veggie Taco,3,4.12,6.75,2.56,FALSE
+Taco Time Express,San Diego,46,Large,Veggie Taco,2,24.45,7,2.62,FALSE
+Taco Haven,San Jose,66,Large,Chicken Taco,5,24.27,10.75,1.27,FALSE
+Spicy Taco House,San Antonio,21,Regular,Chicken Taco,2,12.13,5.5,2.6,FALSE
+El Taco Loco,San Antonio,21,Regular,Fish Taco,5,22.9,9.25,1.24,FALSE
+Grande Tacos,San Antonio,35,Regular,Fish Taco,2,14.07,5.5,0.13,FALSE
+Urban Tacos,San Antonio,73,Large,Chicken Taco,0,19.88,4.5,0.77,TRUE
+Grande Tacos,Los Angeles,46,Large,Chicken Taco,3,22.72,8.25,1.93,FALSE
+El Taco Loco,Phoenix,18,Large,Pork Taco,3,14.36,8.25,2.61,FALSE
+Grande Tacos,Los Angeles,75,Regular,Veggie Taco,1,14.75,4.25,0.44,FALSE
+Spicy Taco House,San Diego,16,Large,Veggie Taco,3,16.09,8.25,2.87,FALSE
+Urban Tacos,Phoenix,19,Regular,Chicken Taco,0,15.17,3,0.84,TRUE
+Casa del Taco,Phoenix,56,Regular,Pork Taco,4,9.11,8,0.43,FALSE
+The Taco Stand,Phoenix,72,Large,Veggie Taco,1,3.01,5.75,0.46,FALSE
+Taco Haven,Austin,77,Regular,Fish Taco,3,22.94,6.75,0.35,FALSE
+Taco Fiesta,San Jose,49,Large,Chicken Taco,3,22.3,8.25,1.79,FALSE
+Casa del Taco,Chicago,13,Regular,Chicken Taco,1,21.49,4.25,0.71,TRUE
+Urban Tacos,Chicago,26,Regular,Fish Taco,5,19.19,9.25,0.34,FALSE
+Grande Tacos,Dallas,35,Regular,Beef Taco,5,13.08,9.25,0.3,TRUE
+Urban Tacos,New York,48,Regular,Beef Taco,0,23.04,3,0.62,FALSE
+Spicy Taco House,San Diego,21,Regular,Veggie Taco,4,9.02,8,0.48,FALSE
+La Vida Taco,Houston,82,Regular,Beef Taco,4,19.2,8,1.59,FALSE
+Taco Haven,Phoenix,78,Regular,Beef Taco,1,23.05,4.25,2.55,FALSE
+Casa del Taco,San Antonio,66,Regular,Chicken Taco,2,24.54,5.5,1.27,FALSE
+Taco Haven,Dallas,50,Regular,Fish Taco,0,13.23,3,1.49,FALSE
+Urban Tacos,Austin,20,Large,Fish Taco,0,9.93,4.5,1.37,FALSE
+Urban Tacos,San Jose,80,Large,Veggie Taco,3,5.13,8.25,0.21,FALSE
+Grande Tacos,San Diego,11,Large,Beef Taco,3,11.23,8.25,3.29,TRUE
+El Taco Loco,Chicago,61,Regular,Chicken Taco,0,9.41,3,1,TRUE
+La Vida Taco,Dallas,39,Large,Fish Taco,2,19.24,7,2.3,FALSE
+Urban Tacos,Dallas,70,Large,Fish Taco,4,7.33,9.5,2.3,FALSE
+El Taco Loco,Phoenix,73,Regular,Chicken Taco,0,2.94,3,0.16,FALSE
+Grande Tacos,New York,58,Large,Chicken Taco,2,15.74,7,0.48,TRUE
+The Taco Stand,San Jose,35,Large,Fish Taco,3,12.87,8.25,1.63,FALSE
+The Taco Stand,Austin,14,Large,Beef Taco,3,11.53,8.25,4.26,TRUE
+Grande Tacos,New York,32,Large,Chicken Taco,3,11.05,8.25,0.94,FALSE
+Grande Tacos,Los Angeles,72,Large,Fish Taco,4,21.43,9.5,1.52,FALSE
+Urban Tacos,San Jose,58,Large,Veggie Taco,2,2,7,1.77,FALSE
+Casa del Taco,San Diego,13,Large,Fish Taco,0,10.99,4.5,4.96,TRUE
+Casa del Taco,New York,41,Regular,Veggie Taco,4,2.58,8,2.06,FALSE
+El Taco Loco,San Diego,12,Large,Beef Taco,3,16.62,8.25,2.11,TRUE
+Taco Time Express,Phoenix,70,Regular,Veggie Taco,3,14.47,6.75,0.97,FALSE
+Grande Tacos,Los Angeles,53,Large,Pork Taco,5,8.82,10.75,3.07,TRUE
+Taco Time Express,Houston,19,Regular,Veggie Taco,2,1.66,5.5,2.99,FALSE
+Taco Haven,San Antonio,84,Regular,Pork Taco,2,7.2,5.5,1.7,FALSE
+Grande Tacos,Dallas,54,Regular,Veggie Taco,4,20.2,8,1.3,FALSE
+Casa del Taco,Houston,61,Large,Pork Taco,4,11.6,9.5,3.82,TRUE
+Taco Fiesta,Austin,83,Large,Chicken Taco,5,24.07,10.75,2.23,FALSE
+Urban Tacos,Austin,65,Regular,Pork Taco,1,9.42,4.25,0.44,FALSE
+Urban Tacos,Dallas,50,Regular,Chicken Taco,3,7.04,6.75,0.86,FALSE
+Urban Tacos,San Antonio,61,Regular,Beef Taco,1,5.2,4.25,0.74,FALSE
+Urban Tacos,San Jose,81,Large,Fish Taco,5,22.69,10.75,1.01,TRUE
+Spicy Taco House,New York,45,Regular,Beef Taco,5,12.4,9.25,0.06,FALSE
+Casa del Taco,San Antonio,18,Large,Veggie Taco,5,16.61,10.75,0.27,FALSE
+Spicy Taco House,Houston,83,Regular,Pork Taco,5,20.81,9.25,2.85,FALSE
+Urban Tacos,San Jose,40,Regular,Veggie Taco,2,20.89,5.5,2.21,FALSE
+Taco Haven,Dallas,28,Regular,Chicken Taco,1,24.26,4.25,1.32,FALSE
+La Vida Taco,New York,78,Large,Beef Taco,2,13.87,7,1.42,FALSE
+Urban Tacos,Chicago,70,Large,Veggie Taco,0,16.31,4.5,2.72,FALSE
+Taco Fiesta,Houston,80,Large,Veggie Taco,5,23.98,10.75,1.09,FALSE
+El Taco Loco,Austin,66,Large,Beef Taco,3,23.22,8.25,2.75,FALSE
+El Taco Loco,Houston,36,Regular,Fish Taco,5,8.27,9.25,2.44,FALSE
+Taco Time Express,New York,20,Large,Fish Taco,5,10.62,10.75,2.52,FALSE
+Taco Time Express,Los Angeles,43,Regular,Veggie Taco,3,15.25,6.75,4.07,TRUE
+Casa del Taco,San Jose,16,Regular,Fish Taco,5,3.83,9.25,1.2,FALSE
+Urban Tacos,San Diego,20,Regular,Chicken Taco,1,13.15,4.25,4.85,TRUE
+Spicy Taco House,San Antonio,50,Large,Fish Taco,5,3.77,10.75,0.52,FALSE
+Casa del Taco,Phoenix,20,Large,Veggie Taco,1,10.14,5.75,1.13,FALSE
+La Vida Taco,Houston,12,Regular,Beef Taco,3,5.36,6.75,2.1,FALSE
+Taco Fiesta,Dallas,64,Large,Chicken Taco,0,23.97,4.5,0.51,FALSE
+El Taco Loco,New York,65,Large,Fish Taco,0,6,4.5,0.61,FALSE
+Urban Tacos,Phoenix,58,Regular,Fish Taco,1,15.2,4.25,4.98,TRUE
+Taco Haven,Dallas,62,Regular,Beef Taco,2,24.42,5.5,0.71,FALSE
+Taco Haven,San Diego,68,Regular,Beef Taco,3,3.76,6.75,0.97,FALSE
+Taco Time Express,Houston,64,Large,Beef Taco,0,14.15,4.5,0.16,FALSE
+Grande Tacos,San Diego,86,Regular,Beef Taco,2,12.86,5.5,1.14,FALSE
+Casa del Taco,Chicago,15,Regular,Veggie Taco,1,12.84,4.25,2.79,FALSE
+Spicy Taco House,Los Angeles,77,Large,Chicken Taco,2,3.36,7,0.13,FALSE
+Grande Tacos,Phoenix,65,Large,Veggie Taco,4,20.82,9.5,2.78,FALSE
+Casa del Taco,Dallas,50,Large,Chicken Taco,4,21.4,9.5,1.97,FALSE
+Grande Tacos,New York,29,Regular,Chicken Taco,1,1.38,4.25,1.3,TRUE
+Grande Tacos,Dallas,73,Regular,Fish Taco,2,24.73,5.5,2.8,TRUE
+Grande Tacos,Los Angeles,25,Large,Beef Taco,1,21.77,5.75,0.54,FALSE
+The Taco Stand,Phoenix,84,Regular,Pork Taco,0,13.39,3,1.71,FALSE
+El Taco Loco,Houston,22,Large,Beef Taco,2,17.19,7,2.04,FALSE
+Casa del Taco,San Antonio,51,Regular,Beef Taco,0,11.78,3,3.54,TRUE
+Grande Tacos,Phoenix,10,Large,Beef Taco,5,15.75,10.75,2.27,TRUE
+La Vida Taco,Chicago,16,Large,Veggie Taco,0,18.72,4.5,1.64,FALSE
+Taco Time Express,Los Angeles,42,Regular,Chicken Taco,3,2.69,6.75,2.56,FALSE
+Taco Time Express,Dallas,29,Regular,Veggie Taco,3,20.13,6.75,2.21,FALSE
+La Vida Taco,Chicago,22,Large,Pork Taco,1,12.5,5.75,4.43,TRUE
+Urban Tacos,San Antonio,64,Regular,Fish Taco,2,15.54,5.5,1.3,FALSE
+El Taco Loco,New York,53,Large,Chicken Taco,5,17.31,10.75,0.78,TRUE
+The Taco Stand,Austin,47,Large,Fish Taco,0,22.73,4.5,1.43,FALSE
+Spicy Taco House,Phoenix,76,Large,Veggie Taco,4,1.67,9.5,0.23,FALSE
+The Taco Stand,Los Angeles,64,Large,Beef Taco,3,16.69,8.25,1.71,FALSE
+Casa del Taco,Phoenix,20,Regular,Beef Taco,5,16.71,9.25,0.9,TRUE
+Taco Time Express,New York,63,Large,Veggie Taco,4,18.24,9.5,2.27,FALSE
+La Vida Taco,Phoenix,33,Regular,Chicken Taco,0,18.8,3,3.02,TRUE
+El Taco Loco,Dallas,12,Regular,Fish Taco,0,0.83,3,1.97,FALSE
+Taco Time Express,San Antonio,48,Large,Fish Taco,2,2.65,7,0.41,FALSE
+El Taco Loco,New York,13,Regular,Fish Taco,5,4.06,9.25,1.21,TRUE
+The Taco Stand,Houston,48,Large,Chicken Taco,3,10.84,8.25,0.35,FALSE
+Grande Tacos,San Jose,12,Large,Pork Taco,1,5.43,5.75,1.71,FALSE
+Taco Time Express,New York,11,Regular,Fish Taco,3,21.29,6.75,2.21,FALSE
+The Taco Stand,Phoenix,72,Large,Fish Taco,4,14.98,9.5,1.83,FALSE
+Grande Tacos,Houston,77,Regular,Fish Taco,4,8.24,8,0.32,TRUE
+Taco Time Express,San Jose,73,Large,Fish Taco,5,11.19,10.75,0.81,TRUE
+Taco Haven,San Jose,66,Regular,Pork Taco,1,14.9,4.25,2.05,FALSE
+Grande Tacos,Chicago,59,Large,Veggie Taco,3,20.09,8.25,2.53,FALSE
+Taco Haven,Phoenix,71,Regular,Chicken Taco,1,4.33,4.25,1.48,FALSE
+Taco Time Express,San Jose,40,Regular,Pork Taco,0,24.98,3,1.08,FALSE
+Casa del Taco,Chicago,74,Regular,Beef Taco,2,11.05,5.5,1.85,FALSE
+The Taco Stand,Houston,43,Large,Veggie Taco,0,19.37,4.5,2.79,TRUE
+The Taco Stand,San Antonio,16,Large,Fish Taco,0,24.38,4.5,2.34,FALSE
+El Taco Loco,Austin,74,Regular,Chicken Taco,5,3.39,9.25,0.62,FALSE
+Spicy Taco House,Phoenix,74,Large,Beef Taco,1,16.35,5.75,1.67,TRUE
+El Taco Loco,Houston,63,Regular,Chicken Taco,3,8.86,6.75,2.53,TRUE
+Urban Tacos,San Diego,56,Regular,Chicken Taco,4,10.83,8,0.68,FALSE
+Taco Time Express,Dallas,68,Large,Beef Taco,3,4.07,8.25,0.03,FALSE
+The Taco Stand,Los Angeles,53,Large,Fish Taco,1,11.13,5.75,1.18,FALSE
+Spicy Taco House,San Antonio,90,Large,Fish Taco,3,22.2,8.25,2.1,FALSE
+Casa del Taco,San Diego,45,Regular,Fish Taco,3,16.28,6.75,4.44,TRUE
+La Vida Taco,San Jose,61,Regular,Veggie Taco,0,1.41,3,1,FALSE
+Spicy Taco House,Austin,46,Regular,Beef Taco,4,14.02,8,1.56,FALSE
+Spicy Taco House,New York,79,Large,Chicken Taco,2,18.3,7,2.96,FALSE
+Taco Fiesta,San Diego,90,Large,Beef Taco,0,19.04,4.5,4.71,TRUE
+Urban Tacos,San Antonio,68,Large,Chicken Taco,5,24.73,10.75,1.7,FALSE
+The Taco Stand,San Antonio,54,Large,Veggie Taco,5,19.73,10.75,3.57,TRUE
+Spicy Taco House,Dallas,41,Regular,Veggie Taco,4,14.77,8,2.47,FALSE
+Grande Tacos,Los Angeles,64,Large,Beef Taco,0,2.02,4.5,2.67,FALSE
+Taco Haven,San Jose,57,Large,Pork Taco,4,13.21,9.5,1.18,FALSE
+La Vida Taco,San Jose,64,Large,Fish Taco,5,24.35,10.75,2.47,FALSE
+The Taco Stand,Chicago,68,Regular,Pork Taco,4,3.39,8,1.06,TRUE
+Taco Fiesta,Chicago,57,Regular,Pork Taco,3,3.2,6.75,1.11,FALSE
+Taco Fiesta,Austin,25,Large,Veggie Taco,2,7.93,7,1.46,FALSE
+Spicy Taco House,Chicago,63,Regular,Veggie Taco,2,5.78,5.5,2.46,FALSE
+Taco Fiesta,Los Angeles,54,Regular,Beef Taco,3,12.29,6.75,1.55,TRUE
+Casa del Taco,Dallas,87,Regular,Chicken Taco,4,16.09,8,3.81,TRUE
+Grande Tacos,Chicago,21,Large,Fish Taco,1,22.56,5.75,1.02,FALSE
+Grande Tacos,Phoenix,21,Regular,Beef Taco,4,15.94,8,2.31,FALSE
+The Taco Stand,Los Angeles,81,Regular,Chicken Taco,4,13.77,8,2.27,FALSE
+The Taco Stand,Houston,74,Regular,Beef Taco,5,23.44,9.25,0.9,TRUE
+Urban Tacos,Houston,84,Large,Beef Taco,4,15.37,9.5,1.21,FALSE
+Grande Tacos,New York,65,Regular,Fish Taco,0,21.56,3,1.59,TRUE
+El Taco Loco,Los Angeles,79,Regular,Veggie Taco,1,4.98,4.25,2.3,FALSE
+Urban Tacos,Dallas,17,Large,Chicken Taco,0,17.98,4.5,1.49,TRUE
+Casa del Taco,Chicago,51,Large,Fish Taco,0,1.77,4.5,1.2,TRUE
+La Vida Taco,Houston,75,Large,Beef Taco,2,1.99,7,1.39,FALSE
+El Taco Loco,San Jose,62,Regular,Beef Taco,2,14.07,5.5,1.76,FALSE
+Taco Haven,Austin,26,Large,Pork Taco,3,11.43,8.25,2.54,FALSE
+Taco Haven,Chicago,79,Regular,Chicken Taco,4,23.84,8,2.88,FALSE
+Grande Tacos,New York,69,Large,Chicken Taco,0,1.97,4.5,2.77,FALSE
+La Vida Taco,Phoenix,54,Regular,Pork Taco,4,7.39,8,0.48,FALSE
+La Vida Taco,Los Angeles,21,Large,Beef Taco,1,18.26,5.75,3,FALSE
+Taco Haven,San Antonio,50,Large,Veggie Taco,5,11.59,10.75,0.74,FALSE
+Casa del Taco,Houston,86,Large,Beef Taco,5,3.78,10.75,2.77,FALSE
+Grande Tacos,New York,32,Large,Pork Taco,5,17.73,10.75,2.29,FALSE
+El Taco Loco,Los Angeles,13,Large,Beef Taco,2,24.31,7,1.88,TRUE
+Casa del Taco,Dallas,11,Regular,Fish Taco,2,23.44,5.5,1.33,FALSE
+Taco Fiesta,Phoenix,34,Regular,Pork Taco,5,7.93,9.25,2.15,FALSE
+Grande Tacos,San Diego,45,Large,Pork Taco,1,0.67,5.75,2.95,FALSE
+Taco Time Express,Los Angeles,82,Large,Chicken Taco,4,5.25,9.5,3.69,TRUE
+La Vida Taco,San Antonio,18,Regular,Beef Taco,1,6.86,4.25,1.71,FALSE
+The Taco Stand,Phoenix,12,Large,Pork Taco,3,0.55,8.25,1.28,FALSE
+Taco Fiesta,San Diego,62,Large,Beef Taco,5,13.2,10.75,2.48,TRUE
+Taco Fiesta,Houston,45,Large,Pork Taco,3,8.25,8.25,1.18,FALSE
+El Taco Loco,San Antonio,38,Large,Beef Taco,1,5.32,5.75,1.65,TRUE
+El Taco Loco,New York,65,Regular,Pork Taco,5,23.41,9.25,2.52,FALSE
+El Taco Loco,San Jose,53,Regular,Veggie Taco,4,19.96,8,2.83,FALSE
+La Vida Taco,San Antonio,22,Large,Pork Taco,0,2.6,4.5,0.18,FALSE
+Taco Time Express,San Diego,26,Regular,Fish Taco,0,7.89,3,1.88,FALSE
+El Taco Loco,New York,16,Large,Fish Taco,3,2.85,8.25,2.26,FALSE
+La Vida Taco,San Antonio,68,Large,Fish Taco,3,22.06,8.25,1.86,FALSE
+Taco Fiesta,San Jose,52,Regular,Beef Taco,0,0.8,3,2.14,FALSE
+Taco Haven,San Antonio,75,Large,Veggie Taco,3,12.29,8.25,3.1,TRUE
+Taco Haven,Chicago,17,Regular,Veggie Taco,4,11.18,8,4.8,TRUE
+Casa del Taco,Phoenix,79,Regular,Chicken Taco,3,8.06,6.75,1.71,TRUE
+Taco Fiesta,Austin,28,Regular,Chicken Taco,4,20.57,8,1.68,FALSE
+Taco Time Express,San Diego,35,Regular,Beef Taco,2,5.14,5.5,1.43,FALSE
+Grande Tacos,San Antonio,84,Large,Pork Taco,2,10.76,7,0.81,TRUE
+Taco Fiesta,San Jose,10,Regular,Chicken Taco,3,15.79,6.75,0.72,FALSE
+Casa del Taco,Dallas,61,Regular,Beef Taco,2,0.74,5.5,1.79,TRUE
+El Taco Loco,Chicago,66,Regular,Pork Taco,2,1.58,5.5,0.09,FALSE
+Urban Tacos,Chicago,43,Regular,Veggie Taco,4,6.53,8,0.59,FALSE
+Urban Tacos,Los Angeles,27,Large,Beef Taco,2,23.43,7,0.92,FALSE
+Casa del Taco,San Diego,77,Large,Beef Taco,0,4.04,4.5,2.77,FALSE
+Taco Haven,Houston,58,Large,Veggie Taco,4,11.02,9.5,1.91,FALSE
+La Vida Taco,San Antonio,78,Large,Chicken Taco,2,6.56,7,3.15,TRUE
+Spicy Taco House,Austin,72,Regular,Beef Taco,3,19.88,6.75,3.07,TRUE
+The Taco Stand,Dallas,75,Large,Fish Taco,4,11.87,9.5,0.97,FALSE
+The Taco Stand,San Jose,70,Large,Pork Taco,3,16.13,8.25,3.95,TRUE
+Taco Fiesta,Houston,35,Large,Chicken Taco,3,5.86,8.25,1.28,FALSE
+La Vida Taco,Chicago,42,Regular,Chicken Taco,0,7.73,3,1.56,FALSE
+La Vida Taco,New York,75,Large,Fish Taco,3,11.95,8.25,1.23,FALSE
+Grande Tacos,San Diego,58,Regular,Chicken Taco,3,6.23,6.75,1.94,FALSE
+El Taco Loco,Phoenix,75,Regular,Veggie Taco,1,2.91,4.25,0.21,FALSE
+The Taco Stand,Houston,35,Large,Veggie Taco,2,18.76,7,2.31,FALSE
+Urban Tacos,Houston,27,Large,Beef Taco,2,7.41,7,1.04,FALSE
+Taco Time Express,San Antonio,11,Large,Pork Taco,1,21.7,5.75,0.68,FALSE
+Taco Haven,San Jose,76,Large,Fish Taco,2,19.9,7,1.57,TRUE
+Taco Time Express,Dallas,66,Large,Pork Taco,0,9.68,4.5,1.73,FALSE
+Urban Tacos,New York,55,Large,Chicken Taco,3,10.93,8.25,2.26,FALSE
+The Taco Stand,Phoenix,85,Regular,Pork Taco,0,23.09,3,0.46,FALSE
+La Vida Taco,San Antonio,83,Large,Fish Taco,1,23.74,5.75,0.19,FALSE
+Taco Haven,San Jose,52,Large,Veggie Taco,0,4.7,4.5,2.02,FALSE
+Taco Fiesta,San Antonio,13,Regular,Chicken Taco,0,22.83,3,1.16,FALSE
+Taco Haven,Phoenix,18,Large,Beef Taco,2,13.2,7,0.52,FALSE
+Taco Time Express,Chicago,26,Large,Fish Taco,5,2.18,10.75,2.87,FALSE
+Spicy Taco House,Houston,65,Large,Chicken Taco,4,14.59,9.5,0.93,FALSE
+The Taco Stand,San Jose,35,Regular,Chicken Taco,3,2.07,6.75,1.2,FALSE
+Taco Haven,Austin,82,Large,Fish Taco,3,14.62,8.25,2.21,FALSE
+Grande Tacos,San Diego,60,Regular,Fish Taco,1,4.9,4.25,1.85,FALSE
+Grande Tacos,Dallas,82,Regular,Fish Taco,5,23.67,9.25,0.72,FALSE
+Urban Tacos,Austin,18,Regular,Fish Taco,3,24.81,6.75,1.66,FALSE
+El Taco Loco,Los Angeles,51,Large,Fish Taco,1,6.69,5.75,2.53,TRUE
+Taco Fiesta,Los Angeles,69,Large,Veggie Taco,5,10.28,10.75,0.97,TRUE
+Taco Fiesta,Phoenix,27,Large,Fish Taco,3,11.8,8.25,0.41,TRUE
+Taco Haven,San Jose,70,Large,Chicken Taco,1,21.04,5.75,1.82,FALSE
+Urban Tacos,Los Angeles,60,Regular,Beef Taco,5,19.21,9.25,2.03,FALSE
+Grande Tacos,San Diego,37,Regular,Pork Taco,1,11.33,4.25,0.24,TRUE
+The Taco Stand,Los Angeles,49,Large,Beef Taco,4,0.61,9.5,2.32,FALSE
+Taco Haven,Houston,40,Regular,Beef Taco,0,10.83,3,2.97,FALSE
+Taco Haven,Los Angeles,22,Regular,Chicken Taco,0,10.68,3,0.32,FALSE
+Casa del Taco,Austin,34,Regular,Pork Taco,3,23.5,6.75,0.36,FALSE
+El Taco Loco,San Diego,32,Regular,Fish Taco,5,8.25,9.25,1.95,TRUE
+Taco Haven,Los Angeles,89,Large,Beef Taco,0,22.19,4.5,2.06,TRUE
+La Vida Taco,San Jose,78,Regular,Veggie Taco,0,15.2,3,2.94,FALSE
+Taco Time Express,Chicago,32,Large,Fish Taco,0,8.71,4.5,3.04,TRUE
+Grande Tacos,Dallas,39,Regular,Chicken Taco,0,15.6,3,2.69,FALSE
+Taco Haven,Dallas,89,Regular,Beef Taco,1,9.68,4.25,0.89,FALSE
+Taco Time Express,Houston,14,Regular,Pork Taco,3,18.61,6.75,0.99,FALSE
+Casa del Taco,New York,63,Large,Beef Taco,1,21.25,5.75,1.66,TRUE
+Taco Haven,Austin,41,Regular,Pork Taco,3,13.28,6.75,0.55,FALSE
+Taco Fiesta,Los Angeles,18,Regular,Beef Taco,5,24.8,9.25,2.81,FALSE
+El Taco Loco,Chicago,80,Regular,Chicken Taco,4,2.42,8,3.62,TRUE
+Spicy Taco House,Houston,64,Regular,Pork Taco,1,7.93,4.25,1.73,FALSE
+Taco Haven,Phoenix,20,Large,Fish Taco,3,4.61,8.25,1.32,FALSE
+La Vida Taco,Dallas,71,Regular,Fish Taco,3,21.42,6.75,2.28,FALSE
+La Vida Taco,Austin,80,Regular,Veggie Taco,3,11.86,6.75,2.27,TRUE
+The Taco Stand,San Antonio,19,Large,Chicken Taco,5,12,10.75,0.46,FALSE
+Taco Fiesta,New York,57,Large,Fish Taco,3,23.54,8.25,2.91,FALSE
+Taco Time Express,San Jose,85,Regular,Fish Taco,0,24.82,3,0.37,FALSE
+Spicy Taco House,Houston,42,Large,Pork Taco,5,12.47,10.75,2.07,FALSE
+Taco Fiesta,Dallas,41,Regular,Fish Taco,0,23.08,3,1.08,FALSE
+Taco Fiesta,Chicago,87,Large,Chicken Taco,2,6.56,7,2.89,TRUE
+Spicy Taco House,New York,21,Large,Fish Taco,5,14.86,10.75,4.5,TRUE
+Taco Haven,Dallas,64,Large,Veggie Taco,4,24.21,9.5,1.98,FALSE
+La Vida Taco,Phoenix,21,Regular,Pork Taco,2,20.45,5.5,0.81,FALSE
+Taco Time Express,Phoenix,31,Large,Beef Taco,0,2.21,4.5,2.09,FALSE
+Taco Time Express,Phoenix,31,Regular,Veggie Taco,1,17.75,4.25,0.99,TRUE
+The Taco Stand,Los Angeles,82,Regular,Chicken Taco,1,1.95,4.25,0.55,FALSE
+Taco Haven,Phoenix,66,Regular,Chicken Taco,0,7.68,3,1.13,FALSE
+El Taco Loco,San Diego,84,Regular,Fish Taco,3,16.98,6.75,0.3,FALSE
+Urban Tacos,New York,15,Regular,Chicken Taco,4,19.9,8,1.13,FALSE
+Urban Tacos,San Jose,53,Large,Veggie Taco,2,17.21,7,1.03,FALSE
+Taco Haven,San Diego,58,Regular,Veggie Taco,2,20.25,5.5,0.01,FALSE
+Taco Time Express,Chicago,87,Regular,Pork Taco,2,23.8,5.5,3.76,TRUE
+Casa del Taco,San Jose,70,Large,Chicken Taco,0,24.66,4.5,2.87,FALSE
+Casa del Taco,New York,56,Regular,Veggie Taco,5,11.39,9.25,1.82,FALSE
+La Vida Taco,Los Angeles,64,Large,Beef Taco,5,9.93,10.75,1.82,FALSE
+Spicy Taco House,Austin,74,Regular,Chicken Taco,3,20.02,6.75,0.9,FALSE
+The Taco Stand,San Jose,67,Regular,Fish Taco,5,13.75,9.25,0.73,FALSE
+El Taco Loco,Los Angeles,13,Regular,Veggie Taco,3,19.27,6.75,0.66,FALSE
+Grande Tacos,Los Angeles,78,Large,Beef Taco,5,8.65,10.75,0.67,FALSE
+La Vida Taco,Los Angeles,53,Large,Fish Taco,5,16.23,10.75,1.69,FALSE
+Taco Time Express,Houston,43,Regular,Veggie Taco,0,3.23,3,1.7,TRUE
+Taco Haven,Los Angeles,57,Regular,Veggie Taco,3,14.63,6.75,0.01,FALSE
+La Vida Taco,Austin,59,Large,Veggie Taco,2,20.04,7,2.8,FALSE
+The Taco Stand,San Antonio,38,Regular,Fish Taco,0,13.69,3,1.38,FALSE
+Urban Tacos,Houston,68,Regular,Pork Taco,2,4.07,5.5,2,FALSE
+Taco Fiesta,San Antonio,49,Regular,Veggie Taco,5,14.56,9.25,1.89,FALSE
+Grande Tacos,Phoenix,17,Large,Chicken Taco,5,5.66,10.75,3.66,TRUE
