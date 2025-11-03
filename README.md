@@ -1,5 +1,12 @@
 # Outlier Detection in Categorical or Mixed Datasets
 
+by Felippe P. Ferreira, and Robson L. F. Cordeiro
+
+## Abstract
+
+> ....
+
+
 ## Overview
 
 This project provides a comprehensive survey and analysis of strategies for outlier detection in datasets that contain categorical or mixed (categorical and numerical) features. While most outlier detection algorithms are designed for numerical data, a significant portion of real-world datasets, such as 55% of those in the UCI repository, include categorical features. This research addresses the critical question: What is the most effective way to process categorical data to identify outliers?
@@ -10,6 +17,52 @@ The study evaluates three primary strategies through extensive experimentation o
 3.  Removing categorical features entirely and using only numerical data.
 
 Based on the findings, this work also introduces a predictive model that helps determine the most suitable algorithm type (categorical or numerical) for a new dataset.
+
+## Directory Tree
+
+A summary of the file structure can be found in the following directory tree.
+
+```bash
+CategoricalDatasets
+├── files                  \\ Main container for all project assets.
+│   ├── code               \\ Contains all source code and analysis scripts.
+│   │   └── experiments    \\ Jupyter notebooks for specific analyses.
+│   │       ├── BoxPlot.ipynb \\ Notebook for generating box plots of method performance.
+│   │       ├── Critical_Difference.ipynb \\ Notebook for creating critical difference diagrams.
+│   │       ├── PairPlot.ipynb \\ Notebook for generating pair plots for rank comparison.
+│   │       └── Ranking.ipynb \\ Notebook for calculating and saving algorithm rankings.
+│   │   └── preprocessing    \\ Jupyter notebooks for prepare datasets before algorithms processing.
+│   │
+│   ├── database           \\ Stores all datasets used in the experiments.
+│   │   └── experiments          	\\ Contains pre-processed datasets.
+│   │       ├── finance 			\\ Datasets from finance tasks.
+│   │       ├── medicine     		\\ Datasets from medicine tasks.
+│   │       ├── network_security    \\ Datasets from network_security tasks.
+│   │       ├── not_grouped         \\ Other dataset source.
+│   │       ├── sciency          	\\ Datasets from sciency tasks.
+│   │       └── synthetic          	\\ Datasets from synthetic tasks.
+│   │   └── prediction_model        \\ Datasets to decision tree train.
+│   │
+│   └── results            \\ Stores all output files from the experiments.
+│       └── decision_tree  \\ Results from decision tree model.
+│       └── experiments    \\ Results corresponding to the notebooks in the code folder.
+│           ├── algorithms \\ Results for each algorithm.
+│           │   ├── AVF      \\ Results for the AVF algorithm.
+│           │   ├── LOF      \\ Results for the LOF algorithm.
+│           │   ├── KNN      \\ Results for the KNN algorithm.
+│           │   └── ...       \\ Other algorithm result folders.
+│           │
+│           ├── conversion_methods \\ Boxplots from conversion methods.
+│           │
+│           └── plot       \\ Generated plots and figures from the analyses.
+│               ├── BOXPLOT  \\ Output images for box plots.
+│               ├── PAIRPLOT \\ Output images for pair plots.
+│               └── ...       \\ Other plot images.
+│           │
+│           └── tables       \\ Generated tables from results of algorithms.
+│
+└── README.md               \\ Project overview, setup instructions, and documentation.
+```
 
 ## Key Contributions
 
