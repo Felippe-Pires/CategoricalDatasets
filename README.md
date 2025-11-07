@@ -28,9 +28,12 @@ CategoricalDatasets
 │   ├── code               \\ Contains all source code and analysis scripts.
 │   │   └── experiments    \\ Jupyter notebooks for specific analyses.
 │   │       ├── BoxPlot.ipynb \\ Notebook for generating box plots of method performance.
-│   │       ├── Critical_Difference.ipynb \\ Notebook for creating critical difference diagrams.
+│   │       ├── Compare_Results.py \\ Notebook for grouping the results of the algorithms on the selected datasets.
+│   │       ├── Critical_Difference.py \\ Script for creating critical difference diagrams.
 │   │       ├── PairPlot.ipynb \\ Notebook for generating pair plots for rank comparison.
-│   │       └── Ranking.ipynb \\ Notebook for calculating and saving algorithm rankings.
+│   │       ├── Ranking.ipynb \\ Notebook for calculating and saving algorithm rankings.
+│   │       └── decision_tree \\ Notebook for calculating and saving algorithm rankings.
+│   │           └── Decision_Tree.ipynb \\ Notebook for generating decision trees for numerical or categorical algorithm selection.
 │   │   └── preprocessing    \\ Jupyter notebooks for prepare datasets before algorithms processing.
 │   │
 │   ├── database           \\ Stores all datasets used in the experiments.
@@ -86,6 +89,24 @@ Given the prevalence of numerical algorithms, we investigated the impact of diff
 
 * **Methods Tested:** The study compared four different conversion techniques alongside the alternative of simply removing the categorical features.
 * **Result:** The **Correspondence Analysis** method was found to yield the best results, positively influencing the effectiveness of numerical outlier detection algorithms.
+
+## Execution Instructions
+
+This repository contains the datasets used in the research. The initial versions of the datasets used are in the **files/datasets** directory, organized by context in which they were created. As an initial step to reproduce the experiments, it is necessary to run the preprocessing scripts from the **files/code/preprocessing** directory:
+* **Prepare_dataset.ipynb**
+* **Converter.ipynb**.
+
+The first script applies data normalization, removes duplicate instances, and downsampling if the outlier instance rate exceeds **5%** of the data. Subsequently, the **Converter.ipynb** script creates versions of the datasets containing only numerical features, allowing numerical algorithms to utilize these datasets. After both scripts have run, the datasets can be applied to outlier detection algorithms.
+
+Once you have the results from the outlier detection algorithms on the datasets in the **file/datasets** directory, which should be stored in the **files/results/experiments/algorithms** directory, separated according to the algorithm name, the scripts should be executed in the following order:
+* Compare_Results.ipynb
+* Ranking_Table.ipynb
+* Pair_Plot.ipynb
+* Box_Plot.ipynb
+
+The **Compare_Results.ipynb** file compiles the algorithm results and produces the CDD diagrams: general and clustered. From the combination of results, the **Ranking_Table.ipynb** file generates the ranking tables of the algorithms, presenting the average results of each one. The last two files, **Pair_Plot.ipynb** and **Box_Plot.ipynb**, produce the data representations as the file names suggest.
+
+The plots in the **Pair_Plot.ipynb** file relate the results of the detection algorithms and the metrics used in this research (*AUC*, *P@n*, *Average Precision*, *Max-F1*). The boxplots illustrate the performance of the algorithms in relation to the strategies for converting categorical features into numerical features (*Correspondence Analysis*, *One-Hot Encoding*, *IDF* (Inverse Document Frequency), *Pivot-Based*, and removal of categorical features).
 
 ## Keywords
 * Categorical Dataset
