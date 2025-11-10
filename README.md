@@ -93,16 +93,29 @@ Given the prevalence of numerical algorithms, we investigated the impact of diff
 ## Execution Instructions
 
 This repository contains the datasets used in the research. The initial versions of the datasets used are in the **files/datasets** directory, organized by context in which they were created. As an initial step to reproduce the experiments, it is necessary to run the preprocessing scripts from the **files/code/preprocessing** directory:
+
+
 * **Prepare_dataset.ipynb**
 * **Converter.ipynb**.
 
 The first script applies data normalization, removes duplicate instances, and downsampling if the outlier instance rate exceeds **5%** of the data. Subsequently, the **Converter.ipynb** script creates versions of the datasets containing only numerical features, allowing numerical algorithms to utilize these datasets. After both scripts have run, the datasets can be applied to outlier detection algorithms.
 
-Once you have the results from the outlier detection algorithms on the datasets in the **file/datasets** directory, which should be stored in the **files/results/experiments/algorithms** directory, separated according to the algorithm name, the scripts should be executed in the following order:
-* Compare_Results.ipynb
-* Ranking_Table.ipynb
-* Pair_Plot.ipynb
-* Box_Plot.ipynb
+Once you have the results from the outlier detection algorithms on the datasets in the **file/datasets** directory, which should be stored in the **files/results/experiments/algorithms** directory, separated according to the algorithm name.
+
+For each .csv result file in the **files/results/experiments/algorithms** directory, there must be a structure with the following header:
+
+```sh
+dataset;parameter;algorithm;auc;r_precision;adj_r_precision;average_precision;adj_average_precision;max_f1;adj_max_f1
+```
+
+Each line in this file represents a selected configuration for the algorithm on a dataset. The metrics illustrate the average result of the algorithm on the dataset, and there are also adjusted versions of the metrics, considering the imbalance characteristics of the datasets. Examples of file patterns have been added to the AVF and DeepSVDD algorithm directories.
+
+To grouping the results, the scripts in **files/code/experiments** should be executed in the following order:
+
+* **Compare_Results.ipynb**
+* **Ranking_Table.ipynb**
+* **Pair_Plot.ipynb**
+* **Box_Plot.ipynb**
 
 The **Compare_Results.ipynb** file compiles the algorithm results and produces the CDD diagrams: general and clustered. From the combination of results, the **Ranking_Table.ipynb** file generates the ranking tables of the algorithms, presenting the average results of each one. The last two files, **Pair_Plot.ipynb** and **Box_Plot.ipynb**, produce the data representations as the file names suggest.
 
