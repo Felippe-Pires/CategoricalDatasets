@@ -39,12 +39,13 @@ CategoricalDatasets
 │   │       	└── Ranking.ipynb 			\\ Notebook for calculating and saving algorithm rankings.
 │   │       └── decision_tree 			\\ Notebook for calculating and saving algorithm rankings.
 │   │           └── Decision_Tree.ipynb \\ Notebook for generating decision trees for numerical or categorical algorithm selection.
+│   │
+│   │   	└── preprocessing   		\\ Jupyter notebooks for prepare datasets before algorithms processing.
+│   │
 │   │       └── processing_detection	\\ Directory containing scripts for processing datasets using outlier detection algorithms.
 │   │       	├── Executor.py 		\\ Scripts to coordinate the execution of algorithms
 │   │       	├── Processing_number.py \\ Scripts for processing datasets with numerical algorithms
 │   │       	└── Processing.py 		\\ Scripts for processing datasets with categorical algorithms
-
-│   │   └── preprocessing    \\ Jupyter notebooks for prepare datasets before algorithms processing.
 │   │
 │   ├── database           			\\ Stores all datasets used in the experiments.
 │   │   └── based_experiments      	\\ Contains pre-processed datasets.
