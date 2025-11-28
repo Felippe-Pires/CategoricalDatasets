@@ -4,7 +4,24 @@ by Felippe P. Ferreira, and Robson L. F. Cordeiro
 
 ## Abstract
 
-> ....
+> Outlier detection is essential in different domains; however, identifying the best
+way to detect outliers is a challenge. Although most algorithms are designed for
+numerical data, many real-world datasets contain categorical or mixed features.
+Therefore, is there a more effective way to process categorical data to detect out-
+liers? This survey evaluates three strategies: (i) applying categorical algorithms
+directly, (ii) converting categorical features into numerical values, and (iii) remov-
+ing categorical features. Through experiments with 47 datasets, subjected to 14
+outlier detection algorithms, the results show that categorical algorithms often
+outperform numerical ones, represented mainly by the CBRW algorithm. However,
+numerical algorithms such as iForest and KNN achieve better results in certain
+contexts, being influenced by the characteristics of the dataset. Based on these
+findings, we propose a predictive model that achieves 80% accuracy in iden-
+tifying whether categorical or numerical algorithms are more suitable for new
+datasets. Approaches such as converting categorical data to numerical values and
+removing categorical features are also compared, showing that algorithms using
+the Correspondence Analysis method yield better results. This survey provides
+comparative insights, methodological guidance, and predictive support for outlier
+detection in categorical and mixed datasets.
 
 ## Overview
 
