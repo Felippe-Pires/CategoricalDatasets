@@ -26,12 +26,12 @@ from pyod.models.deep_svdd import DeepSVDD
 
 # List of dataset repository roots to process (relative paths expected)
 datasets = [
-    r'../../../datasets/experiments/finance/processed/number',
-    r'../../../datasets/experiments/medicine/processed/number',
-    r'../../../datasets/experiments/network_security/processed/number',
-    r'../../../datasets/experiments/not_grouped/processed/number',
-    r'../../../datasets/experiments/sciency/processed/number',
-    r'../../../datasets/experiments/synthetic/processed/number',
+    r'../../../datasets/base_experiments/finance/processed/number',
+    r'../../../datasets/base_experiments/medicine/processed/number',
+    r'../../../datasets/base_experiments/network_security/processed/number',
+    r'../../../datasets/base_experiments/not_grouped/processed/number',
+    r'../../../datasets/base_experiments/sciency/processed/number',
+    r'../../../datasets/base_experiments/synthetic/processed/number',
 ]
 
 # Parameter grid used in experiments (kept from original script)

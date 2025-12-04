@@ -25,12 +25,12 @@ algorithms = [
 
 # Repositories to iterate (use list to preserve order).
 repositories = [
-    r'../../../datasets/experiments/finance/processed',
-    r'../../../datasets/experiments/medicine/processed',
-    r'../../../datasets/experiments/network_security/processed',
-    r'../../../datasets/experiments/not_grouped/processed',
-    r'../../../datasets/experiments/sciency/processed',
-    r'../../../datasets/experiments/synthetic/processed',
+    r'../../../datasets/base_experiments/finance/processed',
+    r'../../../datasets/base_experiments/medicine/processed',
+    r'../../../datasets/base_experiments/network_security/processed',
+    r'../../../datasets/base_experiments/not_grouped/processed',
+    r'../../../datasets/base_experiments/sciency/processed',
+    r'../../../datasets/base_experiments/synthetic/processed',
 ]
 
 

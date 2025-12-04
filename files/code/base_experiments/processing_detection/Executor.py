@@ -13,12 +13,12 @@ from typing import List
 
 # List of dataset repositories to iterate
 datasets = [
-    r'../../../datasets/experiments/finance/processed/number',
-    r'../../../datasets/experiments/medicine/processed/number',
-    r'../../../datasets/experiments/network_security/processed/number',
-    r'../../../datasets/experiments/not_grouped/processed/number',
-    r'../../../datasets/experiments/sciency/processed/number',
-    r'../../../datasets/experiments/synthetic/processed/number',
+    r'../../../datasets/base_experiments/finance/processed/number',
+    r'../../../datasets/base_experiments/medicine/processed/number',
+    r'../../../datasets/base_experiments/network_security/processed/number',
+    r'../../../datasets/base_experiments/not_grouped/processed/number',
+    r'../../../datasets/base_experiments/sciency/processed/number',
+    r'../../../datasets/base_experiments/synthetic/processed/number',
 ]
 
 models_to_run = ['KNN', 'LOF', 'iForest', 'DeepSVDD', 'McCatch', 'ABOD',]

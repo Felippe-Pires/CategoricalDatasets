@@ -35,66 +35,6 @@ The study evaluates three primary strategies through extensive experimentation o
 
 Based on the findings, this work also introduces a predictive model that helps determine the most suitable algorithm type (categorical or numerical) for a new dataset.
 
-## Directory Tree
-
-A summary of the file structure can be found in the following directory tree.
-
-```bash
-CategoricalDatasets
-├── files                  			\\ Main container for all project assets.
-│   ├── code               			\\ Contains all source code and analysis scripts.
-│   │	└── algorithms				\\ Source code of the algorithms used in the research.
-│   │		├── java
-│   │		└── python
-│   │
-│   │   └── based_experiments   		\\ Jupyter notebooks for specific analyses.
-│   │       └── analyses					\\ Directory containing scripts for analyzing the results of outlier detection algorithm processing.
-│   │       	├── BoxPlot.ipynb 			\\ Notebook for generating box plots of method performance.
-│   │       	├── Compare_Results.py 		\\ Notebook for grouping the results of the algorithms on the selected datasets.
-│   │       	├── Critical_Difference.py 	\\ Script for creating critical difference diagrams.
-│   │       	├── PairPlot.ipynb 			\\ Notebook for generating pair plots for rank comparison.
-│   │       	└── Ranking.ipynb 			\\ Notebook for calculating and saving algorithm rankings.
-│   │       └── decision_tree 			\\ Notebook for calculating and saving algorithm rankings.
-│   │           └── Decision_Tree.ipynb \\ Notebook for generating decision trees for numerical or categorical algorithm selection.
-│   │
-│   │   	└── preprocessing   		\\ Jupyter notebooks for prepare datasets before algorithms processing.
-│   │
-│   │       └── processing_detection	\\ Directory containing scripts for processing datasets using outlier detection algorithms.
-│   │       	├── Executor.py 		\\ Scripts to coordinate the execution of algorithms
-│   │       	├── Processing_number.py \\ Scripts for processing datasets with numerical algorithms
-│   │       	└── Processing.py 		\\ Scripts for processing datasets with categorical algorithms
-│   │
-│   ├── database           			\\ Stores all datasets used in the experiments.
-│   │   └── based_experiments      	\\ Contains pre-processed datasets.
-│   │       ├── finance 			\\ Datasets from finance tasks.
-│   │       ├── medicine     		\\ Datasets from medicine tasks.
-│   │       ├── network_security    \\ Datasets from network_security tasks.
-│   │       ├── not_grouped         \\ Other dataset source.
-│   │       ├── sciency          	\\ Datasets from sciency tasks.
-│   │       └── synthetic          	\\ Datasets from synthetic tasks.
-│   │   └── prediction_model        \\ Datasets to decision tree train.
-│   │
-│   └── results            	\\ Stores all output files from the experiments.
-│       └── decision_tree  	\\ Results from decision tree model.
-│       └── experiments    	\\ Results corresponding to the notebooks in the code folder.
-│           ├── algorithms 	\\ Results for each algorithm.
-│           │   ├── AVF     \\ Results for the AVF algorithm.
-│           │   ├── LOF     \\ Results for the LOF algorithm.
-│           │   ├── KNN     \\ Results for the KNN algorithm.
-│           │   └── ...     \\ Other algorithm result folders.
-│           │
-│           ├── conversion_methods \\ Boxplots from conversion methods.
-│           │
-│           └── plot       		\\ Generated plots and figures from the analyses.
-│               ├── BOXPLOT  	\\ Output images for box plots.
-│               ├── PAIRPLOT 	\\ Output images for pair plots.
-│               └── ...       	\\ Other plot images.
-│           │
-│           └── tables       	\\ Generated tables from results of algorithms.
-│
-└── README.md               \\ Project overview, setup instructions, and documentation.
-```
-
 ## Key Contributions
 
 This research offers three main contributions to the field of outlier detection:
@@ -120,6 +60,100 @@ Given the prevalence of numerical algorithms, we investigated the impact of diff
 
 -   **Methods Tested:** The study compared four different conversion techniques alongside the alternative of simply removing the categorical features.
 -   **Result:** The **Correspondence Analysis** method was found to yield the best results, positively influencing the effectiveness of numerical outlier detection algorithms.
+
+## Directory Tree
+
+A summary of the file structure can be found in the following directory tree.
+
+```bash
+CategoricalDatasets
+├── files                  			\\ Main container for all project assets.
+│   ├── code               			\\ Contains all source code and analysis scripts.
+│   │	└── algorithms				\\ Source code of the algorithms used in the research.
+│   │		├── java
+│   │		└── python
+│   │
+│   │   └── base_experiments   				\\ Jupyter notebooks for specific analyses.
+│   │       └── analyses					\\ Directory containing scripts for analyzing the results of outlier detection algorithm processing.
+│   │       	├── BoxPlot.ipynb 			\\ Notebook for generating box plots of method performance.
+│   │       	├── Compare_Results.py 		\\ Notebook for grouping the results of the algorithms on the selected datasets.
+│   │       	├── Critical_Difference.py 	\\ Script for creating critical difference diagrams.
+│   │       	├── PairPlot.ipynb 			\\ Notebook for generating pair plots for rank comparison.
+│   │       	└── Ranking.ipynb 			\\ Notebook for calculating and saving algorithm rankings.
+│   │
+│   │   	└── preprocessing   		\\ Jupyter notebooks for prepare datasets before algorithms processing.
+│   │
+│   │       └── processing_detection	\\ Directory containing scripts for processing datasets using outlier detection algorithms.
+│   │       	├── Executor.py 		\\ Scripts to coordinate the execution of algorithms
+│   │       	├── Processing_number.py \\ Scripts for processing datasets with numerical algorithms
+│   │       	└── Processing.py 		\\ Scripts for processing datasets with categorical algorithms
+│   │
+│   │   └── prediction_model 			\\ Notebook for calculating and saving algorithm rankings.
+│   │       └── Prediction_Model.ipynb  \\ Notebook for generating decision trees for numerical or categorical algorithm selection.
+│   │
+│   ├── database           			\\ Stores all datasets used in the experiments.
+│   │   └── base_experiments      	\\ Contains pre-processed datasets.
+│   │       ├── finance 			\\ Datasets from finance tasks.
+│   │       ├── medicine     		\\ Datasets from medicine tasks.
+│   │       ├── network_security    \\ Datasets from network_security tasks.
+│   │       ├── not_grouped         \\ Other dataset source.
+│   │       ├── sciency          	\\ Datasets from sciency tasks.
+│   │       └── synthetic          	\\ Datasets from synthetic tasks.
+│   │   └── prediction_model        \\ Datasets to decision tree train.
+│   │
+│   └── results            	\\ Stores all output files from the experiments.
+│       └── prediction_model  	\\ Results from decision tree model.
+│       └── base_experiments    	\\ Results corresponding to the notebooks in the code folder.
+│           ├── algorithms 	\\ Results for each algorithm.
+│           │   ├── AVF     \\ Results for the AVF algorithm.
+│           │   ├── LOF     \\ Results for the LOF algorithm.
+│           │   ├── KNN     \\ Results for the KNN algorithm.
+│           │   └── ...     \\ Other algorithm result folders.
+│           │
+│           ├── conversion_methods \\ Boxplots from conversion methods.
+│           │
+│           └── plot       		\\ Generated plots and figures from the analyses.
+│               ├── BOXPLOT  	\\ Output images for box plots.
+│               ├── PAIRPLOT 	\\ Output images for pair plots.
+│               └── ...       	\\ Other plot images.
+│           │
+│           └── tables       	\\ Generated tables from results of algorithms.
+│
+└── README.md               \\ Project overview, setup instructions, and documentation.
+```
+
+## Sections
+
+The project sections were divided according to the experiments performed. To facilitate locating the information, a brief description of the information stored in the directories is provided below:
+
+### > code
+
+This section is for storing the code used in the project. To organize the source code, two main subdirectories were created: **algorithms** and **base_experiments**.
+
+- **algorithms**
+	- This directory stores the source code for some of the algorithms used in the research. There are versions of the algorithms in Java and others in Python. The remaining algorithms were obtained from external libraries. The algorithms used are described in __Section 4.2 - Algorithms Selection__.
+
+- **base_experiments**
+	- This directory contains: a set of codes that perform the experiments described in this research, as described in __Section 4 - Methodology__ of the related research article, and detailed in __Section 5- Experiments__ of the same article.
+
+    -> preprocessing: scripts for preparing the datasets before processing.
+
+    -> processing_detection: scripts for processing the datasets using detection algorithms.
+
+    -> analysis: scripts for analyzing the processing results. The analyses performed are: Critical Difference Diagram; Pair Plot Analysis; and Ranking Tables. (__Section 5.1 - Categorical Dataset Processing__ of the article)
+
+### > datasets
+
+This section is dedicated to storing the datasets used in this research. The list of datasets for the base experiments is presented in __Section 4.1 - Datasets Selection__, and the datasets used in the predictive model are listed in __Section 5.3 - Approaches to Processing Categorical Features in
+Numerical Algorithms__ of the article.
+
+### > prediction_model
+
+This section is for storing the script responsible for training the predictive model, and for subsequent validation. The predictive model is described in __Section 4.4 - Predictive Model for Datasets with Outliers__ of the article, and its results are presented in __Section 5.2 - Predictive Model for Datasets with Outliers__.
+
+### > result
+
+Output directory for scripts in the **base_experiments** and **prediction_model** directories.
 
 ## Execution Instructions
 
