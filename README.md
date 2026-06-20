@@ -90,6 +90,8 @@ CategoricalDatasets
 │   │
 │   │   └── prediction_model 			\\ Notebook for calculating and saving algorithm rankings.
 │   │       └── Prediction_Model.ipynb  \\ Notebook for generating decision trees for numerical or categorical algorithm selection.
+│   │   └── runtime_scalability 		\\ Scripts to evaluate the efficiency and scalability of the algorithms
+│   │       └── run_runtime_benchmark.py\\ Script for running the efficiency and scalability benchmark, with plot generation.
 │   │
 │   ├── database           			\\ Stores all datasets used in the experiments.
 │   │   └── base_experiments      	\\ Contains pre-processed datasets.
@@ -103,6 +105,7 @@ CategoricalDatasets
 │   │
 │   └── results            	\\ Stores all output files from the experiments.
 │       └── prediction_model  	\\ Results from decision tree model.
+│       └── run_scalability  	\\ Results from efficiency and scalability.
 │       └── base_experiments    	\\ Results corresponding to the notebooks in the code folder.
 │           ├── algorithms 	\\ Results for each algorithm.
 │           │   ├── AVF     \\ Results for the AVF algorithm.
