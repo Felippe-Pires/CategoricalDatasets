@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Runtime benchmark: CBRW, SDRW, IForest (PyOD) and KNN (PyOD).
 
@@ -15,8 +14,6 @@ Dependencies (venv):
   pip install -r requirements.txt
   pip install coupled-biased-random-walks --no-deps   # CBRW (PyPI)
 """
-
-from __future__ import annotations
 
 import argparse
 import contextlib
